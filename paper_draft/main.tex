@@ -1,0 +1,61 @@
+\documentclass{article}
+
+% NEURIPS STYLE
+\usepackage[final,main]{neurips_2025}
+
+% STANDARD PACKAGES
+\usepackage[utf8]{inputenc} % allow utf-8 input
+\usepackage[T1]{fontenc}    % use 8-bit T1 fonts
+\usepackage{url}            % simple URL typesetting
+\usepackage{booktabs}       % professional-quality tables
+\usepackage{amsfonts}       % blackboard math symbols
+\usepackage{nicefrac}       % compact symbols for 1/2, etc.
+\usepackage{microtype}      % microtypography
+\usepackage{xcolor}         % colors
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{xspace}
+\usepackage{enumitem}
+\usepackage{multirow}
+
+% HYPERREF (Must be loaded before cleveref, usually last)
+\usepackage[hidelinks]{hyperref}
+
+% IMPORT COMMAND FILES
+\input{commands/math}
+\input{commands/general}
+\input{commands/macros}
+
+% CLEVEREF (Must be loaded after amsmath and hyperref)
+\usepackage[noabbrev,capitalize]{cleveref}
+
+\title{Semantic Interference: Polysemy Attenuates Cross-Lingual Embedding Alignment}
+
+\author{
+  Haokun Liu \\
+  Hypogenic AI Lab \\
+  \texttt{haokun@hypogenic.ai}
+}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+\input{sections/abstract}
+\end{abstract}
+
+\input{sections/introduction}
+\input{sections/related_work}
+\input{sections/methodology}
+\input{sections/results}
+\input{sections/discussion}
+\input{sections/conclusion}
+
+\bibliographystyle{plainnat}
+\bibliography{references}
+
+\appendix
+\input{sections/appendix}
+
+\end{document}

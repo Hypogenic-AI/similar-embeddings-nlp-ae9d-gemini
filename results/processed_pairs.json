@@ -1,0 +1,4435 @@
+[
+  {
+    "en_word": "article",
+    "fr_word": "article",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "article.n.02"
+    ],
+    "fr_synsets": [
+      "article.n.02"
+    ],
+    "shared_synsets_list": [
+      "article.n.02"
+    ]
+  },
+  {
+    "en_word": "time",
+    "fr_word": "temps",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "time.n.05"
+    ],
+    "fr_synsets": [
+      "time.n.05"
+    ],
+    "shared_synsets_list": [
+      "time.n.05"
+    ]
+  },
+  {
+    "en_word": "state",
+    "fr_word": "état",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "state.n.02"
+    ],
+    "fr_synsets": [
+      "state.n.02"
+    ],
+    "shared_synsets_list": [
+      "state.n.02"
+    ]
+  },
+  {
+    "en_word": "being",
+    "fr_word": "être",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "organism.n.01"
+    ],
+    "fr_synsets": [
+      "animal.n.01",
+      "organism.n.01"
+    ],
+    "shared_synsets_list": [
+      "organism.n.01"
+    ]
+  },
+  {
+    "en_word": "group",
+    "fr_word": "groupe",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "group.n.01"
+    ],
+    "fr_synsets": [
+      "group.n.01"
+    ],
+    "shared_synsets_list": [
+      "group.n.01"
+    ]
+  },
+  {
+    "en_word": "life",
+    "fr_word": "vie",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "life.n.10"
+    ],
+    "fr_synsets": [
+      "life.n.10"
+    ],
+    "shared_synsets_list": [
+      "life.n.10"
+    ]
+  },
+  {
+    "en_word": "service",
+    "fr_word": "service",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "service.n.15"
+    ],
+    "fr_synsets": [
+      "service.n.15"
+    ],
+    "shared_synsets_list": [
+      "service.n.15"
+    ]
+  },
+  {
+    "en_word": "need",
+    "fr_word": "besoin",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "motivation.n.01"
+    ],
+    "fr_synsets": [
+      "motivation.n.01"
+    ],
+    "shared_synsets_list": [
+      "motivation.n.01"
+    ]
+  },
+  {
+    "en_word": "form",
+    "fr_word": "forme",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "shape.n.02"
+    ],
+    "fr_synsets": [
+      "shape.n.02"
+    ],
+    "shared_synsets_list": [
+      "shape.n.02"
+    ]
+  },
+  {
+    "en_word": "find",
+    "fr_word": "trouver",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "discovery.n.01"
+    ],
+    "fr_synsets": [
+      "discovery.n.01"
+    ],
+    "shared_synsets_list": [
+      "discovery.n.01"
+    ]
+  },
+  {
+    "en_word": "position",
+    "fr_word": "position",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "position.n.16"
+    ],
+    "fr_synsets": [
+      "position.n.16"
+    ],
+    "shared_synsets_list": [
+      "position.n.16"
+    ]
+  },
+  {
+    "en_word": "press",
+    "fr_word": "presse",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "press.n.09"
+    ],
+    "fr_synsets": [
+      "press.n.09"
+    ],
+    "shared_synsets_list": [
+      "press.n.09"
+    ]
+  },
+  {
+    "en_word": "act",
+    "fr_word": "acte",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "act.n.02"
+    ],
+    "fr_synsets": [
+      "act.n.02"
+    ],
+    "shared_synsets_list": [
+      "act.n.02"
+    ]
+  },
+  {
+    "en_word": "person",
+    "fr_word": "personne",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "person.n.01"
+    ],
+    "fr_synsets": [
+      "person.n.01"
+    ],
+    "shared_synsets_list": [
+      "person.n.01"
+    ]
+  },
+  {
+    "en_word": "location",
+    "fr_word": "localisation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "location.n.01"
+    ],
+    "fr_synsets": [
+      "location.n.01"
+    ],
+    "shared_synsets_list": [
+      "location.n.01"
+    ]
+  },
+  {
+    "en_word": "location",
+    "fr_word": "lieu",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "location.n.01"
+    ],
+    "fr_synsets": [
+      "location.n.01"
+    ],
+    "shared_synsets_list": [
+      "location.n.01"
+    ]
+  },
+  {
+    "en_word": "event",
+    "fr_word": "évènement",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "event.n.01"
+    ],
+    "fr_synsets": [
+      "event.n.01"
+    ],
+    "shared_synsets_list": [
+      "event.n.01"
+    ]
+  },
+  {
+    "en_word": "event",
+    "fr_word": "événement",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "event.n.01"
+    ],
+    "fr_synsets": [
+      "event.n.01"
+    ],
+    "shared_synsets_list": [
+      "event.n.01"
+    ]
+  },
+  {
+    "en_word": "action",
+    "fr_word": "action",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "action.n.01"
+    ],
+    "fr_synsets": [
+      "action.n.01"
+    ],
+    "shared_synsets_list": [
+      "action.n.01"
+    ]
+  },
+  {
+    "en_word": "space",
+    "fr_word": "espace",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "space.n.01"
+    ],
+    "fr_synsets": [
+      "space.n.01"
+    ],
+    "shared_synsets_list": [
+      "space.n.01"
+    ]
+  },
+  {
+    "en_word": "process",
+    "fr_word": "processus",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "process.n.06"
+    ],
+    "fr_synsets": [
+      "process.n.06"
+    ],
+    "shared_synsets_list": [
+      "process.n.06"
+    ]
+  },
+  {
+    "en_word": "release",
+    "fr_word": "libération",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "liberation.n.01"
+    ],
+    "fr_synsets": [
+      "liberation.n.01"
+    ],
+    "shared_synsets_list": [
+      "liberation.n.01"
+    ]
+  },
+  {
+    "en_word": "put",
+    "fr_word": "mettre",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "put_option.n.02"
+    ],
+    "fr_synsets": [
+      "put_option.n.02"
+    ],
+    "shared_synsets_list": [
+      "put_option.n.02"
+    ]
+  },
+  {
+    "en_word": "course",
+    "fr_word": "cours",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "course.n.04"
+    ],
+    "fr_synsets": [
+      "course.n.04"
+    ],
+    "shared_synsets_list": [
+      "course.n.04"
+    ]
+  },
+  {
+    "en_word": "performance",
+    "fr_word": "performance",
+    "en_senses": 2,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "performance.n.04",
+      "performance.n.03"
+    ],
+    "fr_synsets": [
+      "performance.n.04"
+    ],
+    "shared_synsets_list": [
+      "performance.n.04"
+    ]
+  },
+  {
+    "en_word": "return",
+    "fr_word": "retour",
+    "en_senses": 3,
+    "fr_senses": 4,
+    "shared_senses": 3,
+    "en_synsets": [
+      "reappearance.n.02",
+      "restitution.n.03",
+      "return.n.02"
+    ],
+    "fr_synsets": [
+      "reappearance.n.02",
+      "restitution.n.03",
+      "repatriation.n.01",
+      "return.n.02"
+    ],
+    "shared_synsets_list": [
+      "reappearance.n.02",
+      "restitution.n.03",
+      "return.n.02"
+    ]
+  },
+  {
+    "en_word": "unit",
+    "fr_word": "unité",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "whole.n.02"
+    ],
+    "fr_synsets": [
+      "whole.n.02"
+    ],
+    "shared_synsets_list": [
+      "whole.n.02"
+    ]
+  },
+  {
+    "en_word": "winning",
+    "fr_word": "gagnant",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "winning.n.01"
+    ],
+    "fr_synsets": [
+      "winning.n.01"
+    ],
+    "shared_synsets_list": [
+      "winning.n.01"
+    ]
+  },
+  {
+    "en_word": "food",
+    "fr_word": "nourriture",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "food.n.01"
+    ],
+    "fr_synsets": [
+      "food.n.01"
+    ],
+    "shared_synsets_list": [
+      "food.n.01"
+    ]
+  },
+  {
+    "en_word": "thing",
+    "fr_word": "chose",
+    "en_senses": 2,
+    "fr_senses": 3,
+    "shared_senses": 2,
+    "en_synsets": [
+      "thing.n.02",
+      "thing.n.12"
+    ],
+    "fr_synsets": [
+      "object.n.01",
+      "thing.n.02",
+      "thing.n.12"
+    ],
+    "shared_synsets_list": [
+      "thing.n.12",
+      "thing.n.02"
+    ]
+  },
+  {
+    "en_word": "call",
+    "fr_word": "appeler",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "call_option.n.02"
+    ],
+    "fr_synsets": [
+      "call_option.n.02"
+    ],
+    "shared_synsets_list": [
+      "call_option.n.02"
+    ]
+  },
+  {
+    "en_word": "success",
+    "fr_word": "succès",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "success.n.02"
+    ],
+    "fr_synsets": [
+      "success.n.02",
+      "accomplishment.n.01"
+    ],
+    "shared_synsets_list": [
+      "success.n.02"
+    ]
+  },
+  {
+    "en_word": "success",
+    "fr_word": "réussite",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "success.n.02"
+    ],
+    "fr_synsets": [
+      "success.n.02"
+    ],
+    "shared_synsets_list": [
+      "success.n.02"
+    ]
+  },
+  {
+    "en_word": "shot",
+    "fr_word": "coup",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 0,
+    "en_synsets": [
+      "blastoff.n.01"
+    ],
+    "fr_synsets": [
+      "coup.n.02",
+      "hit.n.01"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "occupation",
+    "fr_word": "occupation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "occupation.n.04"
+    ],
+    "fr_synsets": [
+      "occupation.n.04"
+    ],
+    "shared_synsets_list": [
+      "occupation.n.04"
+    ]
+  },
+  {
+    "en_word": "plant",
+    "fr_word": "végétal",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "plant.n.02"
+    ],
+    "fr_synsets": [
+      "plant.n.02"
+    ],
+    "shared_synsets_list": [
+      "plant.n.02"
+    ]
+  },
+  {
+    "en_word": "plant",
+    "fr_word": "plante",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "plant.n.02"
+    ],
+    "fr_synsets": [
+      "plant.n.02"
+    ],
+    "shared_synsets_list": [
+      "plant.n.02"
+    ]
+  },
+  {
+    "en_word": "leave",
+    "fr_word": "partir",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "farewell.n.02"
+    ],
+    "fr_synsets": [
+      "farewell.n.02"
+    ],
+    "shared_synsets_list": [
+      "farewell.n.02"
+    ]
+  },
+  {
+    "en_word": "fall",
+    "fr_word": "chute",
+    "en_senses": 2,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "capitulation.n.03",
+      "spill.n.04"
+    ],
+    "fr_synsets": [
+      "spill.n.04"
+    ],
+    "shared_synsets_list": [
+      "spill.n.04"
+    ]
+  },
+  {
+    "en_word": "appearance",
+    "fr_word": "apparition",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "appearance.n.05"
+    ],
+    "fr_synsets": [
+      "appearance.n.05",
+      "apparition.n.04"
+    ],
+    "shared_synsets_list": [
+      "appearance.n.05"
+    ]
+  },
+  {
+    "en_word": "appearance",
+    "fr_word": "aspect",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "appearance.n.05"
+    ],
+    "fr_synsets": [
+      "appearance.n.05"
+    ],
+    "shared_synsets_list": [
+      "appearance.n.05"
+    ]
+  },
+  {
+    "en_word": "entry",
+    "fr_word": "entrée",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "entrance.n.03"
+    ],
+    "fr_synsets": [
+      "entrance.n.03",
+      "entree.n.04"
+    ],
+    "shared_synsets_list": [
+      "entrance.n.03"
+    ]
+  },
+  {
+    "en_word": "cause",
+    "fr_word": "cause",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "causal_agent.n.01"
+    ],
+    "fr_synsets": [
+      "causal_agent.n.01",
+      "thing.n.12"
+    ],
+    "shared_synsets_list": [
+      "causal_agent.n.01"
+    ]
+  },
+  {
+    "en_word": "knowledge",
+    "fr_word": "savoir",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "cognition.n.01"
+    ],
+    "fr_synsets": [
+      "cognition.n.01"
+    ],
+    "shared_synsets_list": [
+      "cognition.n.01"
+    ]
+  },
+  {
+    "en_word": "knowledge",
+    "fr_word": "connaissance",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "cognition.n.01"
+    ],
+    "fr_synsets": [
+      "cognition.n.01"
+    ],
+    "shared_synsets_list": [
+      "cognition.n.01"
+    ]
+  },
+  {
+    "en_word": "draft",
+    "fr_word": "brouillon",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "draft.n.11"
+    ],
+    "fr_synsets": [
+      "draft.n.11"
+    ],
+    "shared_synsets_list": [
+      "draft.n.11"
+    ]
+  },
+  {
+    "en_word": "ball",
+    "fr_word": "boule",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "ball.n.12"
+    ],
+    "fr_synsets": [
+      "ball.n.12"
+    ],
+    "shared_synsets_list": [
+      "ball.n.12"
+    ]
+  },
+  {
+    "en_word": "ball",
+    "fr_word": "balle",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "ball.n.12"
+    ],
+    "fr_synsets": [
+      "fastball.n.01",
+      "ball.n.12"
+    ],
+    "shared_synsets_list": [
+      "ball.n.12"
+    ]
+  },
+  {
+    "en_word": "ball",
+    "fr_word": "ballon",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "ball.n.12"
+    ],
+    "fr_synsets": [
+      "ball.n.12"
+    ],
+    "shared_synsets_list": [
+      "ball.n.12"
+    ]
+  },
+  {
+    "en_word": "heritage",
+    "fr_word": "héritage",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "inheritance.n.01"
+    ],
+    "fr_synsets": [
+      "inheritance.n.01"
+    ],
+    "shared_synsets_list": [
+      "inheritance.n.01"
+    ]
+  },
+  {
+    "en_word": "heritage",
+    "fr_word": "patrimoine",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "inheritance.n.01"
+    ],
+    "fr_synsets": [
+      "inheritance.n.01"
+    ],
+    "shared_synsets_list": [
+      "inheritance.n.01"
+    ]
+  },
+  {
+    "en_word": "pressure",
+    "fr_word": "pression",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "press.n.09"
+    ],
+    "fr_synsets": [
+      "press.n.09",
+      "push.n.01"
+    ],
+    "shared_synsets_list": [
+      "press.n.09"
+    ]
+  },
+  {
+    "en_word": "grant",
+    "fr_word": "subvention",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "grant.n.02"
+    ],
+    "fr_synsets": [
+      "grant.n.02"
+    ],
+    "shared_synsets_list": [
+      "grant.n.02"
+    ]
+  },
+  {
+    "en_word": "effort",
+    "fr_word": "effort",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "feat.n.01"
+    ],
+    "fr_synsets": [
+      "feat.n.01"
+    ],
+    "shared_synsets_list": [
+      "feat.n.01"
+    ]
+  },
+  {
+    "en_word": "cell",
+    "fr_word": "cellule",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "cell.n.02"
+    ],
+    "fr_synsets": [
+      "cell.n.02"
+    ],
+    "shared_synsets_list": [
+      "cell.n.02"
+    ]
+  },
+  {
+    "en_word": "contact",
+    "fr_word": "contact",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "contact.n.01"
+    ],
+    "fr_synsets": [
+      "contact.n.01"
+    ],
+    "shared_synsets_list": [
+      "contact.n.01"
+    ]
+  },
+  {
+    "en_word": "traffic",
+    "fr_word": "trafic",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "dealings.n.01"
+    ],
+    "fr_synsets": [
+      "dealings.n.01"
+    ],
+    "shared_synsets_list": [
+      "dealings.n.01"
+    ]
+  },
+  {
+    "en_word": "bowl",
+    "fr_word": "gamelle",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "roll.n.15"
+    ],
+    "fr_synsets": [
+      "wipeout.n.02"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "animal",
+    "fr_word": "animal",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "animal.n.01"
+    ],
+    "fr_synsets": [
+      "animal.n.01"
+    ],
+    "shared_synsets_list": [
+      "animal.n.01"
+    ]
+  },
+  {
+    "en_word": "draw",
+    "fr_word": "dessiner",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "draw.n.09"
+    ],
+    "fr_synsets": [
+      "draw.n.09"
+    ],
+    "shared_synsets_list": [
+      "draw.n.09"
+    ]
+  },
+  {
+    "en_word": "object",
+    "fr_word": "objet",
+    "en_senses": 1,
+    "fr_senses": 3,
+    "shared_senses": 1,
+    "en_synsets": [
+      "object.n.01"
+    ],
+    "fr_synsets": [
+      "object.n.01",
+      "thing.n.12",
+      "article.n.02"
+    ],
+    "shared_synsets_list": [
+      "object.n.01"
+    ]
+  },
+  {
+    "en_word": "credit",
+    "fr_word": "crédit",
+    "en_senses": 2,
+    "fr_senses": 2,
+    "shared_senses": 2,
+    "en_synsets": [
+      "credit.n.04",
+      "credit.n.06"
+    ],
+    "fr_synsets": [
+      "credit.n.04",
+      "credit.n.06"
+    ],
+    "shared_synsets_list": [
+      "credit.n.04",
+      "credit.n.06"
+    ]
+  },
+  {
+    "en_word": "communication",
+    "fr_word": "communication",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "communication.n.02"
+    ],
+    "fr_synsets": [
+      "communication.n.02"
+    ],
+    "shared_synsets_list": [
+      "communication.n.02"
+    ]
+  },
+  {
+    "en_word": "failure",
+    "fr_word": "échec",
+    "en_senses": 2,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "failure.n.05",
+      "failure.n.01"
+    ],
+    "fr_synsets": [
+      "failure.n.01"
+    ],
+    "shared_synsets_list": [
+      "failure.n.01"
+    ]
+  },
+  {
+    "en_word": "failure",
+    "fr_word": "défaillance",
+    "en_senses": 2,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "failure.n.05",
+      "failure.n.01"
+    ],
+    "fr_synsets": [
+      "failure.n.01"
+    ],
+    "shared_synsets_list": [
+      "failure.n.01"
+    ]
+  },
+  {
+    "en_word": "magic",
+    "fr_word": "magie",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "magic_trick.n.01"
+    ],
+    "fr_synsets": [
+      "magic_trick.n.01"
+    ],
+    "shared_synsets_list": [
+      "magic_trick.n.01"
+    ]
+  },
+  {
+    "en_word": "launch",
+    "fr_word": "lancement",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "launching.n.03"
+    ],
+    "fr_synsets": [
+      "launching.n.03",
+      "launching.n.01"
+    ],
+    "shared_synsets_list": [
+      "launching.n.03"
+    ]
+  },
+  {
+    "en_word": "launch",
+    "fr_word": "lancer",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "launching.n.03"
+    ],
+    "fr_synsets": [
+      "pitch.n.02"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "escape",
+    "fr_word": "évasion",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "escape.n.01"
+    ],
+    "fr_synsets": [
+      "escape.n.01",
+      "evasion.n.04"
+    ],
+    "shared_synsets_list": [
+      "escape.n.01"
+    ]
+  },
+  {
+    "en_word": "shape",
+    "fr_word": "forme",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "shape.n.02"
+    ],
+    "fr_synsets": [
+      "shape.n.02"
+    ],
+    "shared_synsets_list": [
+      "shape.n.02"
+    ]
+  },
+  {
+    "en_word": "flora",
+    "fr_word": "flore",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "plant.n.02"
+    ],
+    "fr_synsets": [
+      "plant.n.02"
+    ],
+    "shared_synsets_list": [
+      "plant.n.02"
+    ]
+  },
+  {
+    "en_word": "entrance",
+    "fr_word": "entrée",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "entrance.n.03"
+    ],
+    "fr_synsets": [
+      "entrance.n.03",
+      "entree.n.04"
+    ],
+    "shared_synsets_list": [
+      "entrance.n.03"
+    ]
+  },
+  {
+    "en_word": "retirement",
+    "fr_word": "retraite",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "retirement.n.03"
+    ],
+    "fr_synsets": [
+      "retirement.n.03"
+    ],
+    "shared_synsets_list": [
+      "retirement.n.03"
+    ]
+  },
+  {
+    "en_word": "discovery",
+    "fr_word": "découverte",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "discovery.n.01"
+    ],
+    "fr_synsets": [
+      "discovery.n.01"
+    ],
+    "shared_synsets_list": [
+      "discovery.n.01"
+    ]
+  },
+  {
+    "en_word": "error",
+    "fr_word": "erreur",
+    "en_senses": 2,
+    "fr_senses": 2,
+    "shared_senses": 2,
+    "en_synsets": [
+      "mistake.n.01",
+      "error.n.04"
+    ],
+    "fr_synsets": [
+      "mistake.n.01",
+      "error.n.04"
+    ],
+    "shared_synsets_list": [
+      "mistake.n.01",
+      "error.n.04"
+    ]
+  },
+  {
+    "en_word": "measure",
+    "fr_word": "mesure",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "measure.n.02"
+    ],
+    "fr_synsets": [
+      "measure.n.02"
+    ],
+    "shared_synsets_list": [
+      "measure.n.02"
+    ]
+  },
+  {
+    "en_word": "hook",
+    "fr_word": "hameçon",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "hook_shot.n.01"
+    ],
+    "fr_synsets": [
+      "hook_shot.n.01"
+    ],
+    "shared_synsets_list": [
+      "hook_shot.n.01"
+    ]
+  },
+  {
+    "en_word": "landing",
+    "fr_word": "atterrissage",
+    "en_senses": 2,
+    "fr_senses": 2,
+    "shared_senses": 2,
+    "en_synsets": [
+      "landing.n.03",
+      "landing.n.04"
+    ],
+    "fr_synsets": [
+      "landing.n.03",
+      "landing.n.04"
+    ],
+    "shared_synsets_list": [
+      "landing.n.03",
+      "landing.n.04"
+    ]
+  },
+  {
+    "en_word": "marketing",
+    "fr_word": "marketing",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "marketing.n.03"
+    ],
+    "fr_synsets": [
+      "marketing.n.03"
+    ],
+    "shared_synsets_list": [
+      "marketing.n.03"
+    ]
+  },
+  {
+    "en_word": "marketing",
+    "fr_word": "commercialisation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "marketing.n.03"
+    ],
+    "fr_synsets": [
+      "marketing.n.03"
+    ],
+    "shared_synsets_list": [
+      "marketing.n.03"
+    ]
+  },
+  {
+    "en_word": "rescue",
+    "fr_word": "sauvetage",
+    "en_senses": 1,
+    "fr_senses": 3,
+    "shared_senses": 1,
+    "en_synsets": [
+      "rescue.n.01"
+    ],
+    "fr_synsets": [
+      "salvage.n.03",
+      "rescue.n.01",
+      "salvage.n.02"
+    ],
+    "shared_synsets_list": [
+      "rescue.n.01"
+    ]
+  },
+  {
+    "en_word": "hop",
+    "fr_word": "houblon",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "hop.n.01"
+    ],
+    "fr_synsets": [
+      "hop.n.01"
+    ],
+    "shared_synsets_list": [
+      "hop.n.01"
+    ]
+  },
+  {
+    "en_word": "purchase",
+    "fr_word": "achats",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "purchase.n.01"
+    ],
+    "fr_synsets": [
+      "procurement.n.01"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "purchase",
+    "fr_word": "acheter",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "purchase.n.01"
+    ],
+    "fr_synsets": [
+      "purchase.n.01"
+    ],
+    "shared_synsets_list": [
+      "purchase.n.01"
+    ]
+  },
+  {
+    "en_word": "purchase",
+    "fr_word": "achat",
+    "en_senses": 1,
+    "fr_senses": 3,
+    "shared_senses": 1,
+    "en_synsets": [
+      "purchase.n.01"
+    ],
+    "fr_synsets": [
+      "purchase.n.01",
+      "succession.n.05",
+      "buying.n.01"
+    ],
+    "shared_synsets_list": [
+      "purchase.n.01"
+    ]
+  },
+  {
+    "en_word": "drawing",
+    "fr_word": "dessin",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "draft.n.11"
+    ],
+    "fr_synsets": [
+      "draft.n.11"
+    ],
+    "shared_synsets_list": [
+      "draft.n.11"
+    ]
+  },
+  {
+    "en_word": "drawing",
+    "fr_word": "dessiner",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "draft.n.11"
+    ],
+    "fr_synsets": [
+      "draw.n.09"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "reception",
+    "fr_word": "réception",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "reception.n.04"
+    ],
+    "fr_synsets": [
+      "reception.n.04"
+    ],
+    "shared_synsets_list": [
+      "reception.n.04"
+    ]
+  },
+  {
+    "en_word": "interpretation",
+    "fr_word": "interprétation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "rendition.n.04"
+    ],
+    "fr_synsets": [
+      "rendition.n.04"
+    ],
+    "shared_synsets_list": [
+      "rendition.n.04"
+    ]
+  },
+  {
+    "en_word": "shopping",
+    "fr_word": "achats",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "shopping.n.01"
+    ],
+    "fr_synsets": [
+      "procurement.n.01"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "shopping",
+    "fr_word": "shopping",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "shopping.n.01"
+    ],
+    "fr_synsets": [
+      "shopping.n.01"
+    ],
+    "shared_synsets_list": [
+      "shopping.n.01"
+    ]
+  },
+  {
+    "en_word": "restoration",
+    "fr_word": "restauration",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "restitution.n.03"
+    ],
+    "fr_synsets": [
+      "restitution.n.03"
+    ],
+    "shared_synsets_list": [
+      "restitution.n.03"
+    ]
+  },
+  {
+    "en_word": "relation",
+    "fr_word": "relation",
+    "en_senses": 2,
+    "fr_senses": 2,
+    "shared_senses": 2,
+    "en_synsets": [
+      "relation.n.06",
+      "relation.n.01"
+    ],
+    "fr_synsets": [
+      "relation.n.06",
+      "relation.n.01"
+    ],
+    "shared_synsets_list": [
+      "relation.n.06",
+      "relation.n.01"
+    ]
+  },
+  {
+    "en_word": "arrival",
+    "fr_word": "arrivée",
+    "en_senses": 2,
+    "fr_senses": 2,
+    "shared_senses": 2,
+    "en_synsets": [
+      "arrival.n.01",
+      "arrival.n.02"
+    ],
+    "fr_synsets": [
+      "arrival.n.01",
+      "arrival.n.02"
+    ],
+    "shared_synsets_list": [
+      "arrival.n.01",
+      "arrival.n.02"
+    ]
+  },
+  {
+    "en_word": "depression",
+    "fr_word": "dépression",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "depression.n.10"
+    ],
+    "fr_synsets": [
+      "depression.n.10"
+    ],
+    "shared_synsets_list": [
+      "depression.n.10"
+    ]
+  },
+  {
+    "en_word": "interaction",
+    "fr_word": "interaction",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "interaction.n.01"
+    ],
+    "fr_synsets": [
+      "interaction.n.01"
+    ],
+    "shared_synsets_list": [
+      "interaction.n.01"
+    ]
+  },
+  {
+    "en_word": "achievement",
+    "fr_word": "accomplissement",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "accomplishment.n.01"
+    ],
+    "fr_synsets": [
+      "accomplishment.n.01"
+    ],
+    "shared_synsets_list": [
+      "accomplishment.n.01"
+    ]
+  },
+  {
+    "en_word": "jump",
+    "fr_word": "sauter",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "jump.n.06"
+    ],
+    "fr_synsets": [
+      "leap.n.01"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "jump",
+    "fr_word": "saut",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "jump.n.06"
+    ],
+    "fr_synsets": [
+      "leap.n.01",
+      "jump.n.06"
+    ],
+    "shared_synsets_list": [
+      "jump.n.06"
+    ]
+  },
+  {
+    "en_word": "feeling",
+    "fr_word": "sentiment",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "feeling.n.01"
+    ],
+    "fr_synsets": [
+      "feeling.n.01"
+    ],
+    "shared_synsets_list": [
+      "feeling.n.01"
+    ]
+  },
+  {
+    "en_word": "touch",
+    "fr_word": "toucher",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "touch.n.05"
+    ],
+    "fr_synsets": [
+      "touch.n.05"
+    ],
+    "shared_synsets_list": [
+      "touch.n.05"
+    ]
+  },
+  {
+    "en_word": "transmission",
+    "fr_word": "transmission",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "transmission.n.01"
+    ],
+    "fr_synsets": [
+      "transmission.n.01"
+    ],
+    "shared_synsets_list": [
+      "transmission.n.01"
+    ]
+  },
+  {
+    "en_word": "bowling",
+    "fr_word": "bowling",
+    "en_senses": 2,
+    "fr_senses": 2,
+    "shared_senses": 2,
+    "en_synsets": [
+      "bowling.n.03",
+      "bowling.n.02"
+    ],
+    "fr_synsets": [
+      "bowling.n.03",
+      "bowling.n.02"
+    ],
+    "shared_synsets_list": [
+      "bowling.n.03",
+      "bowling.n.02"
+    ]
+  },
+  {
+    "en_word": "exit",
+    "fr_word": "sortie",
+    "en_senses": 1,
+    "fr_senses": 3,
+    "shared_senses": 1,
+    "en_synsets": [
+      "exit.n.03"
+    ],
+    "fr_synsets": [
+      "egress.n.03",
+      "emergence.n.03",
+      "exit.n.03"
+    ],
+    "shared_synsets_list": [
+      "exit.n.03"
+    ]
+  },
+  {
+    "en_word": "click",
+    "fr_word": "cliquer",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "click.n.04"
+    ],
+    "fr_synsets": [
+      "click.n.04"
+    ],
+    "shared_synsets_list": [
+      "click.n.04"
+    ]
+  },
+  {
+    "en_word": "arrest",
+    "fr_word": "arrestation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "apprehension.n.04"
+    ],
+    "fr_synsets": [
+      "apprehension.n.04"
+    ],
+    "shared_synsets_list": [
+      "apprehension.n.04"
+    ]
+  },
+  {
+    "en_word": "conversion",
+    "fr_word": "conversion",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "conversion.n.04"
+    ],
+    "fr_synsets": [
+      "conversion.n.04"
+    ],
+    "shared_synsets_list": [
+      "conversion.n.04"
+    ]
+  },
+  {
+    "en_word": "mechanism",
+    "fr_word": "mécanisme",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "mechanism.n.02"
+    ],
+    "fr_synsets": [
+      "mechanism.n.02"
+    ],
+    "shared_synsets_list": [
+      "mechanism.n.02"
+    ]
+  },
+  {
+    "en_word": "pitch",
+    "fr_word": "lancer",
+    "en_senses": 2,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "pitch.n.02",
+      "pitch.n.10"
+    ],
+    "fr_synsets": [
+      "pitch.n.02"
+    ],
+    "shared_synsets_list": [
+      "pitch.n.02"
+    ]
+  },
+  {
+    "en_word": "bull",
+    "fr_word": "taureau",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "bull.n.04"
+    ],
+    "fr_synsets": [
+      "bull.n.04"
+    ],
+    "shared_synsets_list": [
+      "bull.n.04"
+    ]
+  },
+  {
+    "en_word": "liberation",
+    "fr_word": "libération",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "liberation.n.01"
+    ],
+    "fr_synsets": [
+      "liberation.n.01"
+    ],
+    "shared_synsets_list": [
+      "liberation.n.01"
+    ]
+  },
+  {
+    "en_word": "departure",
+    "fr_word": "départ",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "departure.n.01"
+    ],
+    "fr_synsets": [
+      "departure.n.01",
+      "sailing.n.03"
+    ],
+    "shared_synsets_list": [
+      "departure.n.01"
+    ]
+  },
+  {
+    "en_word": "mistake",
+    "fr_word": "erreur",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "mistake.n.01"
+    ],
+    "fr_synsets": [
+      "mistake.n.01",
+      "error.n.04"
+    ],
+    "shared_synsets_list": [
+      "mistake.n.01"
+    ]
+  },
+  {
+    "en_word": "confusion",
+    "fr_word": "confusion",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "confusion.n.05"
+    ],
+    "fr_synsets": [
+      "confusion.n.05"
+    ],
+    "shared_synsets_list": [
+      "confusion.n.05"
+    ]
+  },
+  {
+    "en_word": "immigration",
+    "fr_word": "immigration",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "immigration.n.01"
+    ],
+    "fr_synsets": [
+      "immigration.n.01"
+    ],
+    "shared_synsets_list": [
+      "immigration.n.01"
+    ]
+  },
+  {
+    "en_word": "recovery",
+    "fr_word": "recouvrement",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "recovery.n.03"
+    ],
+    "fr_synsets": [
+      "recovery.n.03"
+    ],
+    "shared_synsets_list": [
+      "recovery.n.03"
+    ]
+  },
+  {
+    "en_word": "recovery",
+    "fr_word": "récupération",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "recovery.n.03"
+    ],
+    "fr_synsets": [
+      "recovery.n.03"
+    ],
+    "shared_synsets_list": [
+      "recovery.n.03"
+    ]
+  },
+  {
+    "en_word": "succession",
+    "fr_word": "succession",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "succession.n.05"
+    ],
+    "fr_synsets": [
+      "succession.n.05"
+    ],
+    "shared_synsets_list": [
+      "succession.n.05"
+    ]
+  },
+  {
+    "en_word": "throw",
+    "fr_word": "jeter",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "throw.n.01"
+    ],
+    "fr_synsets": [
+      "throw.n.01"
+    ],
+    "shared_synsets_list": [
+      "throw.n.01"
+    ]
+  },
+  {
+    "en_word": "rally",
+    "fr_word": "rassemblement",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "rally.n.02"
+    ],
+    "fr_synsets": [
+      "rally.n.02"
+    ],
+    "shared_synsets_list": [
+      "rally.n.02"
+    ]
+  },
+  {
+    "en_word": "execution",
+    "fr_word": "exécution",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "performance.n.03"
+    ],
+    "fr_synsets": [
+      "fulfillment.n.02",
+      "performance.n.03"
+    ],
+    "shared_synsets_list": [
+      "performance.n.03"
+    ]
+  },
+  {
+    "en_word": "entity",
+    "fr_word": "entité",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "entity.n.01"
+    ],
+    "fr_synsets": [
+      "entity.n.01"
+    ],
+    "shared_synsets_list": [
+      "entity.n.01"
+    ]
+  },
+  {
+    "en_word": "fauna",
+    "fr_word": "faune",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "animal.n.01"
+    ],
+    "fr_synsets": [
+      "animal.n.01"
+    ],
+    "shared_synsets_list": [
+      "animal.n.01"
+    ]
+  },
+  {
+    "en_word": "registration",
+    "fr_word": "inscription",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "registration.n.01"
+    ],
+    "fr_synsets": [
+      "registration.n.01"
+    ],
+    "shared_synsets_list": [
+      "registration.n.01"
+    ]
+  },
+  {
+    "en_word": "registration",
+    "fr_word": "enregistrement",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "registration.n.01"
+    ],
+    "fr_synsets": [
+      "registration.n.01"
+    ],
+    "shared_synsets_list": [
+      "registration.n.01"
+    ]
+  },
+  {
+    "en_word": "registration",
+    "fr_word": "immatriculation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "registration.n.01"
+    ],
+    "fr_synsets": [
+      "registration.n.01"
+    ],
+    "shared_synsets_list": [
+      "registration.n.01"
+    ]
+  },
+  {
+    "en_word": "impression",
+    "fr_word": "impression",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "impression.n.09"
+    ],
+    "fr_synsets": [
+      "impression.n.09"
+    ],
+    "shared_synsets_list": [
+      "impression.n.09"
+    ]
+  },
+  {
+    "en_word": "phenomenon",
+    "fr_word": "phénomène",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "phenomenon.n.01"
+    ],
+    "fr_synsets": [
+      "phenomenon.n.01"
+    ],
+    "shared_synsets_list": [
+      "phenomenon.n.01"
+    ]
+  },
+  {
+    "en_word": "acquisition",
+    "fr_word": "acquisition",
+    "en_senses": 1,
+    "fr_senses": 3,
+    "shared_senses": 1,
+    "en_synsets": [
+      "acquisition.n.01"
+    ],
+    "fr_synsets": [
+      "purchase.n.01",
+      "succession.n.05",
+      "acquisition.n.01"
+    ],
+    "shared_synsets_list": [
+      "acquisition.n.01"
+    ]
+  },
+  {
+    "en_word": "interchange",
+    "fr_word": "échangeur",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "interchange.n.02"
+    ],
+    "fr_synsets": [
+      "interchange.n.02"
+    ],
+    "shared_synsets_list": [
+      "interchange.n.02"
+    ]
+  },
+  {
+    "en_word": "feat",
+    "fr_word": "exploit",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "feat.n.01"
+    ],
+    "fr_synsets": [
+      "feat.n.01"
+    ],
+    "shared_synsets_list": [
+      "feat.n.01"
+    ]
+  },
+  {
+    "en_word": "feat",
+    "fr_word": "prouesse",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "feat.n.01"
+    ],
+    "fr_synsets": [
+      "derring-do.n.01"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "mechanics",
+    "fr_word": "mécanique",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "mechanism.n.02"
+    ],
+    "fr_synsets": [
+      "mechanism.n.02"
+    ],
+    "shared_synsets_list": [
+      "mechanism.n.02"
+    ]
+  },
+  {
+    "en_word": "surrender",
+    "fr_word": "capitulation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "capitulation.n.03"
+    ],
+    "fr_synsets": [
+      "capitulation.n.03"
+    ],
+    "shared_synsets_list": [
+      "capitulation.n.03"
+    ]
+  },
+  {
+    "en_word": "surrender",
+    "fr_word": "reddition",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "capitulation.n.03"
+    ],
+    "fr_synsets": [
+      "capitulation.n.03"
+    ],
+    "shared_synsets_list": [
+      "capitulation.n.03"
+    ]
+  },
+  {
+    "en_word": "substance",
+    "fr_word": "substance",
+    "en_senses": 2,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "substance.n.01",
+      "substance.n.07"
+    ],
+    "fr_synsets": [
+      "matter.n.03"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "curve",
+    "fr_word": "courbe",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "curve.n.03"
+    ],
+    "fr_synsets": [
+      "curve.n.03"
+    ],
+    "shared_synsets_list": [
+      "curve.n.03"
+    ]
+  },
+  {
+    "en_word": "retreat",
+    "fr_word": "retraite",
+    "en_senses": 3,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "retreat.n.01",
+      "retirement.n.03",
+      "retreat.n.07"
+    ],
+    "fr_synsets": [
+      "retirement.n.03"
+    ],
+    "shared_synsets_list": [
+      "retirement.n.03"
+    ]
+  },
+  {
+    "en_word": "fault",
+    "fr_word": "faute",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "mistake.n.01"
+    ],
+    "fr_synsets": [
+      "mistake.n.01",
+      "error.n.04"
+    ],
+    "shared_synsets_list": [
+      "mistake.n.01"
+    ]
+  },
+  {
+    "en_word": "assumption",
+    "fr_word": "hypothèse",
+    "en_senses": 2,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "assumption.n.03",
+      "assumption.n.07"
+    ],
+    "fr_synsets": [
+      "assumption.n.07"
+    ],
+    "shared_synsets_list": [
+      "assumption.n.07"
+    ]
+  },
+  {
+    "en_word": "smoke",
+    "fr_word": "fumer",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "fastball.n.01"
+    ],
+    "fr_synsets": [
+      "fastball.n.01"
+    ],
+    "shared_synsets_list": [
+      "fastball.n.01"
+    ]
+  },
+  {
+    "en_word": "smoke",
+    "fr_word": "fumée",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "fastball.n.01"
+    ],
+    "fr_synsets": [
+      "fastball.n.01"
+    ],
+    "shared_synsets_list": [
+      "fastball.n.01"
+    ]
+  },
+  {
+    "en_word": "propulsion",
+    "fr_word": "propulsion",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "propulsion.n.02"
+    ],
+    "fr_synsets": [
+      "propulsion.n.02"
+    ],
+    "shared_synsets_list": [
+      "propulsion.n.02"
+    ]
+  },
+  {
+    "en_word": "acceptance",
+    "fr_word": "acceptation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "acceptance.n.07"
+    ],
+    "fr_synsets": [
+      "acceptance.n.07"
+    ],
+    "shared_synsets_list": [
+      "acceptance.n.07"
+    ]
+  },
+  {
+    "en_word": "adoption",
+    "fr_word": "adoption",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "borrowing.n.01"
+    ],
+    "fr_synsets": [
+      "borrowing.n.01"
+    ],
+    "shared_synsets_list": [
+      "borrowing.n.01"
+    ]
+  },
+  {
+    "en_word": "jumping",
+    "fr_word": "sauter",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "jump.n.06"
+    ],
+    "fr_synsets": [
+      "leap.n.01"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "jumping",
+    "fr_word": "saut",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "jump.n.06"
+    ],
+    "fr_synsets": [
+      "leap.n.01",
+      "jump.n.06"
+    ],
+    "shared_synsets_list": [
+      "jump.n.06"
+    ]
+  },
+  {
+    "en_word": "quantity",
+    "fr_word": "quantité",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "measure.n.02"
+    ],
+    "fr_synsets": [
+      "measure.n.02"
+    ],
+    "shared_synsets_list": [
+      "measure.n.02"
+    ]
+  },
+  {
+    "en_word": "bullet",
+    "fr_word": "balle",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "fastball.n.01"
+    ],
+    "fr_synsets": [
+      "fastball.n.01",
+      "ball.n.12"
+    ],
+    "shared_synsets_list": [
+      "fastball.n.01"
+    ]
+  },
+  {
+    "en_word": "beast",
+    "fr_word": "bête",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "animal.n.01"
+    ],
+    "fr_synsets": [
+      "animal.n.01"
+    ],
+    "shared_synsets_list": [
+      "animal.n.01"
+    ]
+  },
+  {
+    "en_word": "placement",
+    "fr_word": "placement",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "placement.n.02"
+    ],
+    "fr_synsets": [
+      "placement.n.02"
+    ],
+    "shared_synsets_list": [
+      "placement.n.02"
+    ]
+  },
+  {
+    "en_word": "withdrawal",
+    "fr_word": "sevrage",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "withdrawal.n.03"
+    ],
+    "fr_synsets": [
+      "withdrawal.n.03"
+    ],
+    "shared_synsets_list": [
+      "withdrawal.n.03"
+    ]
+  },
+  {
+    "en_word": "withdrawal",
+    "fr_word": "retrait",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "withdrawal.n.03"
+    ],
+    "fr_synsets": [
+      "withdrawal.n.03"
+    ],
+    "shared_synsets_list": [
+      "withdrawal.n.03"
+    ]
+  },
+  {
+    "en_word": "creature",
+    "fr_word": "créature",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "animal.n.01"
+    ],
+    "fr_synsets": [
+      "animal.n.01"
+    ],
+    "shared_synsets_list": [
+      "animal.n.01"
+    ]
+  },
+  {
+    "en_word": "buying",
+    "fr_word": "achat",
+    "en_senses": 1,
+    "fr_senses": 3,
+    "shared_senses": 1,
+    "en_synsets": [
+      "buying.n.01"
+    ],
+    "fr_synsets": [
+      "purchase.n.01",
+      "succession.n.05",
+      "buying.n.01"
+    ],
+    "shared_synsets_list": [
+      "buying.n.01"
+    ]
+  },
+  {
+    "en_word": "auction",
+    "fr_word": "enchère",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "auction.n.02"
+    ],
+    "fr_synsets": [
+      "auction.n.02"
+    ],
+    "shared_synsets_list": [
+      "auction.n.02"
+    ]
+  },
+  {
+    "en_word": "vault",
+    "fr_word": "voûte",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "vault.n.04"
+    ],
+    "fr_synsets": [
+      "vault.n.04"
+    ],
+    "shared_synsets_list": [
+      "vault.n.04"
+    ]
+  },
+  {
+    "en_word": "launching",
+    "fr_word": "lancement",
+    "en_senses": 2,
+    "fr_senses": 2,
+    "shared_senses": 2,
+    "en_synsets": [
+      "launching.n.03",
+      "launching.n.01"
+    ],
+    "fr_synsets": [
+      "launching.n.03",
+      "launching.n.01"
+    ],
+    "shared_synsets_list": [
+      "launching.n.03",
+      "launching.n.01"
+    ]
+  },
+  {
+    "en_word": "motivation",
+    "fr_word": "motivation",
+    "en_senses": 2,
+    "fr_senses": 2,
+    "shared_senses": 2,
+    "en_synsets": [
+      "motivation.n.03",
+      "motivation.n.01"
+    ],
+    "fr_synsets": [
+      "motivation.n.03",
+      "motivation.n.01"
+    ],
+    "shared_synsets_list": [
+      "motivation.n.03",
+      "motivation.n.01"
+    ]
+  },
+  {
+    "en_word": "inheritance",
+    "fr_word": "héritage",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "inheritance.n.01"
+    ],
+    "fr_synsets": [
+      "inheritance.n.01"
+    ],
+    "shared_synsets_list": [
+      "inheritance.n.01"
+    ]
+  },
+  {
+    "en_word": "collar",
+    "fr_word": "collier",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "apprehension.n.04"
+    ],
+    "fr_synsets": [
+      "apprehension.n.04"
+    ],
+    "shared_synsets_list": [
+      "apprehension.n.04"
+    ]
+  },
+  {
+    "en_word": "collar",
+    "fr_word": "col",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "apprehension.n.04"
+    ],
+    "fr_synsets": [
+      "apprehension.n.04"
+    ],
+    "shared_synsets_list": [
+      "apprehension.n.04"
+    ]
+  },
+  {
+    "en_word": "advent",
+    "fr_word": "avènement",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "advent.n.01"
+    ],
+    "fr_synsets": [
+      "advent.n.01"
+    ],
+    "shared_synsets_list": [
+      "advent.n.01"
+    ]
+  },
+  {
+    "en_word": "purchasing",
+    "fr_word": "achats",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "buying.n.01"
+    ],
+    "fr_synsets": [
+      "procurement.n.01"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "purchasing",
+    "fr_word": "achat",
+    "en_senses": 1,
+    "fr_senses": 3,
+    "shared_senses": 1,
+    "en_synsets": [
+      "buying.n.01"
+    ],
+    "fr_synsets": [
+      "purchase.n.01",
+      "succession.n.05",
+      "buying.n.01"
+    ],
+    "shared_synsets_list": [
+      "buying.n.01"
+    ]
+  },
+  {
+    "en_word": "emergence",
+    "fr_word": "émergence",
+    "en_senses": 2,
+    "fr_senses": 2,
+    "shared_senses": 2,
+    "en_synsets": [
+      "egress.n.03",
+      "emergence.n.03"
+    ],
+    "fr_synsets": [
+      "egress.n.03",
+      "emergence.n.03"
+    ],
+    "shared_synsets_list": [
+      "egress.n.03",
+      "emergence.n.03"
+    ]
+  },
+  {
+    "en_word": "attribute",
+    "fr_word": "attribut",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "attribute.n.02"
+    ],
+    "fr_synsets": [
+      "attribute.n.02"
+    ],
+    "shared_synsets_list": [
+      "attribute.n.02"
+    ]
+  },
+  {
+    "en_word": "skip",
+    "fr_word": "saut",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 0,
+    "en_synsets": [
+      "omission.n.01"
+    ],
+    "fr_synsets": [
+      "leap.n.01",
+      "jump.n.06"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "skip",
+    "fr_word": "sauter",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "omission.n.01"
+    ],
+    "fr_synsets": [
+      "leap.n.01"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "brush",
+    "fr_word": "brosse",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "brush.n.09"
+    ],
+    "fr_synsets": [
+      "brush.n.09"
+    ],
+    "shared_synsets_list": [
+      "brush.n.09"
+    ]
+  },
+  {
+    "en_word": "addiction",
+    "fr_word": "dépendance",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "addiction.n.03"
+    ],
+    "fr_synsets": [
+      "addiction.n.03"
+    ],
+    "shared_synsets_list": [
+      "addiction.n.03"
+    ]
+  },
+  {
+    "en_word": "evacuation",
+    "fr_word": "évacuation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "evacuation.n.02"
+    ],
+    "fr_synsets": [
+      "evacuation.n.02"
+    ],
+    "shared_synsets_list": [
+      "evacuation.n.02"
+    ]
+  },
+  {
+    "en_word": "farewell",
+    "fr_word": "adieu",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "farewell.n.02"
+    ],
+    "fr_synsets": [
+      "farewell.n.02"
+    ],
+    "shared_synsets_list": [
+      "farewell.n.02"
+    ]
+  },
+  {
+    "en_word": "farewell",
+    "fr_word": "adieux",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "farewell.n.02"
+    ],
+    "fr_synsets": [
+      "valediction.n.02"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "disappearance",
+    "fr_word": "disparition",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "disappearance.n.01"
+    ],
+    "fr_synsets": [
+      "disappearance.n.01"
+    ],
+    "shared_synsets_list": [
+      "disappearance.n.01"
+    ]
+  },
+  {
+    "en_word": "leap",
+    "fr_word": "saut",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "leap.n.01"
+    ],
+    "fr_synsets": [
+      "leap.n.01",
+      "jump.n.06"
+    ],
+    "shared_synsets_list": [
+      "leap.n.01"
+    ]
+  },
+  {
+    "en_word": "organism",
+    "fr_word": "organisme",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "organism.n.01"
+    ],
+    "fr_synsets": [
+      "organism.n.01"
+    ],
+    "shared_synsets_list": [
+      "organism.n.01"
+    ]
+  },
+  {
+    "en_word": "grouping",
+    "fr_word": "groupement",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "group.n.01"
+    ],
+    "fr_synsets": [
+      "group.n.01"
+    ],
+    "shared_synsets_list": [
+      "group.n.01"
+    ]
+  },
+  {
+    "en_word": "motive",
+    "fr_word": "motif",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "motivation.n.01"
+    ],
+    "fr_synsets": [
+      "motivation.n.01"
+    ],
+    "shared_synsets_list": [
+      "motivation.n.01"
+    ]
+  },
+  {
+    "en_word": "traction",
+    "fr_word": "traction",
+    "en_senses": 1,
+    "fr_senses": 3,
+    "shared_senses": 1,
+    "en_synsets": [
+      "traction.n.02"
+    ],
+    "fr_synsets": [
+      "draw.n.09",
+      "traction.n.02",
+      "drag.n.06"
+    ],
+    "shared_synsets_list": [
+      "traction.n.02"
+    ]
+  },
+  {
+    "en_word": "frustration",
+    "fr_word": "frustration",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "frustration.n.02"
+    ],
+    "fr_synsets": [
+      "frustration.n.02"
+    ],
+    "shared_synsets_list": [
+      "frustration.n.02"
+    ]
+  },
+  {
+    "en_word": "touching",
+    "fr_word": "toucher",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "touch.n.05"
+    ],
+    "fr_synsets": [
+      "touch.n.05"
+    ],
+    "shared_synsets_list": [
+      "touch.n.05"
+    ]
+  },
+  {
+    "en_word": "automation",
+    "fr_word": "automatisation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "automation.n.01"
+    ],
+    "fr_synsets": [
+      "automation.n.01"
+    ],
+    "shared_synsets_list": [
+      "automation.n.01"
+    ]
+  },
+  {
+    "en_word": "exodus",
+    "fr_word": "exode",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "exodus.n.01"
+    ],
+    "fr_synsets": [
+      "exodus.n.01"
+    ],
+    "shared_synsets_list": [
+      "exodus.n.01"
+    ]
+  },
+  {
+    "en_word": "climax",
+    "fr_word": "orgasme",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "orgasm.n.01"
+    ],
+    "fr_synsets": [
+      "orgasm.n.01"
+    ],
+    "shared_synsets_list": [
+      "orgasm.n.01"
+    ]
+  },
+  {
+    "en_word": "deed",
+    "fr_word": "acte",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "act.n.02"
+    ],
+    "fr_synsets": [
+      "act.n.02"
+    ],
+    "shared_synsets_list": [
+      "act.n.02"
+    ]
+  },
+  {
+    "en_word": "deception",
+    "fr_word": "déception",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "magic_trick.n.01"
+    ],
+    "fr_synsets": [
+      "disappointment.n.02"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "ransom",
+    "fr_word": "rançon",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "ransom.n.03"
+    ],
+    "fr_synsets": [
+      "ransom.n.03"
+    ],
+    "shared_synsets_list": [
+      "ransom.n.03"
+    ]
+  },
+  {
+    "en_word": "annexation",
+    "fr_word": "annexion",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "annexation.n.02"
+    ],
+    "fr_synsets": [
+      "annexation.n.02"
+    ],
+    "shared_synsets_list": [
+      "annexation.n.02"
+    ]
+  },
+  {
+    "en_word": "disappointment",
+    "fr_word": "déception",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "disappointment.n.02"
+    ],
+    "fr_synsets": [
+      "disappointment.n.02"
+    ],
+    "shared_synsets_list": [
+      "disappointment.n.02"
+    ]
+  },
+  {
+    "en_word": "distortion",
+    "fr_word": "déformation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "distortion.n.06"
+    ],
+    "fr_synsets": [
+      "distortion.n.06"
+    ],
+    "shared_synsets_list": [
+      "distortion.n.06"
+    ]
+  },
+  {
+    "en_word": "distortion",
+    "fr_word": "distorsion",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "distortion.n.06"
+    ],
+    "fr_synsets": [
+      "distortion.n.06"
+    ],
+    "shared_synsets_list": [
+      "distortion.n.06"
+    ]
+  },
+  {
+    "en_word": "exploit",
+    "fr_word": "exploit",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "feat.n.01"
+    ],
+    "fr_synsets": [
+      "feat.n.01"
+    ],
+    "shared_synsets_list": [
+      "feat.n.01"
+    ]
+  },
+  {
+    "en_word": "salvage",
+    "fr_word": "récupération",
+    "en_senses": 2,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "salvage.n.03",
+      "salvage.n.02"
+    ],
+    "fr_synsets": [
+      "recovery.n.03"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "salvage",
+    "fr_word": "sauvetage",
+    "en_senses": 2,
+    "fr_senses": 3,
+    "shared_senses": 2,
+    "en_synsets": [
+      "salvage.n.03",
+      "salvage.n.02"
+    ],
+    "fr_synsets": [
+      "salvage.n.03",
+      "rescue.n.01",
+      "salvage.n.02"
+    ],
+    "shared_synsets_list": [
+      "salvage.n.03",
+      "salvage.n.02"
+    ]
+  },
+  {
+    "en_word": "recession",
+    "fr_word": "récession",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "receding.n.02"
+    ],
+    "fr_synsets": [
+      "receding.n.02"
+    ],
+    "shared_synsets_list": [
+      "receding.n.02"
+    ]
+  },
+  {
+    "en_word": "impulse",
+    "fr_word": "impulsion",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "impulse.n.05"
+    ],
+    "fr_synsets": [
+      "impulse.n.05"
+    ],
+    "shared_synsets_list": [
+      "impulse.n.05"
+    ]
+  },
+  {
+    "en_word": "emigration",
+    "fr_word": "émigration",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "emigration.n.01"
+    ],
+    "fr_synsets": [
+      "emigration.n.01"
+    ],
+    "shared_synsets_list": [
+      "emigration.n.01"
+    ]
+  },
+  {
+    "en_word": "redemption",
+    "fr_word": "rédemption",
+    "en_senses": 2,
+    "fr_senses": 3,
+    "shared_senses": 2,
+    "en_synsets": [
+      "redemption.n.01",
+      "redemption.n.03"
+    ],
+    "fr_synsets": [
+      "ransom.n.03",
+      "redemption.n.01",
+      "redemption.n.03"
+    ],
+    "shared_synsets_list": [
+      "redemption.n.01",
+      "redemption.n.03"
+    ]
+  },
+  {
+    "en_word": "dispatch",
+    "fr_word": "expédition",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "dispatch.n.02"
+    ],
+    "fr_synsets": [
+      "dispatch.n.02"
+    ],
+    "shared_synsets_list": [
+      "dispatch.n.02"
+    ]
+  },
+  {
+    "en_word": "seizure",
+    "fr_word": "saisie",
+    "en_senses": 2,
+    "fr_senses": 4,
+    "shared_senses": 2,
+    "en_synsets": [
+      "seizure.n.04",
+      "capture.n.01"
+    ],
+    "fr_synsets": [
+      "seizure.n.04",
+      "confiscation.n.01",
+      "capture.n.01",
+      "foreclosure.n.01"
+    ],
+    "shared_synsets_list": [
+      "seizure.n.04",
+      "capture.n.01"
+    ]
+  },
+  {
+    "en_word": "realization",
+    "fr_word": "réalisation",
+    "en_senses": 1,
+    "fr_senses": 3,
+    "shared_senses": 1,
+    "en_synsets": [
+      "realization.n.06"
+    ],
+    "fr_synsets": [
+      "attainment.n.01",
+      "accomplishment.n.01",
+      "realization.n.06"
+    ],
+    "shared_synsets_list": [
+      "realization.n.06"
+    ]
+  },
+  {
+    "en_word": "evasion",
+    "fr_word": "évasion",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "evasion.n.04"
+    ],
+    "fr_synsets": [
+      "escape.n.01",
+      "evasion.n.04"
+    ],
+    "shared_synsets_list": [
+      "evasion.n.04"
+    ]
+  },
+  {
+    "en_word": "disposition",
+    "fr_word": "aliénation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "disposal.n.03"
+    ],
+    "fr_synsets": [
+      "alienation.n.04"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "disposition",
+    "fr_word": "disposition",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "disposal.n.03"
+    ],
+    "fr_synsets": [
+      "disposal.n.03"
+    ],
+    "shared_synsets_list": [
+      "disposal.n.03"
+    ]
+  },
+  {
+    "en_word": "maneuver",
+    "fr_word": "manœuvre",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "maneuver.n.05"
+    ],
+    "fr_synsets": [
+      "maneuver.n.05"
+    ],
+    "shared_synsets_list": [
+      "maneuver.n.05"
+    ]
+  },
+  {
+    "en_word": "capitalization",
+    "fr_word": "capitalisation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "capitalization.n.04"
+    ],
+    "fr_synsets": [
+      "capitalization.n.04"
+    ],
+    "shared_synsets_list": [
+      "capitalization.n.04"
+    ]
+  },
+  {
+    "en_word": "artifact",
+    "fr_word": "artefact",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "artifact.n.01"
+    ],
+    "fr_synsets": [
+      "artifact.n.01"
+    ],
+    "shared_synsets_list": [
+      "artifact.n.01"
+    ]
+  },
+  {
+    "en_word": "kindness",
+    "fr_word": "amabilité",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "kindness.n.03"
+    ],
+    "fr_synsets": [
+      "kindness.n.03"
+    ],
+    "shared_synsets_list": [
+      "kindness.n.03"
+    ]
+  },
+  {
+    "en_word": "abstraction",
+    "fr_word": "abstraction",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "abstraction.n.06"
+    ],
+    "fr_synsets": [
+      "abstraction.n.06"
+    ],
+    "shared_synsets_list": [
+      "abstraction.n.06"
+    ]
+  },
+  {
+    "en_word": "breakout",
+    "fr_word": "évasion",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 0,
+    "en_synsets": [
+      "break.n.16"
+    ],
+    "fr_synsets": [
+      "escape.n.01",
+      "evasion.n.04"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "abandonment",
+    "fr_word": "abandon",
+    "en_senses": 2,
+    "fr_senses": 2,
+    "shared_senses": 2,
+    "en_synsets": [
+      "desertion.n.01",
+      "abandonment.n.03"
+    ],
+    "fr_synsets": [
+      "desertion.n.01",
+      "abandonment.n.03"
+    ],
+    "shared_synsets_list": [
+      "desertion.n.01",
+      "abandonment.n.03"
+    ]
+  },
+  {
+    "en_word": "improvisation",
+    "fr_word": "improvisation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "extemporization.n.01"
+    ],
+    "fr_synsets": [
+      "extemporization.n.01"
+    ],
+    "shared_synsets_list": [
+      "extemporization.n.01"
+    ]
+  },
+  {
+    "en_word": "omission",
+    "fr_word": "omission",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "omission.n.01"
+    ],
+    "fr_synsets": [
+      "omission.n.01"
+    ],
+    "shared_synsets_list": [
+      "omission.n.01"
+    ]
+  },
+  {
+    "en_word": "accomplishment",
+    "fr_word": "accomplissement",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "accomplishment.n.01"
+    ],
+    "fr_synsets": [
+      "accomplishment.n.01"
+    ],
+    "shared_synsets_list": [
+      "accomplishment.n.01"
+    ]
+  },
+  {
+    "en_word": "spit",
+    "fr_word": "cracher",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "spit.n.04"
+    ],
+    "fr_synsets": [
+      "spit.n.04"
+    ],
+    "shared_synsets_list": [
+      "spit.n.04"
+    ]
+  },
+  {
+    "en_word": "shipment",
+    "fr_word": "expédition",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "dispatch.n.02"
+    ],
+    "fr_synsets": [
+      "dispatch.n.02"
+    ],
+    "shared_synsets_list": [
+      "dispatch.n.02"
+    ]
+  },
+  {
+    "en_word": "disappearing",
+    "fr_word": "disparition",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "disappearance.n.01"
+    ],
+    "fr_synsets": [
+      "disappearance.n.01"
+    ],
+    "shared_synsets_list": [
+      "disappearance.n.01"
+    ]
+  },
+  {
+    "en_word": "blockbuster",
+    "fr_word": "blockbuster",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "blockbuster.n.02"
+    ],
+    "fr_synsets": [
+      "blockbuster.n.02"
+    ],
+    "shared_synsets_list": [
+      "blockbuster.n.02"
+    ]
+  },
+  {
+    "en_word": "receipt",
+    "fr_word": "réception",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "reception.n.04"
+    ],
+    "fr_synsets": [
+      "reception.n.04"
+    ],
+    "shared_synsets_list": [
+      "reception.n.04"
+    ]
+  },
+  {
+    "en_word": "receipt",
+    "fr_word": "reçu",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "reception.n.04"
+    ],
+    "fr_synsets": [
+      "reception.n.04"
+    ],
+    "shared_synsets_list": [
+      "reception.n.04"
+    ]
+  },
+  {
+    "en_word": "receipt",
+    "fr_word": "récépissé",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "reception.n.04"
+    ],
+    "fr_synsets": [
+      "reception.n.04"
+    ],
+    "shared_synsets_list": [
+      "reception.n.04"
+    ]
+  },
+  {
+    "en_word": "appropriation",
+    "fr_word": "appropriation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "appropriation.n.03"
+    ],
+    "fr_synsets": [
+      "appropriation.n.03"
+    ],
+    "shared_synsets_list": [
+      "appropriation.n.03"
+    ]
+  },
+  {
+    "en_word": "vanishing",
+    "fr_word": "disparition",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "vanishing.n.02"
+    ],
+    "fr_synsets": [
+      "disappearance.n.01"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "stain",
+    "fr_word": "tache",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "blot.n.02"
+    ],
+    "fr_synsets": [
+      "blot.n.02"
+    ],
+    "shared_synsets_list": [
+      "blot.n.02"
+    ]
+  },
+  {
+    "en_word": "vomiting",
+    "fr_word": "vomir",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "vomit.n.03"
+    ],
+    "fr_synsets": [
+      "vomit.n.03"
+    ],
+    "shared_synsets_list": [
+      "vomit.n.03"
+    ]
+  },
+  {
+    "en_word": "intrusion",
+    "fr_word": "intrusion",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "intrusion.n.02"
+    ],
+    "fr_synsets": [
+      "intrusion.n.02"
+    ],
+    "shared_synsets_list": [
+      "intrusion.n.02"
+    ]
+  },
+  {
+    "en_word": "rounding",
+    "fr_word": "arrondi",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "rounding.n.01"
+    ],
+    "fr_synsets": [
+      "rounding.n.01"
+    ],
+    "shared_synsets_list": [
+      "rounding.n.01"
+    ]
+  },
+  {
+    "en_word": "fulfillment",
+    "fr_word": "accomplissement",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "fulfillment.n.02"
+    ],
+    "fr_synsets": [
+      "accomplishment.n.01"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "occupancy",
+    "fr_word": "occupation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "occupation.n.04"
+    ],
+    "fr_synsets": [
+      "occupation.n.04"
+    ],
+    "shared_synsets_list": [
+      "occupation.n.04"
+    ]
+  },
+  {
+    "en_word": "rallying",
+    "fr_word": "ralliement",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "rally.n.02"
+    ],
+    "fr_synsets": [
+      "rally.n.02"
+    ],
+    "shared_synsets_list": [
+      "rally.n.02"
+    ]
+  },
+  {
+    "en_word": "alienation",
+    "fr_word": "aliénation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "alienation.n.04"
+    ],
+    "fr_synsets": [
+      "alienation.n.04"
+    ],
+    "shared_synsets_list": [
+      "alienation.n.04"
+    ]
+  },
+  {
+    "en_word": "repatriation",
+    "fr_word": "rapatriement",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "repatriation.n.01"
+    ],
+    "fr_synsets": [
+      "repatriation.n.01"
+    ],
+    "shared_synsets_list": [
+      "repatriation.n.01"
+    ]
+  },
+  {
+    "en_word": "discard",
+    "fr_word": "jeter",
+    "en_senses": 2,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "discard.n.03",
+      "discard.n.02"
+    ],
+    "fr_synsets": [
+      "throw.n.01"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "restitution",
+    "fr_word": "restitution",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "restitution.n.03"
+    ],
+    "fr_synsets": [
+      "restitution.n.03"
+    ],
+    "shared_synsets_list": [
+      "restitution.n.03"
+    ]
+  },
+  {
+    "en_word": "atonement",
+    "fr_word": "expiation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "expiation.n.02"
+    ],
+    "fr_synsets": [
+      "expiation.n.02"
+    ],
+    "shared_synsets_list": [
+      "expiation.n.02"
+    ]
+  },
+  {
+    "en_word": "capitulation",
+    "fr_word": "capitulation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "capitulation.n.03"
+    ],
+    "fr_synsets": [
+      "capitulation.n.03"
+    ],
+    "shared_synsets_list": [
+      "capitulation.n.03"
+    ]
+  },
+  {
+    "en_word": "ejection",
+    "fr_word": "éjection",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "expulsion.n.03"
+    ],
+    "fr_synsets": [
+      "expulsion.n.03"
+    ],
+    "shared_synsets_list": [
+      "expulsion.n.03"
+    ]
+  },
+  {
+    "en_word": "capitalisation",
+    "fr_word": "capitalisation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "capitalization.n.04"
+    ],
+    "fr_synsets": [
+      "capitalization.n.04"
+    ],
+    "shared_synsets_list": [
+      "capitalization.n.04"
+    ]
+  },
+  {
+    "en_word": "defection",
+    "fr_word": "désertion",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "desertion.n.01"
+    ],
+    "fr_synsets": [
+      "desertion.n.01"
+    ],
+    "shared_synsets_list": [
+      "desertion.n.01"
+    ]
+  },
+  {
+    "en_word": "apparition",
+    "fr_word": "apparition",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "apparition.n.04"
+    ],
+    "fr_synsets": [
+      "appearance.n.05",
+      "apparition.n.04"
+    ],
+    "shared_synsets_list": [
+      "apparition.n.04"
+    ]
+  },
+  {
+    "en_word": "juggling",
+    "fr_word": "jongler",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "juggle.n.02"
+    ],
+    "fr_synsets": [
+      "juggle.n.02"
+    ],
+    "shared_synsets_list": [
+      "juggle.n.02"
+    ]
+  },
+  {
+    "en_word": "naturalization",
+    "fr_word": "naturalisation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "naturalization.n.04"
+    ],
+    "fr_synsets": [
+      "naturalization.n.04"
+    ],
+    "shared_synsets_list": [
+      "naturalization.n.04"
+    ]
+  },
+  {
+    "en_word": "confiscation",
+    "fr_word": "confiscation",
+    "en_senses": 1,
+    "fr_senses": 2,
+    "shared_senses": 1,
+    "en_synsets": [
+      "confiscation.n.01"
+    ],
+    "fr_synsets": [
+      "confiscation.n.01",
+      "capture.n.01"
+    ],
+    "shared_synsets_list": [
+      "confiscation.n.01"
+    ]
+  },
+  {
+    "en_word": "spitting",
+    "fr_word": "cracher",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "spit.n.04"
+    ],
+    "fr_synsets": [
+      "spit.n.04"
+    ],
+    "shared_synsets_list": [
+      "spit.n.04"
+    ]
+  },
+  {
+    "en_word": "manoeuvre",
+    "fr_word": "manœuvrer",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "maneuver.n.05"
+    ],
+    "fr_synsets": [
+      "maneuver.n.05"
+    ],
+    "shared_synsets_list": [
+      "maneuver.n.05"
+    ]
+  },
+  {
+    "en_word": "manoeuvre",
+    "fr_word": "manœuvre",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "maneuver.n.05"
+    ],
+    "fr_synsets": [
+      "maneuver.n.05"
+    ],
+    "shared_synsets_list": [
+      "maneuver.n.05"
+    ]
+  },
+  {
+    "en_word": "orgasm",
+    "fr_word": "orgasme",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "orgasm.n.01"
+    ],
+    "fr_synsets": [
+      "orgasm.n.01"
+    ],
+    "shared_synsets_list": [
+      "orgasm.n.01"
+    ]
+  },
+  {
+    "en_word": "realisation",
+    "fr_word": "réalisation",
+    "en_senses": 1,
+    "fr_senses": 3,
+    "shared_senses": 1,
+    "en_synsets": [
+      "realization.n.06"
+    ],
+    "fr_synsets": [
+      "attainment.n.01",
+      "accomplishment.n.01",
+      "realization.n.06"
+    ],
+    "shared_synsets_list": [
+      "realization.n.06"
+    ]
+  },
+  {
+    "en_word": "remission",
+    "fr_word": "rémission",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "absolution.n.02"
+    ],
+    "fr_synsets": [
+      "absolution.n.02"
+    ],
+    "shared_synsets_list": [
+      "absolution.n.02"
+    ]
+  },
+  {
+    "en_word": "desertion",
+    "fr_word": "désertion",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "desertion.n.01"
+    ],
+    "fr_synsets": [
+      "desertion.n.01"
+    ],
+    "shared_synsets_list": [
+      "desertion.n.01"
+    ]
+  },
+  {
+    "en_word": "vomit",
+    "fr_word": "vomir",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "vomit.n.03"
+    ],
+    "fr_synsets": [
+      "vomit.n.03"
+    ],
+    "shared_synsets_list": [
+      "vomit.n.03"
+    ]
+  },
+  {
+    "en_word": "transposition",
+    "fr_word": "transposition",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "transposition.n.07"
+    ],
+    "fr_synsets": [
+      "transposition.n.07"
+    ],
+    "shared_synsets_list": [
+      "transposition.n.07"
+    ]
+  },
+  {
+    "en_word": "equalization",
+    "fr_word": "égalisation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "equalization.n.01"
+    ],
+    "fr_synsets": [
+      "equalization.n.01"
+    ],
+    "shared_synsets_list": [
+      "equalization.n.01"
+    ]
+  },
+  {
+    "en_word": "blush",
+    "fr_word": "rougir",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "blush.n.02"
+    ],
+    "fr_synsets": [
+      "blush.n.02"
+    ],
+    "shared_synsets_list": [
+      "blush.n.02"
+    ]
+  },
+  {
+    "en_word": "enslavement",
+    "fr_word": "asservissement",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "enslavement.n.02"
+    ],
+    "fr_synsets": [
+      "enslavement.n.02"
+    ],
+    "shared_synsets_list": [
+      "enslavement.n.02"
+    ]
+  },
+  {
+    "en_word": "blot",
+    "fr_word": "blot",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "blot.n.02"
+    ],
+    "fr_synsets": [
+      "blot.n.02"
+    ],
+    "shared_synsets_list": [
+      "blot.n.02"
+    ]
+  },
+  {
+    "en_word": "artefact",
+    "fr_word": "artefact",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "artifact.n.01"
+    ],
+    "fr_synsets": [
+      "artifact.n.01"
+    ],
+    "shared_synsets_list": [
+      "artifact.n.01"
+    ]
+  },
+  {
+    "en_word": "fulfilment",
+    "fr_word": "accomplissement",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 0,
+    "en_synsets": [
+      "fulfillment.n.02"
+    ],
+    "fr_synsets": [
+      "accomplishment.n.01"
+    ],
+    "shared_synsets_list": []
+  },
+  {
+    "en_word": "expropriation",
+    "fr_word": "expropriation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "expropriation.n.01"
+    ],
+    "fr_synsets": [
+      "expropriation.n.01"
+    ],
+    "shared_synsets_list": [
+      "expropriation.n.01"
+    ]
+  },
+  {
+    "en_word": "lob",
+    "fr_word": "lob",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "lob.n.02"
+    ],
+    "fr_synsets": [
+      "lob.n.02"
+    ],
+    "shared_synsets_list": [
+      "lob.n.02"
+    ]
+  },
+  {
+    "en_word": "recidivism",
+    "fr_word": "récidive",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "recidivism.n.01"
+    ],
+    "fr_synsets": [
+      "recidivism.n.01"
+    ],
+    "shared_synsets_list": [
+      "recidivism.n.01"
+    ]
+  },
+  {
+    "en_word": "exhumation",
+    "fr_word": "exhumation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "exhumation.n.01"
+    ],
+    "fr_synsets": [
+      "exhumation.n.01"
+    ],
+    "shared_synsets_list": [
+      "exhumation.n.01"
+    ]
+  },
+  {
+    "en_word": "jailbreak",
+    "fr_word": "jailbreak",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "break.n.16"
+    ],
+    "fr_synsets": [
+      "break.n.16"
+    ],
+    "shared_synsets_list": [
+      "break.n.16"
+    ]
+  },
+  {
+    "en_word": "naturalisation",
+    "fr_word": "naturalisation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "naturalization.n.04"
+    ],
+    "fr_synsets": [
+      "naturalization.n.04"
+    ],
+    "shared_synsets_list": [
+      "naturalization.n.04"
+    ]
+  },
+  {
+    "en_word": "juggle",
+    "fr_word": "jongler",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "juggle.n.02"
+    ],
+    "fr_synsets": [
+      "juggle.n.02"
+    ],
+    "shared_synsets_list": [
+      "juggle.n.02"
+    ]
+  },
+  {
+    "en_word": "boner",
+    "fr_word": "trique",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "blunder.n.01"
+    ],
+    "fr_synsets": [
+      "blunder.n.01"
+    ],
+    "shared_synsets_list": [
+      "blunder.n.01"
+    ]
+  },
+  {
+    "en_word": "gaffe",
+    "fr_word": "gaffe",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "faux_pas.n.01"
+    ],
+    "fr_synsets": [
+      "faux_pas.n.01"
+    ],
+    "shared_synsets_list": [
+      "faux_pas.n.01"
+    ]
+  },
+  {
+    "en_word": "burp",
+    "fr_word": "rot",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "belch.n.01"
+    ],
+    "fr_synsets": [
+      "belch.n.01"
+    ],
+    "shared_synsets_list": [
+      "belch.n.01"
+    ]
+  },
+  {
+    "en_word": "rumination",
+    "fr_word": "rumination",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "rumination.n.03"
+    ],
+    "fr_synsets": [
+      "rumination.n.03"
+    ],
+    "shared_synsets_list": [
+      "rumination.n.03"
+    ]
+  },
+  {
+    "en_word": "computerization",
+    "fr_word": "informatisation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "computerization.n.01"
+    ],
+    "fr_synsets": [
+      "computerization.n.01"
+    ],
+    "shared_synsets_list": [
+      "computerization.n.01"
+    ]
+  },
+  {
+    "en_word": "expiation",
+    "fr_word": "expiation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "expiation.n.02"
+    ],
+    "fr_synsets": [
+      "expiation.n.02"
+    ],
+    "shared_synsets_list": [
+      "expiation.n.02"
+    ]
+  },
+  {
+    "en_word": "equalisation",
+    "fr_word": "égalisation",
+    "en_senses": 1,
+    "fr_senses": 1,
+    "shared_senses": 1,
+    "en_synsets": [
+      "equalization.n.01"
+    ],
+    "fr_synsets": [
+      "equalization.n.01"
+    ],
+    "shared_synsets_list": [
+      "equalization.n.01"
+    ]
+  }
+]

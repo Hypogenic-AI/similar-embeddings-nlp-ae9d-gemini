@@ -1,0 +1,24 @@
+\section{Appendix}
+\label{sec:appendix}
+
+\subsection{Dataset Statistics}
+
+Our dataset was constructed using the intersection of MUSE dictionaries and the Open Multilingual WordNet (OMW). Table \ref{tab:dataset_stats} provides a breakdown of the number of pairs per language and polysemy category.
+
+\begin{table}[h]
+    \centering
+    \caption{Detailed Dataset Statistics}
+    \label{tab:dataset_stats}
+    \begin{tabular}{lccc}
+        \toprule
+        \textbf{Category} & \textbf{EN-FR} & \textbf{EN-ES} & \textbf{Total} \\
+        \midrule
+        Monosemous-Shared & 142 & 72 & 214 \\
+        Polysemous-Full & 6 & 4 & 10 \\
+        Polysemous-Partial & 31 & 18 & 49 \\
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+\subsection{Implementation Details}
+We use the `sentence-transformers` library to load the `paraphrase-multilingual-MiniLM-L12-v2` model. Embeddings are extracted from the `[CLS]` token for single words. The code is available at \url{https://github.com/hypogenic/similar-embeddings-nlp}.

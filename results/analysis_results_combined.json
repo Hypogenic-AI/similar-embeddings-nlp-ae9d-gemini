@@ -1,0 +1,18 @@
+{
+  "ttest_mono_vs_partial": {
+    "t_stat": 0.49638906294462504,
+    "p_val": 0.620093818966555
+  },
+  "spearman_non_shared_senses_vs_similarity": {
+    "correlation": -0.12467857076918874,
+    "p_val": 0.010267318351697068
+  },
+  "spearman_fr": {
+    "correlation": -0.09641191791695965,
+    "p_val": 0.1550507790144627
+  },
+  "spearman_es": {
+    "correlation": -0.20503354775678004,
+    "p_val": 0.0032632322309675147
+  }
+}

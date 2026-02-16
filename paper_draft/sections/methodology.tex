@@ -1,0 +1,27 @@
+\section{Methodology}
+\label{sec:method}
+
+We aim to quantify the relationship between semantic ambiguity (polysemy) and embedding similarity. Our approach combines lexical resources (dictionaries and WordNets) with dense vector representations from a state-of-the-art MLLM.
+
+\subsection{Data Construction}
+
+We construct a dataset of translation pairs annotated with sense counts. We use the MUSE dictionaries \cite{lample2018word} for English-French (\en-\fr) and English-Spanish (\en-\es) ground truth translations. To quantify polysemy, we align these pairs with the Open Multilingual WordNet (OMW) \cite{bond2012survey}.
+
+\para{Filtering.}
+We filter the dataset to include only pairs where both the source and target words are present in our OMW sample. This ensures reliable sense counts. To isolate semantic similarity from lexical overlap, we exclude pairs with identical spellings (e.g., ``taxi'' in \en and \fr), which would trivially have high similarity. This results in a high-quality dataset of 423 unique translation pairs.
+
+\subsection{Quantifying Polysemy}
+
+We define a metric for ``semantic divergence'' based on sense counts. Let $S(w)$ be the set of WordNet synsets (senses) for a word $w$. For a translation pair $(w_{src}, w_{tgt})$, the set of shared senses is $S_{shared} = S(w_{src}) \cap S(w_{tgt})$. The number of non-shared senses (\textsc{NS}) is defined as:
+\begin{equation}
+    \textsc{NS}(w_{src}, w_{tgt}) = |S(w_{src})| + |S(w_{tgt})| - 2|S_{shared}|
+\end{equation}
+This metric captures the total number of meanings unique to either the source or target word. A value of 0 indicates perfect semantic equivalence (all senses are shared), while higher values indicate increasing divergence.
+
+\subsection{Model and Similarity Metric}
+
+We use \fullmodelname (\modelname) \cite{reimers2019sentence} to generate embeddings. This model is distilled from XLM-R and optimized for semantic similarity, making it an ideal instrument for measuring cross-lingual alignment. For each word pair $(w_{src}, w_{tgt})$, we compute the cosine similarity of their embeddings:
+\begin{equation}
+    \cossim(w_{src}, w_{tgt}) = \frac{\vv_{src} \cdot \vv_{tgt}}{\|\vv_{src}\| \|\vv_{tgt}\|}
+\end{equation}
+where $\vv$ is the embedding vector. We compare these similarities against a random baseline constructed by pairing source words with random target words.

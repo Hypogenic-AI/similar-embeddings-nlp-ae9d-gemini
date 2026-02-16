@@ -1,0 +1,11 @@
+\section{Related Work}
+\label{sec:related}
+
+\para{Implicit Cross-Lingual Alignment.}
+Early work on Cross-Lingual Word Embeddings (CLWE) focused on explicit mapping techniques. Methods like MUSE \cite{lample2018word} learned linear transformations to align monolingual spaces, assuming structural isomorphism. However, the advent of large pretrained MLLMs revealed a surprising phenomenon: alignment emerges implicitly \cite{wu2019emerging}. Models like mBERT and XLM-R develop shared cross-lingual representations without explicit parallel data, likely due to shared subword tokens and structural similarities in language. We build on this understanding, treating the MLLM's internal representation as the shared space to analyze.
+
+\para{Concept Alignment.}
+Recent studies have probed the nature of these shared spaces. \citet{peng2024concept} demonstrated high-quality linear alignment between concepts across languages in LLMs, using WordNet synsets as ground truth. Similarly, \citet{zada2025brains} found convergence between human brain representations and LLM embeddings across languages, suggesting a universal conceptual geometry. While these works establish the existence of alignment, they often aggregate results, overlooking the granular impact of ambiguity. Our work zooms in on the specific instances where this alignment is challenged: polysemy.
+
+\para{Non-Isomorphism and Polysemy.}
+The assumption of isomorphism---that languages share an identical geometric structure---has been challenged. \citet{zhang2019girls} highlighted the issue of non-isomorphism, particularly for distant language pairs, and proposed iterative normalization to mitigate it. However, most prior work treats non-isomorphism as a global property or focuses on frequency effects. The specific role of polysemy as a local distorter of embedding similarity has received less attention. By quantifying the ``pull'' of non-shared senses, we provide a mechanism for understanding why certain concepts fail to align perfectly.

@@ -1,0 +1,274 @@
+en_word,fr_word,en_senses,fr_senses,shared_senses,en_synsets,fr_synsets,shared_synsets_list,similarity,category
+article,article,1,1,1,['article.n.02'],['article.n.02'],['article.n.02'],1.0,Monosemous-Shared
+time,temps,1,1,1,['time.n.05'],['time.n.05'],['time.n.05'],0.972328245639801,Monosemous-Shared
+state,état,1,1,1,['state.n.02'],['state.n.02'],['state.n.02'],0.9065226912498474,Monosemous-Shared
+being,être,1,2,1,['organism.n.01'],"['animal.n.01', 'organism.n.01']",['organism.n.01'],0.8824111223220825,Polysemous-Partial
+group,groupe,1,1,1,['group.n.01'],['group.n.01'],['group.n.01'],0.9764224886894226,Monosemous-Shared
+life,vie,1,1,1,['life.n.10'],['life.n.10'],['life.n.10'],0.7829639911651611,Monosemous-Shared
+service,service,1,1,1,['service.n.15'],['service.n.15'],['service.n.15'],1.0,Monosemous-Shared
+need,besoin,1,1,1,['motivation.n.01'],['motivation.n.01'],['motivation.n.01'],0.9476380348205566,Monosemous-Shared
+form,forme,1,1,1,['shape.n.02'],['shape.n.02'],['shape.n.02'],0.7863110899925232,Monosemous-Shared
+find,trouver,1,1,1,['discovery.n.01'],['discovery.n.01'],['discovery.n.01'],0.9216557145118713,Monosemous-Shared
+position,position,1,1,1,['position.n.16'],['position.n.16'],['position.n.16'],1.0,Monosemous-Shared
+press,presse,1,1,1,['press.n.09'],['press.n.09'],['press.n.09'],0.9055317640304565,Monosemous-Shared
+act,acte,1,1,1,['act.n.02'],['act.n.02'],['act.n.02'],0.9300544857978821,Monosemous-Shared
+person,personne,1,1,1,['person.n.01'],['person.n.01'],['person.n.01'],0.5381500124931335,Monosemous-Shared
+location,localisation,1,1,1,['location.n.01'],['location.n.01'],['location.n.01'],0.5981274843215942,Monosemous-Shared
+location,lieu,1,1,1,['location.n.01'],['location.n.01'],['location.n.01'],0.7453340888023376,Monosemous-Shared
+event,évènement,1,1,1,['event.n.01'],['event.n.01'],['event.n.01'],0.9470853805541992,Monosemous-Shared
+event,événement,1,1,1,['event.n.01'],['event.n.01'],['event.n.01'],0.9681384563446045,Monosemous-Shared
+action,action,1,1,1,['action.n.01'],['action.n.01'],['action.n.01'],1.0,Monosemous-Shared
+space,espace,1,1,1,['space.n.01'],['space.n.01'],['space.n.01'],0.9448128938674927,Monosemous-Shared
+process,processus,1,1,1,['process.n.06'],['process.n.06'],['process.n.06'],0.9720754027366638,Monosemous-Shared
+release,libération,1,1,1,['liberation.n.01'],['liberation.n.01'],['liberation.n.01'],0.575133740901947,Monosemous-Shared
+put,mettre,1,1,1,['put_option.n.02'],['put_option.n.02'],['put_option.n.02'],0.838258683681488,Monosemous-Shared
+course,cours,1,1,1,['course.n.04'],['course.n.04'],['course.n.04'],0.9122276306152344,Monosemous-Shared
+performance,performance,2,1,1,"['performance.n.04', 'performance.n.03']",['performance.n.04'],['performance.n.04'],1.0,Polysemous-Partial
+return,retour,3,4,3,"['reappearance.n.02', 'restitution.n.03', 'return.n.02']","['reappearance.n.02', 'restitution.n.03', 'repatriation.n.01', 'return.n.02']","['reappearance.n.02', 'restitution.n.03', 'return.n.02']",0.7899964451789856,Polysemous-Partial
+unit,unité,1,1,1,['whole.n.02'],['whole.n.02'],['whole.n.02'],0.6158656477928162,Monosemous-Shared
+winning,gagnant,1,1,1,['winning.n.01'],['winning.n.01'],['winning.n.01'],0.962356686592102,Monosemous-Shared
+food,nourriture,1,1,1,['food.n.01'],['food.n.01'],['food.n.01'],0.9492142200469971,Monosemous-Shared
+thing,chose,2,3,2,"['thing.n.02', 'thing.n.12']","['object.n.01', 'thing.n.02', 'thing.n.12']","['thing.n.12', 'thing.n.02']",0.5211665630340576,Polysemous-Partial
+call,appeler,1,1,1,['call_option.n.02'],['call_option.n.02'],['call_option.n.02'],0.8855685591697693,Monosemous-Shared
+success,succès,1,2,1,['success.n.02'],"['success.n.02', 'accomplishment.n.01']",['success.n.02'],0.9542365074157715,Polysemous-Partial
+success,réussite,1,1,1,['success.n.02'],['success.n.02'],['success.n.02'],0.9578040242195129,Monosemous-Shared
+shot,coup,1,2,0,['blastoff.n.01'],"['coup.n.02', 'hit.n.01']",[],0.40888845920562744,Polysemous-Partial
+occupation,occupation,1,1,1,['occupation.n.04'],['occupation.n.04'],['occupation.n.04'],1.0,Monosemous-Shared
+plant,végétal,1,1,1,['plant.n.02'],['plant.n.02'],['plant.n.02'],0.7000265121459961,Monosemous-Shared
+plant,plante,1,1,1,['plant.n.02'],['plant.n.02'],['plant.n.02'],0.9871787428855896,Monosemous-Shared
+leave,partir,1,1,1,['farewell.n.02'],['farewell.n.02'],['farewell.n.02'],0.8454219698905945,Monosemous-Shared
+fall,chute,2,1,1,"['capitulation.n.03', 'spill.n.04']",['spill.n.04'],['spill.n.04'],0.48798680305480957,Polysemous-Partial
+appearance,apparition,1,2,1,['appearance.n.05'],"['appearance.n.05', 'apparition.n.04']",['appearance.n.05'],0.7248157262802124,Polysemous-Partial
+appearance,aspect,1,1,1,['appearance.n.05'],['appearance.n.05'],['appearance.n.05'],0.6312180161476135,Monosemous-Shared
+entry,entrée,1,2,1,['entrance.n.03'],"['entrance.n.03', 'entree.n.04']",['entrance.n.03'],0.8297945261001587,Polysemous-Partial
+cause,cause,1,2,1,['causal_agent.n.01'],"['causal_agent.n.01', 'thing.n.12']",['causal_agent.n.01'],1.0,Polysemous-Partial
+knowledge,savoir,1,1,1,['cognition.n.01'],['cognition.n.01'],['cognition.n.01'],0.7623340487480164,Monosemous-Shared
+knowledge,connaissance,1,1,1,['cognition.n.01'],['cognition.n.01'],['cognition.n.01'],0.9845201969146729,Monosemous-Shared
+draft,brouillon,1,1,1,['draft.n.11'],['draft.n.11'],['draft.n.11'],0.27829110622406006,Monosemous-Shared
+ball,boule,1,1,1,['ball.n.12'],['ball.n.12'],['ball.n.12'],0.7789968252182007,Monosemous-Shared
+ball,balle,1,2,1,['ball.n.12'],"['fastball.n.01', 'ball.n.12']",['ball.n.12'],0.9738655090332031,Polysemous-Partial
+ball,ballon,1,1,1,['ball.n.12'],['ball.n.12'],['ball.n.12'],0.5829169750213623,Monosemous-Shared
+heritage,héritage,1,1,1,['inheritance.n.01'],['inheritance.n.01'],['inheritance.n.01'],0.9291895031929016,Monosemous-Shared
+heritage,patrimoine,1,1,1,['inheritance.n.01'],['inheritance.n.01'],['inheritance.n.01'],0.9620044827461243,Monosemous-Shared
+pressure,pression,1,2,1,['press.n.09'],"['press.n.09', 'push.n.01']",['press.n.09'],0.9917119741439819,Polysemous-Partial
+grant,subvention,1,1,1,['grant.n.02'],['grant.n.02'],['grant.n.02'],0.6012125611305237,Monosemous-Shared
+effort,effort,1,1,1,['feat.n.01'],['feat.n.01'],['feat.n.01'],1.0,Monosemous-Shared
+cell,cellule,1,1,1,['cell.n.02'],['cell.n.02'],['cell.n.02'],0.9579147100448608,Monosemous-Shared
+contact,contact,1,1,1,['contact.n.01'],['contact.n.01'],['contact.n.01'],1.0,Monosemous-Shared
+traffic,trafic,1,1,1,['dealings.n.01'],['dealings.n.01'],['dealings.n.01'],0.9531365036964417,Monosemous-Shared
+bowl,gamelle,1,1,0,['roll.n.15'],['wipeout.n.02'],[],0.5541256666183472,Monosemous-Shared
+animal,animal,1,1,1,['animal.n.01'],['animal.n.01'],['animal.n.01'],1.0,Monosemous-Shared
+draw,dessiner,1,1,1,['draw.n.09'],['draw.n.09'],['draw.n.09'],0.9109272956848145,Monosemous-Shared
+object,objet,1,3,1,['object.n.01'],"['object.n.01', 'thing.n.12', 'article.n.02']",['object.n.01'],0.9131833910942078,Polysemous-Partial
+credit,crédit,2,2,2,"['credit.n.04', 'credit.n.06']","['credit.n.04', 'credit.n.06']","['credit.n.04', 'credit.n.06']",0.9919536113739014,Polysemous-Full
+communication,communication,1,1,1,['communication.n.02'],['communication.n.02'],['communication.n.02'],1.0,Monosemous-Shared
+failure,échec,2,1,1,"['failure.n.05', 'failure.n.01']",['failure.n.01'],['failure.n.01'],0.9652685523033142,Polysemous-Partial
+failure,défaillance,2,1,1,"['failure.n.05', 'failure.n.01']",['failure.n.01'],['failure.n.01'],0.9466263651847839,Polysemous-Partial
+magic,magie,1,1,1,['magic_trick.n.01'],['magic_trick.n.01'],['magic_trick.n.01'],0.9645828008651733,Monosemous-Shared
+launch,lancement,1,2,1,['launching.n.03'],"['launching.n.03', 'launching.n.01']",['launching.n.03'],0.8435964584350586,Polysemous-Partial
+launch,lancer,1,1,0,['launching.n.03'],['pitch.n.02'],[],0.45681703090667725,Monosemous-Shared
+escape,évasion,1,2,1,['escape.n.01'],"['escape.n.01', 'evasion.n.04']",['escape.n.01'],0.7947400808334351,Polysemous-Partial
+shape,forme,1,1,1,['shape.n.02'],['shape.n.02'],['shape.n.02'],0.7456029057502747,Monosemous-Shared
+flora,flore,1,1,1,['plant.n.02'],['plant.n.02'],['plant.n.02'],0.8820571899414062,Monosemous-Shared
+entrance,entrée,1,2,1,['entrance.n.03'],"['entrance.n.03', 'entree.n.04']",['entrance.n.03'],0.7896788716316223,Polysemous-Partial
+retirement,retraite,1,1,1,['retirement.n.03'],['retirement.n.03'],['retirement.n.03'],0.9665138721466064,Monosemous-Shared
+discovery,découverte,1,1,1,['discovery.n.01'],['discovery.n.01'],['discovery.n.01'],0.980808436870575,Monosemous-Shared
+error,erreur,2,2,2,"['mistake.n.01', 'error.n.04']","['mistake.n.01', 'error.n.04']","['mistake.n.01', 'error.n.04']",0.8761259317398071,Polysemous-Full
+measure,mesure,1,1,1,['measure.n.02'],['measure.n.02'],['measure.n.02'],0.9395785331726074,Monosemous-Shared
+hook,hameçon,1,1,1,['hook_shot.n.01'],['hook_shot.n.01'],['hook_shot.n.01'],0.45971810817718506,Monosemous-Shared
+landing,atterrissage,2,2,2,"['landing.n.03', 'landing.n.04']","['landing.n.03', 'landing.n.04']","['landing.n.03', 'landing.n.04']",0.7221125364303589,Polysemous-Full
+marketing,marketing,1,1,1,['marketing.n.03'],['marketing.n.03'],['marketing.n.03'],1.0,Monosemous-Shared
+marketing,commercialisation,1,1,1,['marketing.n.03'],['marketing.n.03'],['marketing.n.03'],0.8230254650115967,Monosemous-Shared
+rescue,sauvetage,1,3,1,['rescue.n.01'],"['salvage.n.03', 'rescue.n.01', 'salvage.n.02']",['rescue.n.01'],0.741685152053833,Polysemous-Partial
+hop,houblon,1,1,1,['hop.n.01'],['hop.n.01'],['hop.n.01'],0.5351671576499939,Monosemous-Shared
+purchase,achats,1,1,0,['purchase.n.01'],['procurement.n.01'],[],0.9431658983230591,Monosemous-Shared
+purchase,acheter,1,1,1,['purchase.n.01'],['purchase.n.01'],['purchase.n.01'],0.8428654074668884,Monosemous-Shared
+purchase,achat,1,3,1,['purchase.n.01'],"['purchase.n.01', 'succession.n.05', 'buying.n.01']",['purchase.n.01'],0.9604576826095581,Polysemous-Partial
+drawing,dessin,1,1,1,['draft.n.11'],['draft.n.11'],['draft.n.11'],0.9532011151313782,Monosemous-Shared
+drawing,dessiner,1,1,0,['draft.n.11'],['draw.n.09'],[],0.9573737978935242,Monosemous-Shared
+reception,réception,1,1,1,['reception.n.04'],['reception.n.04'],['reception.n.04'],0.8802341818809509,Monosemous-Shared
+interpretation,interprétation,1,1,1,['rendition.n.04'],['rendition.n.04'],['rendition.n.04'],0.9701690673828125,Monosemous-Shared
+shopping,achats,1,1,0,['shopping.n.01'],['procurement.n.01'],[],0.8816505074501038,Monosemous-Shared
+shopping,shopping,1,1,1,['shopping.n.01'],['shopping.n.01'],['shopping.n.01'],1.0,Monosemous-Shared
+restoration,restauration,1,1,1,['restitution.n.03'],['restitution.n.03'],['restitution.n.03'],0.956950306892395,Monosemous-Shared
+relation,relation,2,2,2,"['relation.n.06', 'relation.n.01']","['relation.n.06', 'relation.n.01']","['relation.n.06', 'relation.n.01']",1.0,Polysemous-Full
+arrival,arrivée,2,2,2,"['arrival.n.01', 'arrival.n.02']","['arrival.n.01', 'arrival.n.02']","['arrival.n.01', 'arrival.n.02']",0.7296186089515686,Polysemous-Full
+depression,dépression,1,1,1,['depression.n.10'],['depression.n.10'],['depression.n.10'],0.9956240653991699,Monosemous-Shared
+interaction,interaction,1,1,1,['interaction.n.01'],['interaction.n.01'],['interaction.n.01'],1.0,Monosemous-Shared
+achievement,accomplissement,1,1,1,['accomplishment.n.01'],['accomplishment.n.01'],['accomplishment.n.01'],0.7616674900054932,Monosemous-Shared
+jump,sauter,1,1,0,['jump.n.06'],['leap.n.01'],[],0.6398922801017761,Monosemous-Shared
+jump,saut,1,2,1,['jump.n.06'],"['leap.n.01', 'jump.n.06']",['jump.n.06'],0.8022394180297852,Polysemous-Partial
+feeling,sentiment,1,1,1,['feeling.n.01'],['feeling.n.01'],['feeling.n.01'],0.780360996723175,Monosemous-Shared
+touch,toucher,1,1,1,['touch.n.05'],['touch.n.05'],['touch.n.05'],0.8848406076431274,Monosemous-Shared
+transmission,transmission,1,1,1,['transmission.n.01'],['transmission.n.01'],['transmission.n.01'],1.0,Monosemous-Shared
+bowling,bowling,2,2,2,"['bowling.n.03', 'bowling.n.02']","['bowling.n.03', 'bowling.n.02']","['bowling.n.03', 'bowling.n.02']",1.0,Polysemous-Full
+exit,sortie,1,3,1,['exit.n.03'],"['egress.n.03', 'emergence.n.03', 'exit.n.03']",['exit.n.03'],0.5966370105743408,Polysemous-Partial
+click,cliquer,1,1,1,['click.n.04'],['click.n.04'],['click.n.04'],0.8632140755653381,Monosemous-Shared
+arrest,arrestation,1,1,1,['apprehension.n.04'],['apprehension.n.04'],['apprehension.n.04'],0.9927960634231567,Monosemous-Shared
+conversion,conversion,1,1,1,['conversion.n.04'],['conversion.n.04'],['conversion.n.04'],1.0,Monosemous-Shared
+mechanism,mécanisme,1,1,1,['mechanism.n.02'],['mechanism.n.02'],['mechanism.n.02'],0.914993941783905,Monosemous-Shared
+pitch,lancer,2,1,1,"['pitch.n.02', 'pitch.n.10']",['pitch.n.02'],['pitch.n.02'],0.541890561580658,Polysemous-Partial
+bull,taureau,1,1,1,['bull.n.04'],['bull.n.04'],['bull.n.04'],0.5113685727119446,Monosemous-Shared
+liberation,libération,1,1,1,['liberation.n.01'],['liberation.n.01'],['liberation.n.01'],0.9359211921691895,Monosemous-Shared
+departure,départ,1,2,1,['departure.n.01'],"['departure.n.01', 'sailing.n.03']",['departure.n.01'],0.7801766991615295,Polysemous-Partial
+mistake,erreur,1,2,1,['mistake.n.01'],"['mistake.n.01', 'error.n.04']",['mistake.n.01'],0.9590262770652771,Polysemous-Partial
+confusion,confusion,1,1,1,['confusion.n.05'],['confusion.n.05'],['confusion.n.05'],1.0,Monosemous-Shared
+immigration,immigration,1,1,1,['immigration.n.01'],['immigration.n.01'],['immigration.n.01'],1.0,Monosemous-Shared
+recovery,recouvrement,1,1,1,['recovery.n.03'],['recovery.n.03'],['recovery.n.03'],0.7130287289619446,Monosemous-Shared
+recovery,récupération,1,1,1,['recovery.n.03'],['recovery.n.03'],['recovery.n.03'],0.8667283058166504,Monosemous-Shared
+succession,succession,1,1,1,['succession.n.05'],['succession.n.05'],['succession.n.05'],1.0,Monosemous-Shared
+throw,jeter,1,1,1,['throw.n.01'],['throw.n.01'],['throw.n.01'],0.3873099088668823,Monosemous-Shared
+rally,rassemblement,1,1,1,['rally.n.02'],['rally.n.02'],['rally.n.02'],0.7962620258331299,Monosemous-Shared
+execution,exécution,1,2,1,['performance.n.03'],"['fulfillment.n.02', 'performance.n.03']",['performance.n.03'],0.9004547595977783,Polysemous-Partial
+entity,entité,1,1,1,['entity.n.01'],['entity.n.01'],['entity.n.01'],0.6115545630455017,Monosemous-Shared
+fauna,faune,1,1,1,['animal.n.01'],['animal.n.01'],['animal.n.01'],0.8152304887771606,Monosemous-Shared
+registration,inscription,1,1,1,['registration.n.01'],['registration.n.01'],['registration.n.01'],0.46842777729034424,Monosemous-Shared
+registration,enregistrement,1,1,1,['registration.n.01'],['registration.n.01'],['registration.n.01'],0.6593071818351746,Monosemous-Shared
+registration,immatriculation,1,1,1,['registration.n.01'],['registration.n.01'],['registration.n.01'],0.6147924661636353,Monosemous-Shared
+impression,impression,1,1,1,['impression.n.09'],['impression.n.09'],['impression.n.09'],1.0,Monosemous-Shared
+phenomenon,phénomène,1,1,1,['phenomenon.n.01'],['phenomenon.n.01'],['phenomenon.n.01'],0.9195515513420105,Monosemous-Shared
+acquisition,acquisition,1,3,1,['acquisition.n.01'],"['purchase.n.01', 'succession.n.05', 'acquisition.n.01']",['acquisition.n.01'],1.0,Polysemous-Partial
+interchange,échangeur,1,1,1,['interchange.n.02'],['interchange.n.02'],['interchange.n.02'],0.6920122504234314,Monosemous-Shared
+feat,exploit,1,1,1,['feat.n.01'],['feat.n.01'],['feat.n.01'],0.4520970582962036,Monosemous-Shared
+feat,prouesse,1,1,0,['feat.n.01'],['derring-do.n.01'],[],0.5814970135688782,Monosemous-Shared
+mechanics,mécanique,1,1,1,['mechanism.n.02'],['mechanism.n.02'],['mechanism.n.02'],0.9420037269592285,Monosemous-Shared
+surrender,capitulation,1,1,1,['capitulation.n.03'],['capitulation.n.03'],['capitulation.n.03'],0.5137636661529541,Monosemous-Shared
+surrender,reddition,1,1,1,['capitulation.n.03'],['capitulation.n.03'],['capitulation.n.03'],0.6584755778312683,Monosemous-Shared
+substance,substance,2,1,0,"['substance.n.01', 'substance.n.07']",['matter.n.03'],[],0.9999998807907104,Polysemous-Partial
+curve,courbe,1,1,1,['curve.n.03'],['curve.n.03'],['curve.n.03'],0.48776745796203613,Monosemous-Shared
+retreat,retraite,3,1,1,"['retreat.n.01', 'retirement.n.03', 'retreat.n.07']",['retirement.n.03'],['retirement.n.03'],0.5424248576164246,Polysemous-Partial
+fault,faute,1,2,1,['mistake.n.01'],"['mistake.n.01', 'error.n.04']",['mistake.n.01'],0.8794237971305847,Polysemous-Partial
+assumption,hypothèse,2,1,1,"['assumption.n.03', 'assumption.n.07']",['assumption.n.07'],['assumption.n.07'],0.8526990413665771,Polysemous-Partial
+smoke,fumer,1,1,1,['fastball.n.01'],['fastball.n.01'],['fastball.n.01'],0.9604682922363281,Monosemous-Shared
+smoke,fumée,1,1,1,['fastball.n.01'],['fastball.n.01'],['fastball.n.01'],0.9808186888694763,Monosemous-Shared
+propulsion,propulsion,1,1,1,['propulsion.n.02'],['propulsion.n.02'],['propulsion.n.02'],1.0,Monosemous-Shared
+acceptance,acceptation,1,1,1,['acceptance.n.07'],['acceptance.n.07'],['acceptance.n.07'],0.9902721047401428,Monosemous-Shared
+adoption,adoption,1,1,1,['borrowing.n.01'],['borrowing.n.01'],['borrowing.n.01'],1.0,Monosemous-Shared
+jumping,sauter,1,1,0,['jump.n.06'],['leap.n.01'],[],0.5965646505355835,Monosemous-Shared
+jumping,saut,1,2,1,['jump.n.06'],"['leap.n.01', 'jump.n.06']",['jump.n.06'],0.7663350701332092,Polysemous-Partial
+quantity,quantité,1,1,1,['measure.n.02'],['measure.n.02'],['measure.n.02'],0.8401936292648315,Monosemous-Shared
+bullet,balle,1,2,1,['fastball.n.01'],"['fastball.n.01', 'ball.n.12']",['fastball.n.01'],0.5159720182418823,Polysemous-Partial
+beast,bête,1,1,1,['animal.n.01'],['animal.n.01'],['animal.n.01'],0.5475203990936279,Monosemous-Shared
+placement,placement,1,1,1,['placement.n.02'],['placement.n.02'],['placement.n.02'],1.0,Monosemous-Shared
+withdrawal,sevrage,1,1,1,['withdrawal.n.03'],['withdrawal.n.03'],['withdrawal.n.03'],0.44044411182403564,Monosemous-Shared
+withdrawal,retrait,1,1,1,['withdrawal.n.03'],['withdrawal.n.03'],['withdrawal.n.03'],0.679245114326477,Monosemous-Shared
+creature,créature,1,1,1,['animal.n.01'],['animal.n.01'],['animal.n.01'],0.932266354560852,Monosemous-Shared
+buying,achat,1,3,1,['buying.n.01'],"['purchase.n.01', 'succession.n.05', 'buying.n.01']",['buying.n.01'],0.9670454859733582,Polysemous-Partial
+auction,enchère,1,1,1,['auction.n.02'],['auction.n.02'],['auction.n.02'],0.4234657287597656,Monosemous-Shared
+vault,voûte,1,1,1,['vault.n.04'],['vault.n.04'],['vault.n.04'],0.7434424757957458,Monosemous-Shared
+launching,lancement,2,2,2,"['launching.n.03', 'launching.n.01']","['launching.n.03', 'launching.n.01']","['launching.n.03', 'launching.n.01']",0.8417331576347351,Polysemous-Full
+motivation,motivation,2,2,2,"['motivation.n.03', 'motivation.n.01']","['motivation.n.03', 'motivation.n.01']","['motivation.n.03', 'motivation.n.01']",1.0,Polysemous-Full
+inheritance,héritage,1,1,1,['inheritance.n.01'],['inheritance.n.01'],['inheritance.n.01'],0.7176970839500427,Monosemous-Shared
+collar,collier,1,1,1,['apprehension.n.04'],['apprehension.n.04'],['apprehension.n.04'],0.6009601950645447,Monosemous-Shared
+collar,col,1,1,1,['apprehension.n.04'],['apprehension.n.04'],['apprehension.n.04'],0.4869939088821411,Monosemous-Shared
+advent,avènement,1,1,1,['advent.n.01'],['advent.n.01'],['advent.n.01'],0.7023652791976929,Monosemous-Shared
+purchasing,achats,1,1,0,['buying.n.01'],['procurement.n.01'],[],0.9480276703834534,Monosemous-Shared
+purchasing,achat,1,3,1,['buying.n.01'],"['purchase.n.01', 'succession.n.05', 'buying.n.01']",['buying.n.01'],0.9521957635879517,Polysemous-Partial
+emergence,émergence,2,2,2,"['egress.n.03', 'emergence.n.03']","['egress.n.03', 'emergence.n.03']","['egress.n.03', 'emergence.n.03']",0.8421840667724609,Polysemous-Full
+attribute,attribut,1,1,1,['attribute.n.02'],['attribute.n.02'],['attribute.n.02'],0.9873164892196655,Monosemous-Shared
+skip,saut,1,2,0,['omission.n.01'],"['leap.n.01', 'jump.n.06']",[],0.6270347237586975,Polysemous-Partial
+skip,sauter,1,1,0,['omission.n.01'],['leap.n.01'],[],0.5759087800979614,Monosemous-Shared
+brush,brosse,1,1,1,['brush.n.09'],['brush.n.09'],['brush.n.09'],0.5185209512710571,Monosemous-Shared
+addiction,dépendance,1,1,1,['addiction.n.03'],['addiction.n.03'],['addiction.n.03'],0.9212846159934998,Monosemous-Shared
+evacuation,évacuation,1,1,1,['evacuation.n.02'],['evacuation.n.02'],['evacuation.n.02'],0.9238905310630798,Monosemous-Shared
+farewell,adieu,1,1,1,['farewell.n.02'],['farewell.n.02'],['farewell.n.02'],0.9487798810005188,Monosemous-Shared
+farewell,adieux,1,1,0,['farewell.n.02'],['valediction.n.02'],[],0.9165042042732239,Monosemous-Shared
+disappearance,disparition,1,1,1,['disappearance.n.01'],['disappearance.n.01'],['disappearance.n.01'],0.7464967966079712,Monosemous-Shared
+leap,saut,1,2,1,['leap.n.01'],"['leap.n.01', 'jump.n.06']",['leap.n.01'],0.7455056309700012,Polysemous-Partial
+organism,organisme,1,1,1,['organism.n.01'],['organism.n.01'],['organism.n.01'],0.9712317585945129,Monosemous-Shared
+grouping,groupement,1,1,1,['group.n.01'],['group.n.01'],['group.n.01'],0.9579759836196899,Monosemous-Shared
+motive,motif,1,1,1,['motivation.n.01'],['motivation.n.01'],['motivation.n.01'],0.6371107697486877,Monosemous-Shared
+traction,traction,1,3,1,['traction.n.02'],"['draw.n.09', 'traction.n.02', 'drag.n.06']",['traction.n.02'],1.0,Polysemous-Partial
+frustration,frustration,1,1,1,['frustration.n.02'],['frustration.n.02'],['frustration.n.02'],1.0,Monosemous-Shared
+touching,toucher,1,1,1,['touch.n.05'],['touch.n.05'],['touch.n.05'],0.7295992970466614,Monosemous-Shared
+automation,automatisation,1,1,1,['automation.n.01'],['automation.n.01'],['automation.n.01'],0.910821259021759,Monosemous-Shared
+exodus,exode,1,1,1,['exodus.n.01'],['exodus.n.01'],['exodus.n.01'],0.7744387984275818,Monosemous-Shared
+climax,orgasme,1,1,1,['orgasm.n.01'],['orgasm.n.01'],['orgasm.n.01'],0.6854186654090881,Monosemous-Shared
+deed,acte,1,1,1,['act.n.02'],['act.n.02'],['act.n.02'],0.5353603363037109,Monosemous-Shared
+deception,déception,1,1,0,['magic_trick.n.01'],['disappointment.n.02'],[],0.8946579098701477,Monosemous-Shared
+ransom,rançon,1,1,1,['ransom.n.03'],['ransom.n.03'],['ransom.n.03'],0.8235892057418823,Monosemous-Shared
+annexation,annexion,1,1,1,['annexation.n.02'],['annexation.n.02'],['annexation.n.02'],0.9912100434303284,Monosemous-Shared
+disappointment,déception,1,1,1,['disappointment.n.02'],['disappointment.n.02'],['disappointment.n.02'],0.709598958492279,Monosemous-Shared
+distortion,déformation,1,1,1,['distortion.n.06'],['distortion.n.06'],['distortion.n.06'],0.5443987250328064,Monosemous-Shared
+distortion,distorsion,1,1,1,['distortion.n.06'],['distortion.n.06'],['distortion.n.06'],0.9947047233581543,Monosemous-Shared
+exploit,exploit,1,1,1,['feat.n.01'],['feat.n.01'],['feat.n.01'],1.0,Monosemous-Shared
+salvage,récupération,2,1,0,"['salvage.n.03', 'salvage.n.02']",['recovery.n.03'],[],0.855884313583374,Polysemous-Partial
+salvage,sauvetage,2,3,2,"['salvage.n.03', 'salvage.n.02']","['salvage.n.03', 'rescue.n.01', 'salvage.n.02']","['salvage.n.03', 'salvage.n.02']",0.7282703518867493,Polysemous-Partial
+recession,récession,1,1,1,['receding.n.02'],['receding.n.02'],['receding.n.02'],0.9974168539047241,Monosemous-Shared
+impulse,impulsion,1,1,1,['impulse.n.05'],['impulse.n.05'],['impulse.n.05'],0.9313296675682068,Monosemous-Shared
+emigration,émigration,1,1,1,['emigration.n.01'],['emigration.n.01'],['emigration.n.01'],0.970874547958374,Monosemous-Shared
+redemption,rédemption,2,3,2,"['redemption.n.01', 'redemption.n.03']","['ransom.n.03', 'redemption.n.01', 'redemption.n.03']","['redemption.n.01', 'redemption.n.03']",0.6686477661132812,Polysemous-Partial
+dispatch,expédition,1,1,1,['dispatch.n.02'],['dispatch.n.02'],['dispatch.n.02'],0.44241833686828613,Monosemous-Shared
+seizure,saisie,2,4,2,"['seizure.n.04', 'capture.n.01']","['seizure.n.04', 'confiscation.n.01', 'capture.n.01', 'foreclosure.n.01']","['seizure.n.04', 'capture.n.01']",0.43438470363616943,Polysemous-Partial
+realization,réalisation,1,3,1,['realization.n.06'],"['attainment.n.01', 'accomplishment.n.01', 'realization.n.06']",['realization.n.06'],0.7923349142074585,Polysemous-Partial
+evasion,évasion,1,2,1,['evasion.n.04'],"['escape.n.01', 'evasion.n.04']",['evasion.n.04'],0.7077462077140808,Polysemous-Partial
+disposition,aliénation,1,1,0,['disposal.n.03'],['alienation.n.04'],[],0.5386050939559937,Monosemous-Shared
+disposition,disposition,1,1,1,['disposal.n.03'],['disposal.n.03'],['disposal.n.03'],1.0,Monosemous-Shared
+maneuver,manœuvre,1,1,1,['maneuver.n.05'],['maneuver.n.05'],['maneuver.n.05'],0.8487512469291687,Monosemous-Shared
+capitalization,capitalisation,1,1,1,['capitalization.n.04'],['capitalization.n.04'],['capitalization.n.04'],0.9758211374282837,Monosemous-Shared
+artifact,artefact,1,1,1,['artifact.n.01'],['artifact.n.01'],['artifact.n.01'],0.9935855269432068,Monosemous-Shared
+kindness,amabilité,1,1,1,['kindness.n.03'],['kindness.n.03'],['kindness.n.03'],0.7512875199317932,Monosemous-Shared
+abstraction,abstraction,1,1,1,['abstraction.n.06'],['abstraction.n.06'],['abstraction.n.06'],1.0,Monosemous-Shared
+breakout,évasion,1,2,0,['break.n.16'],"['escape.n.01', 'evasion.n.04']",[],0.5474278330802917,Polysemous-Partial
+abandonment,abandon,2,2,2,"['desertion.n.01', 'abandonment.n.03']","['desertion.n.01', 'abandonment.n.03']","['desertion.n.01', 'abandonment.n.03']",0.9216689467430115,Polysemous-Full
+improvisation,improvisation,1,1,1,['extemporization.n.01'],['extemporization.n.01'],['extemporization.n.01'],1.0,Monosemous-Shared
+omission,omission,1,1,1,['omission.n.01'],['omission.n.01'],['omission.n.01'],1.0,Monosemous-Shared
+accomplishment,accomplissement,1,1,1,['accomplishment.n.01'],['accomplishment.n.01'],['accomplishment.n.01'],0.7671562433242798,Monosemous-Shared
+spit,cracher,1,1,1,['spit.n.04'],['spit.n.04'],['spit.n.04'],0.46058541536331177,Monosemous-Shared
+shipment,expédition,1,1,1,['dispatch.n.02'],['dispatch.n.02'],['dispatch.n.02'],0.5530358552932739,Monosemous-Shared
+disappearing,disparition,1,1,1,['disappearance.n.01'],['disappearance.n.01'],['disappearance.n.01'],0.7856835722923279,Monosemous-Shared
+blockbuster,blockbuster,1,1,1,['blockbuster.n.02'],['blockbuster.n.02'],['blockbuster.n.02'],1.0,Monosemous-Shared
+receipt,réception,1,1,1,['reception.n.04'],['reception.n.04'],['reception.n.04'],0.5795198678970337,Monosemous-Shared
+receipt,reçu,1,1,1,['reception.n.04'],['reception.n.04'],['reception.n.04'],0.6076852679252625,Monosemous-Shared
+receipt,récépissé,1,1,1,['reception.n.04'],['reception.n.04'],['reception.n.04'],0.35571038722991943,Monosemous-Shared
+appropriation,appropriation,1,1,1,['appropriation.n.03'],['appropriation.n.03'],['appropriation.n.03'],1.0,Monosemous-Shared
+vanishing,disparition,1,1,0,['vanishing.n.02'],['disappearance.n.01'],[],0.7865051627159119,Monosemous-Shared
+stain,tache,1,1,1,['blot.n.02'],['blot.n.02'],['blot.n.02'],0.512349545955658,Monosemous-Shared
+vomiting,vomir,1,1,1,['vomit.n.03'],['vomit.n.03'],['vomit.n.03'],0.9718313217163086,Monosemous-Shared
+intrusion,intrusion,1,1,1,['intrusion.n.02'],['intrusion.n.02'],['intrusion.n.02'],0.9999998807907104,Monosemous-Shared
+rounding,arrondi,1,1,1,['rounding.n.01'],['rounding.n.01'],['rounding.n.01'],0.6409911513328552,Monosemous-Shared
+fulfillment,accomplissement,1,1,0,['fulfillment.n.02'],['accomplishment.n.01'],[],0.7111716866493225,Monosemous-Shared
+occupancy,occupation,1,1,1,['occupation.n.04'],['occupation.n.04'],['occupation.n.04'],0.4568675756454468,Monosemous-Shared
+rallying,ralliement,1,1,1,['rally.n.02'],['rally.n.02'],['rally.n.02'],0.9404523968696594,Monosemous-Shared
+alienation,aliénation,1,1,1,['alienation.n.04'],['alienation.n.04'],['alienation.n.04'],0.5173237919807434,Monosemous-Shared
+repatriation,rapatriement,1,1,1,['repatriation.n.01'],['repatriation.n.01'],['repatriation.n.01'],0.8538385033607483,Monosemous-Shared
+discard,jeter,2,1,0,"['discard.n.03', 'discard.n.02']",['throw.n.01'],[],0.5582906007766724,Polysemous-Partial
+restitution,restitution,1,1,1,['restitution.n.03'],['restitution.n.03'],['restitution.n.03'],1.0,Monosemous-Shared
+atonement,expiation,1,1,1,['expiation.n.02'],['expiation.n.02'],['expiation.n.02'],0.4692394733428955,Monosemous-Shared
+capitulation,capitulation,1,1,1,['capitulation.n.03'],['capitulation.n.03'],['capitulation.n.03'],1.0,Monosemous-Shared
+ejection,éjection,1,1,1,['expulsion.n.03'],['expulsion.n.03'],['expulsion.n.03'],0.9615725874900818,Monosemous-Shared
+capitalisation,capitalisation,1,1,1,['capitalization.n.04'],['capitalization.n.04'],['capitalization.n.04'],1.0,Monosemous-Shared
+defection,désertion,1,1,1,['desertion.n.01'],['desertion.n.01'],['desertion.n.01'],0.5953785181045532,Monosemous-Shared
+apparition,apparition,1,2,1,['apparition.n.04'],"['appearance.n.05', 'apparition.n.04']",['apparition.n.04'],1.0,Polysemous-Partial
+juggling,jongler,1,1,1,['juggle.n.02'],['juggle.n.02'],['juggle.n.02'],0.8889428973197937,Monosemous-Shared
+naturalization,naturalisation,1,1,1,['naturalization.n.04'],['naturalization.n.04'],['naturalization.n.04'],0.9510354399681091,Monosemous-Shared
+confiscation,confiscation,1,2,1,['confiscation.n.01'],"['confiscation.n.01', 'capture.n.01']",['confiscation.n.01'],0.9999999403953552,Polysemous-Partial
+spitting,cracher,1,1,1,['spit.n.04'],['spit.n.04'],['spit.n.04'],0.43317854404449463,Monosemous-Shared
+manoeuvre,manœuvrer,1,1,1,['maneuver.n.05'],['maneuver.n.05'],['maneuver.n.05'],0.7634294033050537,Monosemous-Shared
+manoeuvre,manœuvre,1,1,1,['maneuver.n.05'],['maneuver.n.05'],['maneuver.n.05'],0.7141405940055847,Monosemous-Shared
+orgasm,orgasme,1,1,1,['orgasm.n.01'],['orgasm.n.01'],['orgasm.n.01'],0.993520975112915,Monosemous-Shared
+realisation,réalisation,1,3,1,['realization.n.06'],"['attainment.n.01', 'accomplishment.n.01', 'realization.n.06']",['realization.n.06'],0.6584168076515198,Polysemous-Partial
+remission,rémission,1,1,1,['absolution.n.02'],['absolution.n.02'],['absolution.n.02'],0.9658008217811584,Monosemous-Shared
+desertion,désertion,1,1,1,['desertion.n.01'],['desertion.n.01'],['desertion.n.01'],0.7614704966545105,Monosemous-Shared
+vomit,vomir,1,1,1,['vomit.n.03'],['vomit.n.03'],['vomit.n.03'],0.9785519242286682,Monosemous-Shared
+transposition,transposition,1,1,1,['transposition.n.07'],['transposition.n.07'],['transposition.n.07'],1.0,Monosemous-Shared
+equalization,égalisation,1,1,1,['equalization.n.01'],['equalization.n.01'],['equalization.n.01'],0.6045691967010498,Monosemous-Shared
+blush,rougir,1,1,1,['blush.n.02'],['blush.n.02'],['blush.n.02'],0.48885178565979004,Monosemous-Shared
+enslavement,asservissement,1,1,1,['enslavement.n.02'],['enslavement.n.02'],['enslavement.n.02'],0.6450321674346924,Monosemous-Shared
+blot,blot,1,1,1,['blot.n.02'],['blot.n.02'],['blot.n.02'],1.0,Monosemous-Shared
+artefact,artefact,1,1,1,['artifact.n.01'],['artifact.n.01'],['artifact.n.01'],1.0,Monosemous-Shared
+fulfilment,accomplissement,1,1,0,['fulfillment.n.02'],['accomplishment.n.01'],[],0.790034830570221,Monosemous-Shared
+expropriation,expropriation,1,1,1,['expropriation.n.01'],['expropriation.n.01'],['expropriation.n.01'],1.0,Monosemous-Shared
+lob,lob,1,1,1,['lob.n.02'],['lob.n.02'],['lob.n.02'],1.0,Monosemous-Shared
+recidivism,récidive,1,1,1,['recidivism.n.01'],['recidivism.n.01'],['recidivism.n.01'],0.7577323317527771,Monosemous-Shared
+exhumation,exhumation,1,1,1,['exhumation.n.01'],['exhumation.n.01'],['exhumation.n.01'],1.0,Monosemous-Shared
+jailbreak,jailbreak,1,1,1,['break.n.16'],['break.n.16'],['break.n.16'],1.0,Monosemous-Shared
+naturalisation,naturalisation,1,1,1,['naturalization.n.04'],['naturalization.n.04'],['naturalization.n.04'],0.9999999403953552,Monosemous-Shared
+juggle,jongler,1,1,1,['juggle.n.02'],['juggle.n.02'],['juggle.n.02'],0.9021832942962646,Monosemous-Shared
+boner,trique,1,1,1,['blunder.n.01'],['blunder.n.01'],['blunder.n.01'],0.5516544580459595,Monosemous-Shared
+gaffe,gaffe,1,1,1,['faux_pas.n.01'],['faux_pas.n.01'],['faux_pas.n.01'],1.0,Monosemous-Shared
+burp,rot,1,1,1,['belch.n.01'],['belch.n.01'],['belch.n.01'],0.496429979801178,Monosemous-Shared
+rumination,rumination,1,1,1,['rumination.n.03'],['rumination.n.03'],['rumination.n.03'],1.0,Monosemous-Shared
+computerization,informatisation,1,1,1,['computerization.n.01'],['computerization.n.01'],['computerization.n.01'],0.6690347790718079,Monosemous-Shared
+expiation,expiation,1,1,1,['expiation.n.02'],['expiation.n.02'],['expiation.n.02'],1.0,Monosemous-Shared
+equalisation,égalisation,1,1,1,['equalization.n.01'],['equalization.n.01'],['equalization.n.01'],0.6123527884483337,Monosemous-Shared

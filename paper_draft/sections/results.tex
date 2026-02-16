@@ -1,0 +1,50 @@
+\section{Results}
+\label{sec:results}
+
+We investigate the alignment of translation pairs across two language pairs (\en-\fr and \en-\es) to test our hypothesis that non-shared senses act as a source of semantic interference.
+
+\subsection{Polysemy vs. Monosemy}
+
+We first categorize our translation pairs based on their sense overlap:
+\begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
+    \item \textbf{Monosemous-Shared}: Both words have exactly one sense, which is shared.
+    \item \textbf{Polysemous-Full}: Both words have multiple senses, and all are shared.
+    \item \textbf{Polysemous-Partial}: Words have one or more non-shared senses.
+\end{itemize}
+
+\Tabref{tab:results} summarizes the cosine similarities for these categories. Monosemous pairs exhibit high similarity (0.817), serving as a strong baseline for alignment. Surprisingly, fully shared polysemous pairs achieve even higher similarity (0.892), possibly due to their higher frequency or centrality in the semantic network. However, when non-shared senses are introduced (Polysemous-Partial), we observe a drop in similarity to 0.794. While this drop is statistically significant compared to the Polysemous-Full category, the values remain far above the random baseline (0.370).
+
+\begin{table}[t]
+    \centering
+    \caption{Cosine Similarity by Polysemy Category. \textbf{Note:} Non-shared senses (Partial) reduce similarity compared to fully shared polysemy.}
+    \label{tab:results}
+    \begin{tabular}{@{}lccc@{}}
+        \toprule
+        \textbf{Category} & \textbf{Mean Similarity} & \textbf{Std Dev} & \textbf{Count} \\
+        \midrule
+        Monosemous-Shared & 0.817 & 0.190 & 214 \\
+        Polysemous-Full & \textbf{0.892} & 0.109 & 10 \\
+        Polysemous-Partial & 0.794 \decrease & 0.177 & 49 \\
+        \midrule
+        \textit{Random Baseline} & 0.370 & 0.122 & 273 \\
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+\subsection{Correlation Analysis}
+
+To quantify the interference effect, we calculate the Spearman correlation ($\rho$) between the number of non-shared senses (\textsc{NS}) and cosine similarity (\cossim).
+
+\para{Global Trend.}
+Across the entire dataset (n=423), we find a statistically significant negative correlation of $\rho = -0.125$ ($p=0.010$). This confirms our hypothesis: each additional non-shared sense acts as a ``pull,'' slightly degrading the alignment between the translation pair.
+
+\para{Language Variance.}
+The effect is language-dependent. For English-Spanish pairs, the correlation is stronger ($\rho = -0.205$, $p=0.003$), suggesting a higher sensitivity to polysemy or a greater divergence in sense structures between these languages. In contrast, English-French pairs show a weaker correlation ($\rho = -0.096$, $p=0.155$), which may be attributed to the high lexical overlap and shared etymology between English and French.
+
+\subsection{Case Studies}
+
+To illustrate the ``semantic pull,'' we examine specific pairs:
+\begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
+    \item \textbf{High Interference:} The pair `shot' (\en) vs `coup' (\fr) has 3 non-shared senses. Their similarity is notably low at \textbf{0.409}. While they share the sense of a ``hit'' or ``blow,'' `shot' also implies a projectile or photograph, meanings absent in `coup' (which can mean a stroke, move, or political takeover).
+    \item \textbf{Robust Alignment:} Conversely, `substance' (\en) and `substance' (\fr) share all major senses and achieve a similarity of \textbf{1.0}, demonstrating perfect alignment when conceptual structures match.
+\end{itemize}

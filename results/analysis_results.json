@@ -1,0 +1,14 @@
+{
+  "ttest_mono_vs_partial": {
+    "t_stat": 0.8066196887182816,
+    "p_val": 0.4224132544907112
+  },
+  "spearman_total_senses_vs_similarity": {
+    "correlation": -0.04292804005831405,
+    "p_val": 0.47996503245565264
+  },
+  "spearman_non_shared_senses_vs_similarity": {
+    "correlation": -0.1561990534053428,
+    "p_val": 0.009741429261425502
+  }
+}

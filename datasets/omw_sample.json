@@ -1,0 +1,7371 @@
+[
+  {
+    "synset": "entity.n.01",
+    "en": [
+      "entity"
+    ],
+    "fra": [
+      "entit\u00e9"
+    ],
+    "spa": [
+      "entidad"
+    ],
+    "deu": [],
+    "ita": [
+      "cosa",
+      "entit\u00e0"
+    ]
+  },
+  {
+    "synset": "physical_entity.n.01",
+    "en": [
+      "physical_entity"
+    ],
+    "fra": [],
+    "spa": [
+      "entidad_f\u00edsica"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "abstraction.n.06",
+    "en": [
+      "abstraction",
+      "abstract_entity"
+    ],
+    "fra": [
+      "abstraction"
+    ],
+    "spa": [
+      "abstracci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "astrazione"
+    ]
+  },
+  {
+    "synset": "thing.n.12",
+    "en": [
+      "thing"
+    ],
+    "fra": [
+      "cause",
+      "chose",
+      "objet"
+    ],
+    "spa": [
+      "cosa"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "object.n.01",
+    "en": [
+      "object",
+      "physical_object"
+    ],
+    "fra": [
+      "chose",
+      "objet"
+    ],
+    "spa": [
+      "cosa",
+      "objeto",
+      "objeto_f\u00edsico",
+      "objeto_inanimado"
+    ],
+    "deu": [],
+    "ita": [
+      "cosa",
+      "oggetto"
+    ]
+  },
+  {
+    "synset": "whole.n.02",
+    "en": [
+      "whole",
+      "unit"
+    ],
+    "fra": [
+      "ensemble",
+      "totalit\u00e9",
+      "tout",
+      "unit\u00e9"
+    ],
+    "spa": [
+      "conjunto",
+      "unidad",
+      "unidad_completa"
+    ],
+    "deu": [],
+    "ita": [
+      "insieme",
+      "tutto"
+    ]
+  },
+  {
+    "synset": "congener.n.03",
+    "en": [
+      "congener"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "living_thing.n.01",
+    "en": [
+      "living_thing",
+      "animate_thing"
+    ],
+    "fra": [],
+    "spa": [
+      "organismo",
+      "ser",
+      "ser_vivo"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "organism.n.01",
+    "en": [
+      "organism",
+      "being"
+    ],
+    "fra": [
+      "organisme",
+      "organisme_vivant",
+      "\u00eatre"
+    ],
+    "spa": [
+      "organismo",
+      "ser",
+      "ser_vivo"
+    ],
+    "deu": [],
+    "ita": [
+      "essere_vivente",
+      "organismo",
+      "organismo_vivente"
+    ]
+  },
+  {
+    "synset": "benthos.n.02",
+    "en": [
+      "benthos"
+    ],
+    "fra": [],
+    "spa": [
+      "bentos"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "dwarf.n.03",
+    "en": [
+      "dwarf"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "heterotroph.n.01",
+    "en": [
+      "heterotroph"
+    ],
+    "fra": [
+      "H\u00e9t\u00e9rotrophie",
+      "h\u00e9t\u00e9rotrophie"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "parent.n.02",
+    "en": [
+      "parent"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "life.n.10",
+    "en": [
+      "life"
+    ],
+    "fra": [
+      "vie"
+    ],
+    "spa": [
+      "vida"
+    ],
+    "deu": [],
+    "ita": [
+      "vita"
+    ]
+  },
+  {
+    "synset": "biont.n.01",
+    "en": [
+      "biont"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "cell.n.02",
+    "en": [
+      "cell"
+    ],
+    "fra": [
+      "cellule"
+    ],
+    "spa": [
+      "c\u00e9lula"
+    ],
+    "deu": [],
+    "ita": [
+      "cellula"
+    ]
+  },
+  {
+    "synset": "causal_agent.n.01",
+    "en": [
+      "causal_agent",
+      "cause",
+      "causal_agency"
+    ],
+    "fra": [
+      "cause",
+      "raison"
+    ],
+    "spa": [
+      "agente_causal",
+      "causa"
+    ],
+    "deu": [],
+    "ita": [
+      "causa"
+    ]
+  },
+  {
+    "synset": "person.n.01",
+    "en": [
+      "person",
+      "individual",
+      "someone",
+      "somebody",
+      "mortal",
+      "soul"
+    ],
+    "fra": [
+      "homme",
+      "humain",
+      "individu",
+      "personne",
+      "quelqu'un",
+      "quelqu\u2019un",
+      "\u00eatre_humain"
+    ],
+    "spa": [
+      "alguien",
+      "alguno",
+      "alma",
+      "humano",
+      "individuo",
+      "mortal",
+      "persona",
+      "ser_humano"
+    ],
+    "deu": [],
+    "ita": [
+      "anima",
+      "essere_umano",
+      "individuo",
+      "mortale",
+      "persona",
+      "umano"
+    ]
+  },
+  {
+    "synset": "animal.n.01",
+    "en": [
+      "animal",
+      "animate_being",
+      "beast",
+      "brute",
+      "creature",
+      "fauna"
+    ],
+    "fra": [
+      "animal",
+      "b\u00eate",
+      "cr\u00e9ature",
+      "faune",
+      "\u00eatre"
+    ],
+    "spa": [
+      "animal",
+      "bestia",
+      "criatura",
+      "fauna"
+    ],
+    "deu": [],
+    "ita": [
+      "animale",
+      "bestia",
+      "bestiola",
+      "creatura"
+    ]
+  },
+  {
+    "synset": "plant.n.02",
+    "en": [
+      "plant",
+      "flora",
+      "plant_life"
+    ],
+    "fra": [
+      "flore",
+      "plante",
+      "v\u00e9g\u00e9tal"
+    ],
+    "spa": [
+      "flora",
+      "planta",
+      "plantae"
+    ],
+    "deu": [],
+    "ita": [
+      "pianta",
+      "vegetale"
+    ]
+  },
+  {
+    "synset": "native.n.03",
+    "en": [
+      "native"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "natural_object.n.01",
+    "en": [
+      "natural_object"
+    ],
+    "fra": [],
+    "spa": [
+      "objeto_natural"
+    ],
+    "deu": [],
+    "ita": [
+      "oggetto_naturale"
+    ]
+  },
+  {
+    "synset": "substance.n.01",
+    "en": [
+      "substance"
+    ],
+    "fra": [],
+    "spa": [
+      "sustancia"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "substance.n.07",
+    "en": [
+      "substance"
+    ],
+    "fra": [],
+    "spa": [
+      "substancia",
+      "sustancia"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "matter.n.03",
+    "en": [
+      "matter"
+    ],
+    "fra": [
+      "mati\u00e8re",
+      "substance"
+    ],
+    "spa": [
+      "materia",
+      "sustancia"
+    ],
+    "deu": [],
+    "ita": [
+      "materia",
+      "sostanza"
+    ]
+  },
+  {
+    "synset": "food.n.01",
+    "en": [
+      "food",
+      "nutrient"
+    ],
+    "fra": [
+      "aliment",
+      "nourriture",
+      "nutriment"
+    ],
+    "spa": [
+      "alimento",
+      "comida",
+      "nutriente",
+      "nutrimento",
+      "sustento"
+    ],
+    "deu": [],
+    "ita": [
+      "cibo",
+      "sostanza_nutritiva"
+    ]
+  },
+  {
+    "synset": "nutrient.n.02",
+    "en": [
+      "nutrient"
+    ],
+    "fra": [],
+    "spa": [
+      "nutriente"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "artifact.n.01",
+    "en": [
+      "artifact",
+      "artefact"
+    ],
+    "fra": [
+      "artefact",
+      "art\u00e9fact"
+    ],
+    "spa": [
+      "artefacto"
+    ],
+    "deu": [],
+    "ita": [
+      "artefatto"
+    ]
+  },
+  {
+    "synset": "article.n.02",
+    "en": [
+      "article"
+    ],
+    "fra": [
+      "article",
+      "objet"
+    ],
+    "spa": [
+      "art\u00edculo"
+    ],
+    "deu": [],
+    "ita": [
+      "articolo",
+      "capo"
+    ]
+  },
+  {
+    "synset": "psychological_feature.n.01",
+    "en": [
+      "psychological_feature"
+    ],
+    "fra": [],
+    "spa": [
+      "rasgo_psicol\u00f3gico"
+    ],
+    "deu": [],
+    "ita": [
+      "GAP!",
+      "aspetto_della_vita_mentale"
+    ]
+  },
+  {
+    "synset": "cognition.n.01",
+    "en": [
+      "cognition",
+      "knowledge",
+      "noesis"
+    ],
+    "fra": [
+      "connaissance",
+      "savoir",
+      "science"
+    ],
+    "spa": [
+      "cognici\u00f3n",
+      "conocimiento",
+      "noesis",
+      "saber"
+    ],
+    "deu": [],
+    "ita": [
+      "cognizione",
+      "conoscenza",
+      "cultura",
+      "episteme"
+    ]
+  },
+  {
+    "synset": "motivation.n.01",
+    "en": [
+      "motivation",
+      "motive",
+      "need"
+    ],
+    "fra": [
+      "besoin",
+      "motif",
+      "motivation"
+    ],
+    "spa": [
+      "motivaci\u00f3n",
+      "motivo",
+      "necesidad"
+    ],
+    "deu": [],
+    "ita": [
+      "bisogno",
+      "motivazione",
+      "motivo",
+      "movente",
+      "necessit\u00e0",
+      "ragione"
+    ]
+  },
+  {
+    "synset": "attribute.n.02",
+    "en": [
+      "attribute"
+    ],
+    "fra": [
+      "attribut"
+    ],
+    "spa": [
+      "atributo",
+      "caracter\u00edstica",
+      "rasgo"
+    ],
+    "deu": [],
+    "ita": [
+      "attributo"
+    ]
+  },
+  {
+    "synset": "state.n.02",
+    "en": [
+      "state"
+    ],
+    "fra": [
+      "\u00e9tat"
+    ],
+    "spa": [
+      "estado"
+    ],
+    "deu": [],
+    "ita": [
+      "stato"
+    ]
+  },
+  {
+    "synset": "feeling.n.01",
+    "en": [
+      "feeling"
+    ],
+    "fra": [
+      "sentiment",
+      "\u00e9motion"
+    ],
+    "spa": [
+      "sensaci\u00f3n",
+      "sentimiento"
+    ],
+    "deu": [],
+    "ita": [
+      "sensazione",
+      "sentimento"
+    ]
+  },
+  {
+    "synset": "location.n.01",
+    "en": [
+      "location"
+    ],
+    "fra": [
+      "lieu",
+      "localisation"
+    ],
+    "spa": [
+      "lugar"
+    ],
+    "deu": [],
+    "ita": [
+      "luogo"
+    ]
+  },
+  {
+    "synset": "shape.n.02",
+    "en": [
+      "shape",
+      "form"
+    ],
+    "fra": [
+      "forme"
+    ],
+    "spa": [
+      "forma"
+    ],
+    "deu": [],
+    "ita": [
+      "forma",
+      "sagoma"
+    ]
+  },
+  {
+    "synset": "time.n.05",
+    "en": [
+      "time"
+    ],
+    "fra": [
+      "dur\u00e9e",
+      "temps"
+    ],
+    "spa": [
+      "tiempo"
+    ],
+    "deu": [],
+    "ita": [
+      "data",
+      "tempo"
+    ]
+  },
+  {
+    "synset": "space.n.01",
+    "en": [
+      "space",
+      "infinite"
+    ],
+    "fra": [
+      "espace",
+      "local"
+    ],
+    "spa": [
+      "espacio"
+    ],
+    "deu": [],
+    "ita": [
+      "spazio"
+    ]
+  },
+  {
+    "synset": "absolute_space.n.01",
+    "en": [
+      "absolute_space"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "phase_space.n.01",
+    "en": [
+      "phase_space"
+    ],
+    "fra": [
+      "espace_des_phases"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "event.n.01",
+    "en": [
+      "event"
+    ],
+    "fra": [
+      "\u00e9v\u00e8nement",
+      "\u00e9v\u00e9nement"
+    ],
+    "spa": [
+      "evento"
+    ],
+    "deu": [],
+    "ita": [
+      "evento"
+    ]
+  },
+  {
+    "synset": "process.n.06",
+    "en": [
+      "process",
+      "physical_process"
+    ],
+    "fra": [
+      "processus",
+      "proc\u00e9dure"
+    ],
+    "spa": [
+      "proceso"
+    ],
+    "deu": [],
+    "ita": [
+      "processo"
+    ]
+  },
+  {
+    "synset": "act.n.02",
+    "en": [
+      "act",
+      "deed",
+      "human_action",
+      "human_activity"
+    ],
+    "fra": [
+      "acte",
+      "l'action_humaine"
+    ],
+    "spa": [
+      "acci\u00f3n",
+      "acto"
+    ],
+    "deu": [],
+    "ita": [
+      "atto",
+      "azione"
+    ]
+  },
+  {
+    "synset": "group.n.01",
+    "en": [
+      "group",
+      "grouping"
+    ],
+    "fra": [
+      "ensemble",
+      "groupe",
+      "groupement"
+    ],
+    "spa": [
+      "agrupaci\u00f3n",
+      "colectivo",
+      "grupo"
+    ],
+    "deu": [],
+    "ita": [
+      "gruppo",
+      "novero"
+    ]
+  },
+  {
+    "synset": "relation.n.01",
+    "en": [
+      "relation"
+    ],
+    "fra": [
+      "rapport",
+      "relation"
+    ],
+    "spa": [
+      "relaci\u00f3n",
+      "v\u00ednculo"
+    ],
+    "deu": [],
+    "ita": [
+      "nesso",
+      "rapporto",
+      "relazione"
+    ]
+  },
+  {
+    "synset": "possession.n.02",
+    "en": [
+      "possession"
+    ],
+    "fra": [
+      "bien",
+      "propri\u00e9t\u00e9"
+    ],
+    "spa": [
+      "posesi\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "possesso"
+    ]
+  },
+  {
+    "synset": "social_relation.n.01",
+    "en": [
+      "social_relation"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "relazione_sociale"
+    ]
+  },
+  {
+    "synset": "communication.n.02",
+    "en": [
+      "communication"
+    ],
+    "fra": [
+      "communication"
+    ],
+    "spa": [
+      "comunicaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "comunicazione"
+    ]
+  },
+  {
+    "synset": "measure.n.02",
+    "en": [
+      "measure",
+      "quantity",
+      "amount"
+    ],
+    "fra": [
+      "mesure",
+      "nombre",
+      "quantit\u00e9",
+      "somme",
+      "volume"
+    ],
+    "spa": [
+      "cantidad",
+      "cuant\u00eda",
+      "medida"
+    ],
+    "deu": [],
+    "ita": [
+      "misura",
+      "misurazione",
+      "quantit\u00e0"
+    ]
+  },
+  {
+    "synset": "phenomenon.n.01",
+    "en": [
+      "phenomenon"
+    ],
+    "fra": [
+      "ph\u00e9nom\u00e8ne"
+    ],
+    "spa": [
+      "fen\u00f3meno"
+    ],
+    "deu": [],
+    "ita": [
+      "fenomeno"
+    ]
+  },
+  {
+    "synset": "thing.n.02",
+    "en": [
+      "thing"
+    ],
+    "fra": [
+      "chose"
+    ],
+    "spa": [
+      "cosa"
+    ],
+    "deu": [],
+    "ita": [
+      "cosa"
+    ]
+  },
+  {
+    "synset": "kindness.n.03",
+    "en": [
+      "kindness",
+      "benignity"
+    ],
+    "fra": [
+      "amabilit\u00e9"
+    ],
+    "spa": [
+      "bondad"
+    ],
+    "deu": [],
+    "ita": [
+      "amorevolezza",
+      "attenzione",
+      "atto_di_cortesia",
+      "carit\u00e0",
+      "cortesia",
+      "favore",
+      "gentilezza",
+      "premura"
+    ]
+  },
+  {
+    "synset": "abdominoplasty.n.01",
+    "en": [
+      "abdominoplasty",
+      "tummy_tuck"
+    ],
+    "fra": [],
+    "spa": [
+      "abdominoplastia"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "abort.n.01",
+    "en": [
+      "abort"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "accomplishment.n.01",
+    "en": [
+      "accomplishment",
+      "achievement"
+    ],
+    "fra": [
+      "aboutissement",
+      "accomplissement",
+      "ach\u00e8vement",
+      "haut_fait",
+      "ouvrage",
+      "r\u00e9alisation",
+      "succ\u00e8s"
+    ],
+    "spa": [
+      "logro",
+      "realizaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "affermazione",
+      "attuamento",
+      "attuazione",
+      "concretizzazione",
+      "conseguimento",
+      "implementation",
+      "raggiungimento",
+      "realizzazione",
+      "rendimento",
+      "risultato"
+    ]
+  },
+  {
+    "synset": "agon.n.01",
+    "en": [
+      "agon"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "alienation.n.04",
+    "en": [
+      "alienation"
+    ],
+    "fra": [
+      "ali\u00e9nation"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "application.n.07",
+    "en": [
+      "application"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "beachhead.n.02",
+    "en": [
+      "beachhead",
+      "foothold"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "cakewalk.n.02",
+    "en": [
+      "cakewalk"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "feat.n.01",
+    "en": [
+      "feat",
+      "effort",
+      "exploit"
+    ],
+    "fra": [
+      "effort",
+      "exploit",
+      "haut_fait"
+    ],
+    "spa": [
+      "haza\u00f1a",
+      "logro"
+    ],
+    "deu": [],
+    "ita": [
+      "exploit",
+      "impresa"
+    ]
+  },
+  {
+    "synset": "masterpiece.n.02",
+    "en": [
+      "masterpiece"
+    ],
+    "fra": [
+      "chef-d'\u0153uvre"
+    ],
+    "spa": [
+      "obra_maestra"
+    ],
+    "deu": [],
+    "ita": [
+      "capolavoro"
+    ]
+  },
+  {
+    "synset": "masterstroke.n.01",
+    "en": [
+      "masterstroke"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "credit.n.04",
+    "en": [
+      "credit"
+    ],
+    "fra": [
+      "cr\u00e9dit"
+    ],
+    "spa": [
+      "cr\u00e9dito",
+      "haber"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "action.n.01",
+    "en": [
+      "action"
+    ],
+    "fra": [
+      "action"
+    ],
+    "spa": [
+      "acci\u00f3n",
+      "acto",
+      "hecho"
+    ],
+    "deu": [],
+    "ita": [
+      "azione",
+      "fatto"
+    ]
+  },
+  {
+    "synset": "res_gestae.n.02",
+    "en": [
+      "res_gestae"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "course.n.04",
+    "en": [
+      "course",
+      "course_of_action"
+    ],
+    "fra": [
+      "cours",
+      "cour|cours"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "blind_alley.n.02",
+    "en": [
+      "blind_alley"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "collision_course.n.02",
+    "en": [
+      "collision_course"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "interaction.n.01",
+    "en": [
+      "interaction"
+    ],
+    "fra": [
+      "interaction"
+    ],
+    "spa": [
+      "interacci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "interazione"
+    ]
+  },
+  {
+    "synset": "interplay.n.01",
+    "en": [
+      "interplay"
+    ],
+    "fra": [],
+    "spa": [
+      "interacci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "interazione"
+    ]
+  },
+  {
+    "synset": "contact.n.01",
+    "en": [
+      "contact"
+    ],
+    "fra": [
+      "contact"
+    ],
+    "spa": [
+      "contacto"
+    ],
+    "deu": [],
+    "ita": [
+      "contatto"
+    ]
+  },
+  {
+    "synset": "brush.n.09",
+    "en": [
+      "brush"
+    ],
+    "fra": [
+      "brosse"
+    ],
+    "spa": [
+      "encontronazo",
+      "encuentro_violento"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "eye_contact.n.02",
+    "en": [
+      "eye_contact"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "fetch.n.01",
+    "en": [
+      "fetch"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "placement.n.02",
+    "en": [
+      "placement"
+    ],
+    "fra": [
+      "placement",
+      "stage"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "interchange.n.02",
+    "en": [
+      "interchange",
+      "reciprocation",
+      "give-and-take"
+    ],
+    "fra": [
+      "\u00e9changeur"
+    ],
+    "spa": [
+      "intercambio"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "reciprocity.n.02",
+    "en": [
+      "reciprocity"
+    ],
+    "fra": [],
+    "spa": [
+      "reciprocidad"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "cross-fertilization.n.02",
+    "en": [
+      "cross-fertilization",
+      "cross-fertilisation"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "dealings.n.01",
+    "en": [
+      "dealings",
+      "traffic"
+    ],
+    "fra": [
+      "trafic"
+    ],
+    "spa": [
+      "trato"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "relation.n.06",
+    "en": [
+      "relation"
+    ],
+    "fra": [
+      "abord",
+      "relation"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "playing.n.02",
+    "en": [
+      "playing"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "play.n.17",
+    "en": [
+      "play",
+      "swordplay"
+    ],
+    "fra": [
+      "jeu_d'escrime"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "boondoggle.n.01",
+    "en": [
+      "boondoggle"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "bowling.n.03",
+    "en": [
+      "bowling"
+    ],
+    "fra": [
+      "bowling"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "acquiring.n.01",
+    "en": [
+      "acquiring",
+      "getting"
+    ],
+    "fra": [
+      "obtention"
+    ],
+    "spa": [
+      "adquisici\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "causing.n.01",
+    "en": [
+      "causing",
+      "causation"
+    ],
+    "fra": [
+      "causation"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "delivery.n.07",
+    "en": [
+      "delivery",
+      "obstetrical_delivery"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "departure.n.01",
+    "en": [
+      "departure",
+      "going",
+      "going_away",
+      "leaving"
+    ],
+    "fra": [
+      "d\u00e9part"
+    ],
+    "spa": [
+      "partida",
+      "salida"
+    ],
+    "deu": [],
+    "ita": [
+      "dipartita",
+      "partenza"
+    ]
+  },
+  {
+    "synset": "derring-do.n.01",
+    "en": [
+      "derring-do"
+    ],
+    "fra": [
+      "acte_de_bravoure",
+      "exploits",
+      "prouesse"
+    ],
+    "spa": [
+      "bravura",
+      "coraje",
+      "intrepidez",
+      "osad\u00eda",
+      "valor"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "discovery.n.01",
+    "en": [
+      "discovery",
+      "find",
+      "uncovering"
+    ],
+    "fra": [
+      "d\u00e9couverte",
+      "invention",
+      "trouver"
+    ],
+    "spa": [
+      "descubrimiento",
+      "hallazgo"
+    ],
+    "deu": [],
+    "ita": [
+      "rinvenimento",
+      "ritrovamento",
+      "scoperta"
+    ]
+  },
+  {
+    "synset": "disposal.n.03",
+    "en": [
+      "disposal",
+      "disposition"
+    ],
+    "fra": [
+      "disposition"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "eliminazione"
+    ]
+  },
+  {
+    "synset": "hit.n.01",
+    "en": [
+      "hit"
+    ],
+    "fra": [
+      "coup"
+    ],
+    "spa": [
+      "golpe"
+    ],
+    "deu": [],
+    "ita": [
+      "centro",
+      "colpo"
+    ]
+  },
+  {
+    "synset": "implementation.n.02",
+    "en": [
+      "implementation",
+      "effectuation"
+    ],
+    "fra": [
+      "mise_en_\u0153uvre"
+    ],
+    "spa": [
+      "ejecuci\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "egress.n.03",
+    "en": [
+      "egress",
+      "egression",
+      "emergence"
+    ],
+    "fra": [
+      "issue",
+      "naissance",
+      "sortie",
+      "\u00e9mergence"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "equalization.n.01",
+    "en": [
+      "equalization",
+      "equalisation",
+      "leveling"
+    ],
+    "fra": [
+      "\u00e9galisation",
+      "\u00e9galiseur",
+      "\u00e9quilibrage"
+    ],
+    "spa": [
+      "ecualizador",
+      "nivelaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "exhumation.n.01",
+    "en": [
+      "exhumation",
+      "disinterment",
+      "digging_up"
+    ],
+    "fra": [
+      "exhumation"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "disseppellimento",
+      "dissotterramento",
+      "esumazione",
+      "riesumazione"
+    ]
+  },
+  {
+    "synset": "mitzvah.n.02",
+    "en": [
+      "mitzvah",
+      "mitsvah"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "propulsion.n.02",
+    "en": [
+      "propulsion",
+      "actuation"
+    ],
+    "fra": [
+      "propulsion"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "rally.n.02",
+    "en": [
+      "rally",
+      "rallying"
+    ],
+    "fra": [
+      "ralliement",
+      "rassemblement"
+    ],
+    "spa": [
+      "recuperaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "recovery.n.03",
+    "en": [
+      "recovery",
+      "retrieval"
+    ],
+    "fra": [
+      "recouvrement",
+      "reprise",
+      "r\u00e9cup\u00e9ration"
+    ],
+    "spa": [
+      "recuperaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "riacquisto",
+      "ricupero",
+      "rinvenimento"
+    ]
+  },
+  {
+    "synset": "running_away.n.01",
+    "en": [
+      "running_away"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "stunt.n.01",
+    "en": [
+      "stunt"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "touch.n.05",
+    "en": [
+      "touch",
+      "touching"
+    ],
+    "fra": [
+      "toucher"
+    ],
+    "spa": [
+      "contacto"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "tour_de_force.n.01",
+    "en": [
+      "tour_de_force"
+    ],
+    "fra": [],
+    "spa": [
+      "haza\u00f1a"
+    ],
+    "deu": [],
+    "ita": [
+      "sfacchinata",
+      "tour_de_force"
+    ]
+  },
+  {
+    "synset": "performance.n.04",
+    "en": [
+      "performance"
+    ],
+    "fra": [
+      "performance"
+    ],
+    "spa": [
+      "desempe\u00f1o",
+      "rendimiento"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "overachievement.n.01",
+    "en": [
+      "overachievement"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "underachievement.n.01",
+    "en": [
+      "underachievement"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "record.n.04",
+    "en": [
+      "record",
+      "track_record"
+    ],
+    "fra": [
+      "dossier"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "fait_accompli.n.01",
+    "en": [
+      "fait_accompli",
+      "accomplished_fact"
+    ],
+    "fra": [
+      "fait_accompli"
+    ],
+    "spa": [
+      "asunto_completado",
+      "hecho_consumado"
+    ],
+    "deu": [],
+    "ita": [
+      "fatto_compiuto"
+    ]
+  },
+  {
+    "synset": "going.n.03",
+    "en": [
+      "going",
+      "sledding"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "arrival.n.01",
+    "en": [
+      "arrival",
+      "reaching"
+    ],
+    "fra": [
+      "arriv\u00e9e"
+    ],
+    "spa": [
+      "cumplimiento",
+      "llegada",
+      "logro",
+      "obtenci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "arrivo"
+    ]
+  },
+  {
+    "synset": "arrival.n.02",
+    "en": [
+      "arrival"
+    ],
+    "fra": [
+      "arriv\u00e9e"
+    ],
+    "spa": [
+      "llegada"
+    ],
+    "deu": [],
+    "ita": [
+      "arrivo"
+    ]
+  },
+  {
+    "synset": "attainment.n.02",
+    "en": [
+      "attainment"
+    ],
+    "fra": [],
+    "spa": [
+      "logro"
+    ],
+    "deu": [],
+    "ita": [
+      "conseguimento",
+      "raggiungimento"
+    ]
+  },
+  {
+    "synset": "advent.n.01",
+    "en": [
+      "advent",
+      "coming"
+    ],
+    "fra": [
+      "av\u00e8nement"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "avvento"
+    ]
+  },
+  {
+    "synset": "entrance.n.03",
+    "en": [
+      "entrance",
+      "entering",
+      "entry",
+      "ingress",
+      "incoming"
+    ],
+    "fra": [
+      "entr\u00e9e"
+    ],
+    "spa": [
+      "entrada"
+    ],
+    "deu": [],
+    "ita": [
+      "entrata",
+      "ingresso"
+    ]
+  },
+  {
+    "synset": "incursion.n.01",
+    "en": [
+      "incursion"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "intrusion.n.02",
+    "en": [
+      "intrusion"
+    ],
+    "fra": [
+      "intrusion"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "intrusione"
+    ]
+  },
+  {
+    "synset": "irruption.n.01",
+    "en": [
+      "irruption"
+    ],
+    "fra": [],
+    "spa": [
+      "irrupci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "irruzione"
+    ]
+  },
+  {
+    "synset": "entree.n.04",
+    "en": [
+      "entree"
+    ],
+    "fra": [
+      "entr\u00e9e"
+    ],
+    "spa": [
+      "acceso",
+      "entrada"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "entail.n.02",
+    "en": [
+      "entail"
+    ],
+    "fra": [
+      "comporte"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "registration.n.01",
+    "en": [
+      "registration",
+      "enrollment",
+      "enrolment"
+    ],
+    "fra": [
+      "enregistrement",
+      "enr\u00f4lement",
+      "immatriculation",
+      "inscription",
+      "recommandation"
+    ],
+    "spa": [
+      "inscripci\u00f3n",
+      "registro"
+    ],
+    "deu": [],
+    "ita": [
+      "immatricolazione",
+      "intestazione",
+      "iscrizione",
+      "matricolazione",
+      "registrazione",
+      "tesseramento"
+    ]
+  },
+  {
+    "synset": "appearance.n.05",
+    "en": [
+      "appearance"
+    ],
+    "fra": [
+      "apparition",
+      "aspect"
+    ],
+    "spa": [
+      "aparici\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "apparizione"
+    ]
+  },
+  {
+    "synset": "apparition.n.04",
+    "en": [
+      "apparition"
+    ],
+    "fra": [
+      "apparition"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "emergence.n.03",
+    "en": [
+      "emergence",
+      "emersion"
+    ],
+    "fra": [
+      "sortie",
+      "\u00e9mergence"
+    ],
+    "spa": [
+      "aparici\u00f3n",
+      "emergencia"
+    ],
+    "deu": [],
+    "ita": [
+      "emersione"
+    ]
+  },
+  {
+    "synset": "reappearance.n.02",
+    "en": [
+      "reappearance",
+      "return"
+    ],
+    "fra": [
+      "retour"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "riapparizione",
+      "ricomparsa"
+    ]
+  },
+  {
+    "synset": "comeback.n.02",
+    "en": [
+      "comeback"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "return.n.02",
+    "en": [
+      "return",
+      "homecoming"
+    ],
+    "fra": [
+      "retour"
+    ],
+    "spa": [
+      "regreso",
+      "vuelta"
+    ],
+    "deu": [],
+    "ita": [
+      "ritorno"
+    ]
+  },
+  {
+    "synset": "repatriation.n.01",
+    "en": [
+      "repatriation"
+    ],
+    "fra": [
+      "rapatriement",
+      "retour"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "repatriazione",
+      "rimpatrio",
+      "ripatrio"
+    ]
+  },
+  {
+    "synset": "penetration.n.03",
+    "en": [
+      "penetration"
+    ],
+    "fra": [],
+    "spa": [
+      "penetraci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "penetrazione"
+    ]
+  },
+  {
+    "synset": "interpenetration.n.02",
+    "en": [
+      "interpenetration",
+      "permeation"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "market_penetration.n.01",
+    "en": [
+      "market_penetration"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "anchorage.n.05",
+    "en": [
+      "anchorage"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "docking.n.01",
+    "en": [
+      "docking",
+      "moorage",
+      "dockage",
+      "tying_up"
+    ],
+    "fra": [
+      "ligotage"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "amarraggio",
+      "ammarraggio",
+      "attraccaggio",
+      "attracco",
+      "ormeggio"
+    ]
+  },
+  {
+    "synset": "landing.n.04",
+    "en": [
+      "landing"
+    ],
+    "fra": [
+      "abord",
+      "atterrissage"
+    ],
+    "spa": [
+      "llegada"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "landing.n.03",
+    "en": [
+      "landing"
+    ],
+    "fra": [
+      "abord",
+      "atterrissage"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "ammaraggio",
+      "ammaramento",
+      "atterraggio"
+    ]
+  },
+  {
+    "synset": "forced_landing.n.01",
+    "en": [
+      "forced_landing",
+      "emergency_landing"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "breaking_away.n.02",
+    "en": [
+      "breaking_away"
+    ],
+    "fra": [],
+    "spa": [
+      "escape"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "farewell.n.02",
+    "en": [
+      "farewell",
+      "leave",
+      "leave-taking",
+      "parting"
+    ],
+    "fra": [
+      "adieu",
+      "au_revoir",
+      "partir"
+    ],
+    "spa": [
+      "adi\u00f3s",
+      "despedida"
+    ],
+    "deu": [],
+    "ita": [
+      "addio",
+      "commiato",
+      "distacco"
+    ]
+  },
+  {
+    "synset": "french_leave.n.01",
+    "en": [
+      "French_leave"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "valediction.n.02",
+    "en": [
+      "valediction"
+    ],
+    "fra": [
+      "adieux"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "disappearance.n.01",
+    "en": [
+      "disappearance",
+      "disappearing"
+    ],
+    "fra": [
+      "disparition"
+    ],
+    "spa": [
+      "desaparici\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "scomparsa",
+      "sparizione"
+    ]
+  },
+  {
+    "synset": "vanishing.n.02",
+    "en": [
+      "vanishing"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "withdrawal.n.03",
+    "en": [
+      "withdrawal"
+    ],
+    "fra": [
+      "retrait",
+      "sevrage"
+    ],
+    "spa": [
+      "retirada"
+    ],
+    "deu": [],
+    "ita": [
+      "abbandono"
+    ]
+  },
+  {
+    "synset": "effacement.n.02",
+    "en": [
+      "effacement",
+      "self-effacement"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "retreat.n.07",
+    "en": [
+      "retreat"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "retirement.n.03",
+    "en": [
+      "retirement",
+      "retreat"
+    ],
+    "fra": [
+      "retraite"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "evacuation.n.02",
+    "en": [
+      "evacuation"
+    ],
+    "fra": [
+      "\u00e9vacuation"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "evacuamento",
+      "evacuazione",
+      "sfollamento",
+      "sgombero"
+    ]
+  },
+  {
+    "synset": "medical_evacuation.n.01",
+    "en": [
+      "medical_evacuation",
+      "medevac",
+      "medivac"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "decampment.n.02",
+    "en": [
+      "decampment"
+    ],
+    "fra": [],
+    "spa": [
+      "retira",
+      "retirada"
+    ],
+    "deu": [],
+    "ita": [
+      "decampamento"
+    ]
+  },
+  {
+    "synset": "desertion.n.01",
+    "en": [
+      "desertion",
+      "abandonment",
+      "defection"
+    ],
+    "fra": [
+      "abandon",
+      "d\u00e9sertion"
+    ],
+    "spa": [
+      "abandono"
+    ],
+    "deu": [],
+    "ita": [
+      "abbandono",
+      "defezione",
+      "diserzione"
+    ]
+  },
+  {
+    "synset": "abscondment.n.01",
+    "en": [
+      "abscondment",
+      "decampment"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "absence_without_leave.n.01",
+    "en": [
+      "absence_without_leave",
+      "unauthorized_absence"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "deviationism.n.01",
+    "en": [
+      "deviationism"
+    ],
+    "fra": [
+      "d\u00e9viationnisme"
+    ],
+    "spa": [
+      "desviacionismo"
+    ],
+    "deu": [],
+    "ita": [
+      "deviazionismo"
+    ]
+  },
+  {
+    "synset": "emigration.n.01",
+    "en": [
+      "emigration",
+      "out-migration",
+      "expatriation"
+    ],
+    "fra": [
+      "\u00e9migration"
+    ],
+    "spa": [
+      "emigraci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "emigrazione"
+    ]
+  },
+  {
+    "synset": "immigration.n.01",
+    "en": [
+      "immigration",
+      "in-migration"
+    ],
+    "fra": [
+      "immigration"
+    ],
+    "spa": [
+      "inmigraci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "immigrazione"
+    ]
+  },
+  {
+    "synset": "aliyah.n.02",
+    "en": [
+      "aliyah"
+    ],
+    "fra": [
+      "Alya"
+    ],
+    "spa": [
+      "aliy\u00e1",
+      "ali\u00e1"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "pullback.n.02",
+    "en": [
+      "pullback"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "retreat.n.01",
+    "en": [
+      "retreat"
+    ],
+    "fra": [],
+    "spa": [
+      "retirada"
+    ],
+    "deu": [],
+    "ita": [
+      "ritirata"
+    ]
+  },
+  {
+    "synset": "standdown.n.02",
+    "en": [
+      "standdown",
+      "stand-down"
+    ],
+    "fra": [],
+    "spa": [
+      "receso"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "disengagement.n.02",
+    "en": [
+      "disengagement",
+      "fallback",
+      "pullout"
+    ],
+    "fra": [],
+    "spa": [
+      "retirada",
+      "retiro_de_tropas",
+      "retroceso"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "receding.n.02",
+    "en": [
+      "receding",
+      "recession"
+    ],
+    "fra": [
+      "r\u00e9cession"
+    ],
+    "spa": [
+      "recesi\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "sailing.n.03",
+    "en": [
+      "sailing"
+    ],
+    "fra": [
+      "d\u00e9part"
+    ],
+    "spa": [
+      "marcha",
+      "partida",
+      "salida"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "amphibious_landing.n.01",
+    "en": [
+      "amphibious_landing"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "debarkation.n.01",
+    "en": [
+      "debarkation",
+      "disembarkation",
+      "disembarkment"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "sbarco"
+    ]
+  },
+  {
+    "synset": "going_ashore.n.01",
+    "en": [
+      "going_ashore"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "boarding.n.01",
+    "en": [
+      "boarding",
+      "embarkation",
+      "embarkment"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "imbarco"
+    ]
+  },
+  {
+    "synset": "exit.n.03",
+    "en": [
+      "exit"
+    ],
+    "fra": [
+      "issue",
+      "sortie"
+    ],
+    "spa": [
+      "salida"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "elopement.n.01",
+    "en": [
+      "elopement"
+    ],
+    "fra": [],
+    "spa": [
+      "fuga"
+    ],
+    "deu": [],
+    "ita": [
+      "fuga_romantica"
+    ]
+  },
+  {
+    "synset": "escape.n.01",
+    "en": [
+      "escape",
+      "flight"
+    ],
+    "fra": [
+      "\u00e9vasion"
+    ],
+    "spa": [
+      "fuga",
+      "huida"
+    ],
+    "deu": [],
+    "ita": [
+      "fuga"
+    ]
+  },
+  {
+    "synset": "evasion.n.04",
+    "en": [
+      "evasion"
+    ],
+    "fra": [
+      "fraude",
+      "\u00e9vasion"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "slip.n.15",
+    "en": [
+      "slip",
+      "elusion",
+      "eluding"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "maneuver.n.05",
+    "en": [
+      "maneuver",
+      "manoeuvre",
+      "evasive_action"
+    ],
+    "fra": [
+      "man\u0153uvre",
+      "man\u0153uvrer",
+      "\u00e9vitement"
+    ],
+    "spa": [
+      "maniobra"
+    ],
+    "deu": [],
+    "ita": [
+      "manovra"
+    ]
+  },
+  {
+    "synset": "clinch.n.01",
+    "en": [
+      "clinch"
+    ],
+    "fra": [],
+    "spa": [
+      "abrazo"
+    ],
+    "deu": [],
+    "ita": [
+      "clinch"
+    ]
+  },
+  {
+    "synset": "dodge.n.02",
+    "en": [
+      "dodge"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "break.n.16",
+    "en": [
+      "break",
+      "breakout",
+      "jailbreak",
+      "gaolbreak",
+      "prisonbreak",
+      "prison-breaking"
+    ],
+    "fra": [
+      "breakout",
+      "casser",
+      "jailbreak"
+    ],
+    "spa": [
+      "fuga",
+      "huida"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "getaway.n.02",
+    "en": [
+      "getaway",
+      "lam"
+    ],
+    "fra": [],
+    "spa": [
+      "escape",
+      "fuga",
+      "huida",
+      "polvorosa"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "exodus.n.01",
+    "en": [
+      "exodus",
+      "hegira",
+      "hejira"
+    ],
+    "fra": [
+      "exode",
+      "h\u00e9gire"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "esodo"
+    ]
+  },
+  {
+    "synset": "hegira.n.01",
+    "en": [
+      "Hegira",
+      "Hejira"
+    ],
+    "fra": [
+      "h\u00e9gire"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "skedaddle.n.01",
+    "en": [
+      "skedaddle"
+    ],
+    "fra": [],
+    "spa": [
+      "escabullida"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "underground_railroad.n.01",
+    "en": [
+      "Underground_Railroad",
+      "Underground_Railway"
+    ],
+    "fra": [
+      "Chemin_de_fer_clandestin",
+      "m\u00e9tro"
+    ],
+    "spa": [
+      "Ferrocarril_Subterr\u00e1neo"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "close_call.n.01",
+    "en": [
+      "close_call",
+      "close_shave",
+      "squeak",
+      "squeaker",
+      "narrow_escape"
+    ],
+    "fra": [],
+    "spa": [
+      "por_los",
+      "por_los_pelos"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "surfacing.n.01",
+    "en": [
+      "surfacing"
+    ],
+    "fra": [
+      "surfacing"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "affioramento",
+      "emersione"
+    ]
+  },
+  {
+    "synset": "dispatch.n.02",
+    "en": [
+      "dispatch",
+      "despatch",
+      "shipment"
+    ],
+    "fra": [
+      "exp\u00e9dition"
+    ],
+    "spa": [
+      "despacho",
+      "expedici\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "spedizione"
+    ]
+  },
+  {
+    "synset": "reshipment.n.01",
+    "en": [
+      "reshipment"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "consummation.n.02",
+    "en": [
+      "consummation"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "consumazione"
+    ]
+  },
+  {
+    "synset": "consummation.n.01",
+    "en": [
+      "consummation"
+    ],
+    "fra": [],
+    "spa": [
+      "consumaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "realization.n.06",
+    "en": [
+      "realization",
+      "realisation",
+      "fruition"
+    ],
+    "fra": [
+      "r\u00e9alisation"
+    ],
+    "spa": [
+      "cumplimiento",
+      "realizaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "orgasm.n.01",
+    "en": [
+      "orgasm",
+      "climax",
+      "sexual_climax",
+      "coming"
+    ],
+    "fra": [
+      "jouissance",
+      "orgasme"
+    ],
+    "spa": [
+      "orgasmo"
+    ],
+    "deu": [],
+    "ita": [
+      "orgasmo"
+    ]
+  },
+  {
+    "synset": "male_orgasm.n.01",
+    "en": [
+      "male_orgasm"
+    ],
+    "fra": [],
+    "spa": [
+      "orgasmo_masculino"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "fulfillment.n.02",
+    "en": [
+      "fulfillment",
+      "fulfilment"
+    ],
+    "fra": [
+      "ex\u00e9cution"
+    ],
+    "spa": [
+      "realizaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "adempimento",
+      "assolvimento"
+    ]
+  },
+  {
+    "synset": "self-fulfillment.n.01",
+    "en": [
+      "self-fulfillment",
+      "self-realization",
+      "self-realisation"
+    ],
+    "fra": [],
+    "spa": [
+      "realizaci\u00f3n_personal"
+    ],
+    "deu": [],
+    "ita": [
+      "autoaffermazione",
+      "autorealizzazione"
+    ]
+  },
+  {
+    "synset": "attainment.n.01",
+    "en": [
+      "attainment"
+    ],
+    "fra": [
+      "r\u00e9alisation"
+    ],
+    "spa": [
+      "logro"
+    ],
+    "deu": [],
+    "ita": [
+      "conquista",
+      "conseguimento",
+      "raggiungimento",
+      "realizzazione",
+      "risultato_ottenuto",
+      "successo"
+    ]
+  },
+  {
+    "synset": "record.n.06",
+    "en": [
+      "record"
+    ],
+    "fra": [],
+    "spa": [
+      "marca"
+    ],
+    "deu": [],
+    "ita": [
+      "record"
+    ]
+  },
+  {
+    "synset": "track_record.n.01",
+    "en": [
+      "track_record"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "world_record.n.01",
+    "en": [
+      "world_record"
+    ],
+    "fra": [
+      "record_du_monde",
+      "record_mondial"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "success.n.02",
+    "en": [
+      "success"
+    ],
+    "fra": [
+      "r\u00e9ussite",
+      "succ\u00e8s"
+    ],
+    "spa": [
+      "\u00e9xito"
+    ],
+    "deu": [],
+    "ita": [
+      "successo"
+    ]
+  },
+  {
+    "synset": "winning.n.01",
+    "en": [
+      "winning"
+    ],
+    "fra": [
+      "gagnant"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "blockbuster.n.02",
+    "en": [
+      "blockbuster",
+      "megahit",
+      "smash_hit"
+    ],
+    "fra": [
+      "blockbuster"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "sleeper.n.09",
+    "en": [
+      "sleeper"
+    ],
+    "fra": [
+      "traverse"
+    ],
+    "spa": [
+      "sorpresa",
+      "\u00e9xito_inesperado"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "hit.n.03",
+    "en": [
+      "hit",
+      "smash",
+      "smasher",
+      "strike",
+      "bang"
+    ],
+    "fra": [],
+    "spa": [
+      "exitazo",
+      "golpe",
+      "triunfar",
+      "triunfo",
+      "\u00e9xito"
+    ],
+    "deu": [],
+    "ita": [
+      "successo"
+    ]
+  },
+  {
+    "synset": "bell_ringer.n.03",
+    "en": [
+      "bell_ringer",
+      "bull's_eye",
+      "mark",
+      "home_run"
+    ],
+    "fra": [
+      "circuit",
+      "coup_de_circuit",
+      "label",
+      "point",
+      "\u00e9tiquetage"
+    ],
+    "spa": [
+      "acierto",
+      "diana"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "ennoblement.n.02",
+    "en": [
+      "ennoblement"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "nobilitazione"
+    ]
+  },
+  {
+    "synset": "conquest.n.02",
+    "en": [
+      "conquest"
+    ],
+    "fra": [],
+    "spa": [
+      "conquista"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "coup.n.02",
+    "en": [
+      "coup"
+    ],
+    "fra": [
+      "coup",
+      "putsch"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "bel_colpo"
+    ]
+  },
+  {
+    "synset": "flying_colors.n.01",
+    "en": [
+      "flying_colors",
+      "flying_colours"
+    ],
+    "fra": [],
+    "spa": [
+      "\u00e9xito_absoluto"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "passing.n.07",
+    "en": [
+      "passing",
+      "pass",
+      "qualifying"
+    ],
+    "fra": [
+      "passage"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "credit.n.06",
+    "en": [
+      "credit",
+      "course_credit"
+    ],
+    "fra": [
+      "cr\u00e9dit"
+    ],
+    "spa": [
+      "cr\u00e9dito"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "semester_hour.n.01",
+    "en": [
+      "semester_hour",
+      "credit_hour"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "nonaccomplishment.n.01",
+    "en": [
+      "nonaccomplishment",
+      "nonachievement"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "failure.n.05",
+    "en": [
+      "failure"
+    ],
+    "fra": [],
+    "spa": [
+      "descuido",
+      "olvido",
+      "omisi\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "failure.n.01",
+    "en": [
+      "failure"
+    ],
+    "fra": [
+      "d\u00e9faillance",
+      "\u00e9chec"
+    ],
+    "spa": [
+      "fracaso"
+    ],
+    "deu": [],
+    "ita": [
+      "fallimento"
+    ]
+  },
+  {
+    "synset": "failing.n.02",
+    "en": [
+      "failing",
+      "flunk"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "naught.n.02",
+    "en": [
+      "naught"
+    ],
+    "fra": [],
+    "spa": [
+      "nada"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "cut.n.20",
+    "en": [
+      "cut"
+    ],
+    "fra": [
+      "trancher"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "default.n.01",
+    "en": [
+      "default"
+    ],
+    "fra": [],
+    "spa": [
+      "incomparecencia"
+    ],
+    "deu": [],
+    "ita": [
+      "forfait"
+    ]
+  },
+  {
+    "synset": "loss.n.03",
+    "en": [
+      "loss"
+    ],
+    "fra": [],
+    "spa": [
+      "derrota",
+      "fracaso",
+      "p\u00e9rdida"
+    ],
+    "deu": [],
+    "ita": [
+      "perdita"
+    ]
+  },
+  {
+    "synset": "capitulation.n.03",
+    "en": [
+      "capitulation",
+      "fall",
+      "surrender"
+    ],
+    "fra": [
+      "capitulation",
+      "reddition"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "caduta",
+      "capitolazione",
+      "resa"
+    ]
+  },
+  {
+    "synset": "frustration.n.02",
+    "en": [
+      "frustration",
+      "thwarting",
+      "foiling"
+    ],
+    "fra": [
+      "frustration"
+    ],
+    "spa": [
+      "frustraci\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "overturn.n.02",
+    "en": [
+      "overturn",
+      "upset"
+    ],
+    "fra": [
+      "renverser"
+    ],
+    "spa": [
+      "cambio",
+      "giro",
+      "resultado_inesperado",
+      "vuelco"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "backsliding.n.01",
+    "en": [
+      "backsliding",
+      "lapse",
+      "lapsing",
+      "relapse",
+      "relapsing",
+      "reversion",
+      "reverting"
+    ],
+    "fra": [],
+    "spa": [
+      "ca\u00edda"
+    ],
+    "deu": [],
+    "ita": [
+      "recidiva",
+      "ricaduta"
+    ]
+  },
+  {
+    "synset": "recidivism.n.01",
+    "en": [
+      "recidivism"
+    ],
+    "fra": [
+      "r\u00e9cidive"
+    ],
+    "spa": [
+      "reca\u00edda",
+      "reincidencia"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "disappointment.n.02",
+    "en": [
+      "disappointment",
+      "dashing_hopes"
+    ],
+    "fra": [
+      "D\u00e9ception",
+      "d\u00e9ception"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "disinganno"
+    ]
+  },
+  {
+    "synset": "breach.n.01",
+    "en": [
+      "breach"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "inadempimento"
+    ]
+  },
+  {
+    "synset": "copout.n.01",
+    "en": [
+      "copout"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "breach_of_contract.n.01",
+    "en": [
+      "breach_of_contract"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "GAP!",
+      "inadempienza_di_contratto"
+    ]
+  },
+  {
+    "synset": "anticipatory_breach.n.01",
+    "en": [
+      "anticipatory_breach",
+      "constructive_breach"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "breach_of_duty.n.01",
+    "en": [
+      "breach_of_duty"
+    ],
+    "fra": [],
+    "spa": [
+      "incumplimiento_del_deber"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "breach_of_the_covenant_of_warranty.n.01",
+    "en": [
+      "breach_of_the_covenant_of_warranty"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "breach_of_promise.n.01",
+    "en": [
+      "breach_of_promise"
+    ],
+    "fra": [],
+    "spa": [
+      "incumplimiento_de_compromiso"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "breach_of_trust.n.01",
+    "en": [
+      "breach_of_trust"
+    ],
+    "fra": [
+      "abus_de_confiance"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "abuso_di_fiducia"
+    ]
+  },
+  {
+    "synset": "breach_of_trust_with_fraudulent_intent.n.01",
+    "en": [
+      "breach_of_trust_with_fraudulent_intent"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "breach_of_warranty.n.01",
+    "en": [
+      "breach_of_warranty"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "leaning.n.04",
+    "en": [
+      "leaning"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "material_breach.n.01",
+    "en": [
+      "material_breach"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "motivation.n.03",
+    "en": [
+      "motivation",
+      "motivating"
+    ],
+    "fra": [
+      "motivation"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "partial_breach.n.01",
+    "en": [
+      "partial_breach"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "mistake.n.01",
+    "en": [
+      "mistake",
+      "error",
+      "fault"
+    ],
+    "fra": [
+      "erreur",
+      "faute"
+    ],
+    "spa": [
+      "error",
+      "fallo",
+      "falta"
+    ],
+    "deu": [],
+    "ita": [
+      "colpa",
+      "errore",
+      "fallo",
+      "mancanza",
+      "marrone",
+      "sbaglio",
+      "sgarro"
+    ]
+  },
+  {
+    "synset": "double_fault.n.01",
+    "en": [
+      "double_fault"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "footfault.n.01",
+    "en": [
+      "footfault"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "bobble.n.01",
+    "en": [
+      "bobble"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "error.n.04",
+    "en": [
+      "error",
+      "misplay"
+    ],
+    "fra": [
+      "erreur",
+      "faute"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "errore",
+      "fallo"
+    ]
+  },
+  {
+    "synset": "blot.n.02",
+    "en": [
+      "blot",
+      "smear",
+      "smirch",
+      "spot",
+      "stain"
+    ],
+    "fra": [
+      "blot",
+      "souillure",
+      "tache",
+      "tacher"
+    ],
+    "spa": [
+      "mancha"
+    ],
+    "deu": [],
+    "ita": [
+      "macchia"
+    ]
+  },
+  {
+    "synset": "confusion.n.05",
+    "en": [
+      "confusion",
+      "mix-up"
+    ],
+    "fra": [
+      "confusion"
+    ],
+    "spa": [
+      "confusi\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "confusione"
+    ]
+  },
+  {
+    "synset": "incursion.n.03",
+    "en": [
+      "incursion"
+    ],
+    "fra": [],
+    "spa": [
+      "aceptaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "miscalculation.n.01",
+    "en": [
+      "miscalculation",
+      "misreckoning",
+      "misestimation"
+    ],
+    "fra": [],
+    "spa": [
+      "error_de_c\u00e1lculo",
+      "error_de_estimaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "GAP!",
+      "errore_di_calcolo"
+    ]
+  },
+  {
+    "synset": "backfire.n.04",
+    "en": [
+      "backfire",
+      "boomerang"
+    ],
+    "fra": [],
+    "spa": [
+      "efecto_boomerang"
+    ],
+    "deu": [],
+    "ita": [
+      "boomerang"
+    ]
+  },
+  {
+    "synset": "rounding.n.01",
+    "en": [
+      "rounding",
+      "rounding_error"
+    ],
+    "fra": [
+      "arrondi"
+    ],
+    "spa": [
+      "redondeo"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "truncation_error.n.01",
+    "en": [
+      "truncation_error"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "distortion.n.06",
+    "en": [
+      "distortion"
+    ],
+    "fra": [
+      "distorsion",
+      "d\u00e9formation"
+    ],
+    "spa": [
+      "tergiversaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "slip.n.02",
+    "en": [
+      "slip",
+      "slip-up",
+      "miscue",
+      "parapraxis"
+    ],
+    "fra": [
+      "b\u00e9vue"
+    ],
+    "spa": [
+      "lapsus"
+    ],
+    "deu": [],
+    "ita": [
+      "disattenzione",
+      "scorso"
+    ]
+  },
+  {
+    "synset": "freudian_slip.n.01",
+    "en": [
+      "Freudian_slip"
+    ],
+    "fra": [
+      "Lapsus#La_m.C3.A9canique_inconsciente_du_lapsus",
+      "acte_manqu\u00e9",
+      "lapsus",
+      "lapsus_r\u00e9v\u00e9lateur"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "offside.n.01",
+    "en": [
+      "offside"
+    ],
+    "fra": [],
+    "spa": [
+      "fuera_de_juego"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "oversight.n.03",
+    "en": [
+      "oversight",
+      "lapse"
+    ],
+    "fra": [
+      "b\u00e9vue",
+      "oubli"
+    ],
+    "spa": [
+      "olvido"
+    ],
+    "deu": [],
+    "ita": [
+      "dimenticanza",
+      "disattenzione",
+      "disavvertenza",
+      "inavvedutezza",
+      "lapsus",
+      "malestro",
+      "sbadataggine",
+      "scapataggine",
+      "scorso",
+      "smemorataggine",
+      "spensierataggine",
+      "storditaggine",
+      "sventataggine",
+      "sventatezza"
+    ]
+  },
+  {
+    "synset": "omission.n.01",
+    "en": [
+      "omission",
+      "skip"
+    ],
+    "fra": [
+      "omission"
+    ],
+    "spa": [
+      "descuido"
+    ],
+    "deu": [],
+    "ita": [
+      "dimenticanza",
+      "omissione",
+      "pretermissione"
+    ]
+  },
+  {
+    "synset": "blunder.n.01",
+    "en": [
+      "blunder",
+      "blooper",
+      "bloomer",
+      "bungle",
+      "pratfall",
+      "foul-up",
+      "fuckup",
+      "flub",
+      "botch",
+      "boner",
+      "boo-boo"
+    ],
+    "fra": [
+      "B\u00eatisier",
+      "blooper",
+      "bobo",
+      "bousiller",
+      "b\u00e9vue",
+      "b\u00eatisier",
+      "g\u00e2cher",
+      "perle",
+      "trique"
+    ],
+    "spa": [
+      "blooper",
+      "cagada",
+      "cante",
+      "ca\u00edda",
+      "chapucer\u00eda",
+      "disparate",
+      "embrollo",
+      "equivocaci\u00f3n",
+      "estropeo",
+      "metedura_de_pata",
+      "patochada",
+      "plancha"
+    ],
+    "deu": [],
+    "ita": [
+      "abbaglio",
+      "abbarbagliamento",
+      "biscanto",
+      "cantonata",
+      "cerpellone",
+      "dirizzone",
+      "figuraccia",
+      "goffaggine",
+      "granchio",
+      "miraggio",
+      "scerpellone",
+      "sfarfallone",
+      "sfondone",
+      "strafalcione",
+      "svarione",
+      "svista",
+      "travisamento"
+    ]
+  },
+  {
+    "synset": "snafu.n.01",
+    "en": [
+      "snafu"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "spectacle.n.03",
+    "en": [
+      "spectacle"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "ballup.n.01",
+    "en": [
+      "ballup",
+      "balls-up",
+      "cockup",
+      "mess-up"
+    ],
+    "fra": [],
+    "spa": [
+      "l\u00edo"
+    ],
+    "deu": [],
+    "ita": [
+      "casino"
+    ]
+  },
+  {
+    "synset": "bull.n.04",
+    "en": [
+      "bull"
+    ],
+    "fra": [
+      "taureau"
+    ],
+    "spa": [
+      "chorrada",
+      "estupidez",
+      "gilipollez",
+      "tonter\u00eda"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "fumble.n.01",
+    "en": [
+      "fumble",
+      "muff"
+    ],
+    "fra": [
+      "manchon"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "fluff.n.03",
+    "en": [
+      "fluff"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "faux_pas.n.01",
+    "en": [
+      "faux_pas",
+      "gaffe",
+      "solecism",
+      "slip",
+      "gaucherie"
+    ],
+    "fra": [
+      "Sol\u00e9cisme",
+      "b\u00e9vue",
+      "faux_pas",
+      "gaffe",
+      "impair",
+      "sol\u00e9cisme",
+      "soulier"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "gaffe",
+      "scorso",
+      "topica"
+    ]
+  },
+  {
+    "synset": "howler.n.03",
+    "en": [
+      "howler"
+    ],
+    "fra": [],
+    "spa": [
+      "error_garrafal"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "clanger.n.01",
+    "en": [
+      "clanger"
+    ],
+    "fra": [],
+    "spa": [
+      "plancha"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "trip.n.07",
+    "en": [
+      "trip",
+      "trip-up",
+      "stumble",
+      "misstep"
+    ],
+    "fra": [
+      "faux_pas"
+    ],
+    "spa": [
+      "paso_en_falso",
+      "traspi\u00e9",
+      "tropiezo"
+    ],
+    "deu": [],
+    "ita": [
+      "passo_falso"
+    ]
+  },
+  {
+    "synset": "spill.n.04",
+    "en": [
+      "spill",
+      "tumble",
+      "fall"
+    ],
+    "fra": [
+      "chute"
+    ],
+    "spa": [
+      "ca\u00edda"
+    ],
+    "deu": [],
+    "ita": [
+      "caduta",
+      "capitombolo",
+      "cascata",
+      "grifata",
+      "rotolone",
+      "ruzzolata",
+      "ruzzolone",
+      "scivolone",
+      "tombola",
+      "volo"
+    ]
+  },
+  {
+    "synset": "pratfall.n.01",
+    "en": [
+      "pratfall"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "wipeout.n.02",
+    "en": [
+      "wipeout"
+    ],
+    "fra": [
+      "gamelle"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "acquisition.n.01",
+    "en": [
+      "acquisition"
+    ],
+    "fra": [
+      "acquisition"
+    ],
+    "spa": [
+      "adquisici\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "acquisizione",
+      "acquisto",
+      "ottenimento"
+    ]
+  },
+  {
+    "synset": "obtainment.n.01",
+    "en": [
+      "obtainment",
+      "obtention"
+    ],
+    "fra": [
+      "obtention"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "ottenimento"
+    ]
+  },
+  {
+    "synset": "catching.n.03",
+    "en": [
+      "catching",
+      "contracting"
+    ],
+    "fra": [
+      "adjudicateur",
+      "signataire"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "incurring.n.01",
+    "en": [
+      "incurring"
+    ],
+    "fra": [],
+    "spa": [
+      "contracci\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "moneymaking.n.01",
+    "en": [
+      "moneymaking"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "annexation.n.02",
+    "en": [
+      "annexation"
+    ],
+    "fra": [
+      "annexion"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "pork-barreling.n.01",
+    "en": [
+      "pork-barreling"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "purchase.n.01",
+    "en": [
+      "purchase"
+    ],
+    "fra": [
+      "achat",
+      "acheter",
+      "acquisition",
+      "emplette"
+    ],
+    "spa": [
+      "adquisici\u00f3n",
+      "compra"
+    ],
+    "deu": [],
+    "ita": [
+      "acquisto",
+      "compera",
+      "compra"
+    ]
+  },
+  {
+    "synset": "redemption.n.03",
+    "en": [
+      "redemption",
+      "repurchase",
+      "buyback"
+    ],
+    "fra": [
+      "r\u00e9demption"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "recupero",
+      "riacquisto",
+      "ricompera",
+      "ricompra",
+      "ricupero",
+      "riottenimento"
+    ]
+  },
+  {
+    "synset": "trading.n.01",
+    "en": [
+      "trading"
+    ],
+    "fra": [
+      "commerce",
+      "commercial",
+      "quota",
+      "\u00e9change"
+    ],
+    "spa": [
+      "comercio"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "bond_trading.n.01",
+    "en": [
+      "bond_trading",
+      "bond-trading_activity"
+    ],
+    "fra": [],
+    "spa": [
+      "comercio_de_bonos",
+      "operaciones_con_bonos"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "program_trading.n.01",
+    "en": [
+      "program_trading"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "short_sale.n.01",
+    "en": [
+      "short_sale",
+      "short_selling"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "vendita_allo_scoperto"
+    ]
+  },
+  {
+    "synset": "short_covering.n.01",
+    "en": [
+      "short_covering"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "insider_trading.n.01",
+    "en": [
+      "insider_trading"
+    ],
+    "fra": [
+      "d\u00e9lit_d'initi\u00e9",
+      "d\u00e9lit_d'initi\u00e9s"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "naked_option.n.01",
+    "en": [
+      "naked_option"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "contratto_a_premio_allo_scoperto"
+    ]
+  },
+  {
+    "synset": "covered_option.n.01",
+    "en": [
+      "covered_option"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "contratto_a_premio_coperto"
+    ]
+  },
+  {
+    "synset": "call_option.n.02",
+    "en": [
+      "call_option",
+      "call"
+    ],
+    "fra": [
+      "appeler"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "contratto_a_premio_di_cui",
+      "contratto_a_premio_dont",
+      "contratto_a_premio_semplice"
+    ]
+  },
+  {
+    "synset": "put_option.n.02",
+    "en": [
+      "put_option",
+      "put"
+    ],
+    "fra": [
+      "mettre",
+      "rassembler"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "contratto_a_premio_del_venditore",
+      "contratto_a_premio_pour_livrer",
+      "contratto_a_premio_put"
+    ]
+  },
+  {
+    "synset": "straddle.n.04",
+    "en": [
+      "straddle"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "contratto_a_doppia_facolt\u00e0",
+      "contratto_a_doppio_premio",
+      "contratto_a_premio_composto",
+      "stellaggio"
+    ]
+  },
+  {
+    "synset": "incentive_option.n.01",
+    "en": [
+      "incentive_option",
+      "incentive_stock_option"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "buying.n.01",
+    "en": [
+      "buying",
+      "purchasing"
+    ],
+    "fra": [
+      "achat"
+    ],
+    "spa": [
+      "compra"
+    ],
+    "deu": [],
+    "ita": [
+      "acquisto"
+    ]
+  },
+  {
+    "synset": "shopping.n.01",
+    "en": [
+      "shopping"
+    ],
+    "fra": [
+      "chalandage",
+      "course",
+      "courses",
+      "shopping"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "shopping"
+    ]
+  },
+  {
+    "synset": "marketing.n.03",
+    "en": [
+      "marketing"
+    ],
+    "fra": [
+      "commercialisation",
+      "marketing"
+    ],
+    "spa": [
+      "compra"
+    ],
+    "deu": [],
+    "ita": [
+      "spesa"
+    ]
+  },
+  {
+    "synset": "mail-order_buying.n.01",
+    "en": [
+      "mail-order_buying",
+      "catalog_buying"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "viatication.n.01",
+    "en": [
+      "viatication",
+      "viaticus"
+    ],
+    "fra": [],
+    "spa": [
+      "acuerdo_vi\u00e1tico"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "acceptance.n.07",
+    "en": [
+      "acceptance"
+    ],
+    "fra": [
+      "acceptation",
+      "admission"
+    ],
+    "spa": [
+      "aceptaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "succession.n.05",
+    "en": [
+      "succession",
+      "taking_over"
+    ],
+    "fra": [
+      "achat",
+      "acquisition",
+      "emplette",
+      "succession"
+    ],
+    "spa": [
+      "sucesi\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "subentro"
+    ]
+  },
+  {
+    "synset": "assumption.n.03",
+    "en": [
+      "assumption",
+      "laying_claim"
+    ],
+    "fra": [],
+    "spa": [
+      "asunci\u00f3n",
+      "toma"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "assumption.n.07",
+    "en": [
+      "assumption"
+    ],
+    "fra": [
+      "hypoth\u00e8se",
+      "pr\u00e9suppos\u00e9"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "position.n.16",
+    "en": [
+      "position"
+    ],
+    "fra": [
+      "position"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "inheritance.n.01",
+    "en": [
+      "inheritance",
+      "heritage"
+    ],
+    "fra": [
+      "h\u00e9ritage",
+      "patrimoine"
+    ],
+    "spa": [
+      "herencia",
+      "patrimonio"
+    ],
+    "deu": [],
+    "ita": [
+      "eredit\u00e0",
+      "retaggio"
+    ]
+  },
+  {
+    "synset": "procurement.n.01",
+    "en": [
+      "procurement",
+      "procurance",
+      "procural"
+    ],
+    "fra": [
+      "achats",
+      "approvisionnement",
+      "commande",
+      "r\u00e9approvisionnement"
+    ],
+    "spa": [
+      "adquisici\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "rifornimento"
+    ]
+  },
+  {
+    "synset": "appropriation.n.03",
+    "en": [
+      "appropriation"
+    ],
+    "fra": [
+      "affectation",
+      "appropriation",
+      "dotation"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "appropriazione"
+    ]
+  },
+  {
+    "synset": "borrowing.n.01",
+    "en": [
+      "borrowing",
+      "adoption"
+    ],
+    "fra": [
+      "adoption",
+      "approbation"
+    ],
+    "spa": [
+      "adopci\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "naturalization.n.04",
+    "en": [
+      "naturalization",
+      "naturalisation"
+    ],
+    "fra": [
+      "naturalisation"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "misappropriation.n.02",
+    "en": [
+      "misappropriation"
+    ],
+    "fra": [],
+    "spa": [
+      "apropiaci\u00f3n_indebida"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "preemption.n.04",
+    "en": [
+      "preemption",
+      "pre-emption"
+    ],
+    "fra": [],
+    "spa": [
+      "derecho_preferente",
+      "preempci\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "seizure.n.04",
+    "en": [
+      "seizure"
+    ],
+    "fra": [
+      "saisie"
+    ],
+    "spa": [
+      "embargo"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "usurpation.n.02",
+    "en": [
+      "usurpation"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "usurpamento",
+      "usurpazione"
+    ]
+  },
+  {
+    "synset": "confiscation.n.01",
+    "en": [
+      "confiscation",
+      "arrogation"
+    ],
+    "fra": [
+      "confiscation",
+      "prise",
+      "saisie"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "confisca",
+      "ritiro",
+      "sequestro"
+    ]
+  },
+  {
+    "synset": "distress.n.04",
+    "en": [
+      "distress",
+      "distraint"
+    ],
+    "fra": [
+      "saisie-arr\u00eat"
+    ],
+    "spa": [
+      "embargo"
+    ],
+    "deu": [],
+    "ita": [
+      "pignoramento"
+    ]
+  },
+  {
+    "synset": "expropriation.n.01",
+    "en": [
+      "expropriation"
+    ],
+    "fra": [
+      "expropriation"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "espropriazione",
+      "esproprio"
+    ]
+  },
+  {
+    "synset": "impoundment.n.01",
+    "en": [
+      "impoundment",
+      "impounding",
+      "internment",
+      "poundage"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "drug_bust.n.01",
+    "en": [
+      "drug_bust",
+      "drugs_bust"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "impress.n.01",
+    "en": [
+      "impress",
+      "impressment"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "occupation.n.04",
+    "en": [
+      "occupation",
+      "occupancy",
+      "moving_in"
+    ],
+    "fra": [
+      "occupation"
+    ],
+    "spa": [
+      "ocupaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "occupazione"
+    ]
+  },
+  {
+    "synset": "preoccupancy.n.02",
+    "en": [
+      "preoccupancy",
+      "preoccupation"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "sequestration.n.04",
+    "en": [
+      "sequestration",
+      "requisition"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "grant.n.02",
+    "en": [
+      "grant",
+      "subsidization",
+      "subsidisation"
+    ],
+    "fra": [
+      "subvention"
+    ],
+    "spa": [
+      "subvenci\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "award.n.01",
+    "en": [
+      "award",
+      "awarding"
+    ],
+    "fra": [
+      "attribution"
+    ],
+    "spa": [
+      "concesi\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "addiction.n.03",
+    "en": [
+      "addiction"
+    ],
+    "fra": [
+      "accoutumance",
+      "d\u00e9pendance"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "block_grant.n.01",
+    "en": [
+      "block_grant"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "grant-in-aid.n.01",
+    "en": [
+      "grant-in-aid"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "capture.n.01",
+    "en": [
+      "capture",
+      "gaining_control",
+      "seizure"
+    ],
+    "fra": [
+      "confiscation",
+      "prise",
+      "saisie"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "apprehension.n.04",
+    "en": [
+      "apprehension",
+      "arrest",
+      "catch",
+      "collar",
+      "pinch",
+      "taking_into_custody"
+    ],
+    "fra": [
+      "arrestation",
+      "col",
+      "collier"
+    ],
+    "spa": [
+      "detenci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "arresto",
+      "fermo"
+    ]
+  },
+  {
+    "synset": "conquest.n.01",
+    "en": [
+      "conquest",
+      "conquering",
+      "subjection",
+      "subjugation"
+    ],
+    "fra": [],
+    "spa": [
+      "conquista",
+      "sometimiento"
+    ],
+    "deu": [],
+    "ita": [
+      "aggiogamento",
+      "assoggettamento",
+      "conquista",
+      "soggiogamento",
+      "sottomissione"
+    ]
+  },
+  {
+    "synset": "enslavement.n.02",
+    "en": [
+      "enslavement"
+    ],
+    "fra": [
+      "asservissement"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "restitution.n.03",
+    "en": [
+      "restitution",
+      "return",
+      "restoration",
+      "regaining"
+    ],
+    "fra": [
+      "restauration",
+      "restitution",
+      "retour"
+    ],
+    "spa": [
+      "devoluci\u00f3n",
+      "recuperaci\u00f3n",
+      "restauraci\u00f3n",
+      "restituci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "resa",
+      "restituzione",
+      "riconsegna"
+    ]
+  },
+  {
+    "synset": "clawback.n.01",
+    "en": [
+      "clawback"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "repossession.n.01",
+    "en": [
+      "repossession"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "foreclosure.n.01",
+    "en": [
+      "foreclosure"
+    ],
+    "fra": [
+      "saisie"
+    ],
+    "spa": [
+      "ejecuci\u00f3n_de_hipoteca"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "reception.n.04",
+    "en": [
+      "reception",
+      "receipt"
+    ],
+    "fra": [
+      "quittance",
+      "re\u00e7u",
+      "r\u00e9ception",
+      "r\u00e9c\u00e9piss\u00e9"
+    ],
+    "spa": [
+      "recepci\u00f3n",
+      "recibo"
+    ],
+    "deu": [],
+    "ita": [
+      "accettazione",
+      "recezione",
+      "ricevimento",
+      "ricezione"
+    ]
+  },
+  {
+    "synset": "appointment.n.06",
+    "en": [
+      "appointment"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "comb-out.n.02",
+    "en": [
+      "comb-out"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "giving.n.03",
+    "en": [
+      "giving"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "abandonment.n.03",
+    "en": [
+      "abandonment"
+    ],
+    "fra": [
+      "abandon",
+      "arrachage"
+    ],
+    "spa": [
+      "abandono",
+      "dejaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "abbandono"
+    ]
+  },
+  {
+    "synset": "discard.n.03",
+    "en": [
+      "discard",
+      "throwing_away"
+    ],
+    "fra": [],
+    "spa": [
+      "rechazo"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "staging.n.04",
+    "en": [
+      "staging"
+    ],
+    "fra": [],
+    "spa": [
+      "desprendimiento"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "discard.n.02",
+    "en": [
+      "discard"
+    ],
+    "fra": [],
+    "spa": [
+      "descarte"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "mine_disposal.n.01",
+    "en": [
+      "mine_disposal"
+    ],
+    "fra": [],
+    "spa": [
+      "colocaci\u00f3n_de_minas"
+    ],
+    "deu": [],
+    "ita": [
+      "disinnesco_di_mine"
+    ]
+  },
+  {
+    "synset": "minesweeping.n.01",
+    "en": [
+      "minesweeping"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "dragaggio"
+    ]
+  },
+  {
+    "synset": "sewage_disposal.n.01",
+    "en": [
+      "sewage_disposal"
+    ],
+    "fra": [],
+    "spa": [
+      "depuraci\u00f3n_de_aguas"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "bait_and_switch.n.01",
+    "en": [
+      "bait_and_switch"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "private_treaty.n.01",
+    "en": [
+      "private_treaty"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "auction.n.02",
+    "en": [
+      "auction",
+      "auction_sale",
+      "vendue"
+    ],
+    "fra": [
+      "ench\u00e8re",
+      "vente_aux_ench\u00e8res"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "asta",
+      "incanto",
+      "vendita_all'asta"
+    ]
+  },
+  {
+    "synset": "bootlegging.n.01",
+    "en": [
+      "bootlegging"
+    ],
+    "fra": [],
+    "spa": [
+      "contrabando_de_licor"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "bootlegging.n.02",
+    "en": [
+      "bootlegging"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "capitalization.n.04",
+    "en": [
+      "capitalization",
+      "capitalisation"
+    ],
+    "fra": [
+      "capital",
+      "capitalisation"
+    ],
+    "spa": [
+      "capitalizaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "capitalizzazione"
+    ]
+  },
+  {
+    "synset": "overcapitalization.n.01",
+    "en": [
+      "overcapitalization",
+      "overcapitalisation"
+    ],
+    "fra": [
+      "surcapitalisation"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "sovracapitalizzazione"
+    ]
+  },
+  {
+    "synset": "reclamation.n.03",
+    "en": [
+      "reclamation"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "rescue.n.01",
+    "en": [
+      "rescue",
+      "deliverance",
+      "delivery",
+      "saving"
+    ],
+    "fra": [
+      "sauvetage"
+    ],
+    "spa": [
+      "entrega",
+      "liberaci\u00f3n",
+      "rescate",
+      "salvaci\u00f3n",
+      "salvamento"
+    ],
+    "deu": [],
+    "ita": [
+      "soccorso"
+    ]
+  },
+  {
+    "synset": "lifesaving.n.01",
+    "en": [
+      "lifesaving"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "redemption.n.01",
+    "en": [
+      "redemption",
+      "salvation"
+    ],
+    "fra": [
+      "r\u00e9demption",
+      "salut"
+    ],
+    "spa": [
+      "redenci\u00f3n",
+      "salvaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "redenzione",
+      "salvazione"
+    ]
+  },
+  {
+    "synset": "absolution.n.02",
+    "en": [
+      "absolution",
+      "remission",
+      "remittal",
+      "remission_of_sin"
+    ],
+    "fra": [
+      "acquittement",
+      "r\u00e9mission"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "assoluzione"
+    ]
+  },
+  {
+    "synset": "indulgence.n.05",
+    "en": [
+      "indulgence"
+    ],
+    "fra": [],
+    "spa": [
+      "indulgencia"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "conversion.n.04",
+    "en": [
+      "conversion",
+      "rebirth",
+      "spiritual_rebirth"
+    ],
+    "fra": [
+      "conversion"
+    ],
+    "spa": [
+      "conversi\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "conversione"
+    ]
+  },
+  {
+    "synset": "proselytism.n.02",
+    "en": [
+      "proselytism"
+    ],
+    "fra": [
+      "pros\u00e9lytisme"
+    ],
+    "spa": [
+      "proselitismo"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "expiation.n.02",
+    "en": [
+      "expiation",
+      "atonement",
+      "propitiation"
+    ],
+    "fra": [
+      "expiation"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "espiazione"
+    ]
+  },
+  {
+    "synset": "reparation.n.04",
+    "en": [
+      "reparation",
+      "amends"
+    ],
+    "fra": [],
+    "spa": [
+      "indemnizaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "liberation.n.01",
+    "en": [
+      "liberation",
+      "release",
+      "freeing"
+    ],
+    "fra": [
+      "affranchissement",
+      "lib\u00e9ration",
+      "\u00e9mancipation"
+    ],
+    "spa": [
+      "liberaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "affrancamento",
+      "emancipazione",
+      "liberazione"
+    ]
+  },
+  {
+    "synset": "jail_delivery.n.01",
+    "en": [
+      "jail_delivery"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "reclamation.n.02",
+    "en": [
+      "reclamation",
+      "reformation"
+    ],
+    "fra": [],
+    "spa": [
+      "enmienda",
+      "recuperaci\u00f3n",
+      "reforma",
+      "reformaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "contrizione",
+      "correzione",
+      "ravvedimento",
+      "risanamento"
+    ]
+  },
+  {
+    "synset": "salvage.n.03",
+    "en": [
+      "salvage"
+    ],
+    "fra": [
+      "sauvetage"
+    ],
+    "spa": [
+      "rescate"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "salvage.n.02",
+    "en": [
+      "salvage"
+    ],
+    "fra": [
+      "sauvetage"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "salvation.n.04",
+    "en": [
+      "salvation"
+    ],
+    "fra": [
+      "salut"
+    ],
+    "spa": [
+      "salvaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "salvezza"
+    ]
+  },
+  {
+    "synset": "search_and_rescue_mission.n.01",
+    "en": [
+      "search_and_rescue_mission"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "ransom.n.03",
+    "en": [
+      "ransom"
+    ],
+    "fra": [
+      "ran\u00e7on",
+      "r\u00e9demption"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "recapture.n.02",
+    "en": [
+      "recapture",
+      "retaking"
+    ],
+    "fra": [],
+    "spa": [
+      "reconquista"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "recapture.n.01",
+    "en": [
+      "recapture"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "invocation.n.04",
+    "en": [
+      "invocation"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "invocazione"
+    ]
+  },
+  {
+    "synset": "instrumentation.n.02",
+    "en": [
+      "instrumentation"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "performance.n.03",
+    "en": [
+      "performance",
+      "execution",
+      "carrying_out",
+      "carrying_into_action"
+    ],
+    "fra": [
+      "ex\u00e9cution"
+    ],
+    "spa": [
+      "cumplimiento",
+      "ejecuci\u00f3n",
+      "realizaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "effettuazione",
+      "esecuzione",
+      "eseguimento",
+      "esplicazione",
+      "performance",
+      "realizzazione"
+    ]
+  },
+  {
+    "synset": "specific_performance.n.01",
+    "en": [
+      "specific_performance"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "linguistic_performance.n.01",
+    "en": [
+      "linguistic_performance"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "mechanism.n.02",
+    "en": [
+      "mechanism",
+      "mechanics"
+    ],
+    "fra": [
+      "m\u00e9canique",
+      "m\u00e9canisme"
+    ],
+    "spa": [
+      "mecanismo"
+    ],
+    "deu": [],
+    "ita": [
+      "congegno",
+      "meccanismo"
+    ]
+  },
+  {
+    "synset": "service.n.15",
+    "en": [
+      "service"
+    ],
+    "fra": [
+      "service"
+    ],
+    "spa": [
+      "servicio"
+    ],
+    "deu": [],
+    "ita": [
+      "servizio"
+    ]
+  },
+  {
+    "synset": "curb_service.n.01",
+    "en": [
+      "curb_service"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "self-service.n.01",
+    "en": [
+      "self-service"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "self-service"
+    ]
+  },
+  {
+    "synset": "valet_parking.n.01",
+    "en": [
+      "valet_parking"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "dramatic_production.n.01",
+    "en": [
+      "dramatic_production",
+      "dramatic_performance"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "recita"
+    ]
+  },
+  {
+    "synset": "encore.n.01",
+    "en": [
+      "encore"
+    ],
+    "fra": [
+      "bis"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "bis"
+    ]
+  },
+  {
+    "synset": "extemporization.n.01",
+    "en": [
+      "extemporization",
+      "extemporisation",
+      "improvisation"
+    ],
+    "fra": [
+      "improvisation"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "improvvisazione"
+    ]
+  },
+  {
+    "synset": "juggle.n.02",
+    "en": [
+      "juggle",
+      "juggling"
+    ],
+    "fra": [
+      "jonglage",
+      "jongler",
+      "jonglerie"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "giochi_di_destrezza"
+    ]
+  },
+  {
+    "synset": "magic_trick.n.01",
+    "en": [
+      "magic_trick",
+      "conjuring_trick",
+      "trick",
+      "magic",
+      "legerdemain",
+      "conjuration",
+      "thaumaturgy",
+      "illusion",
+      "deception"
+    ],
+    "fra": [
+      "magie",
+      "prestidigitation",
+      "supercherie"
+    ],
+    "spa": [
+      "ilusi\u00f3n",
+      "magia",
+      "truco"
+    ],
+    "deu": [],
+    "ita": [
+      "gioco_di_prestigio",
+      "magia",
+      "trucco_illusionistico",
+      "trucco_magico"
+    ]
+  },
+  {
+    "synset": "musical_performance.n.01",
+    "en": [
+      "musical_performance"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "one-night_stand.n.02",
+    "en": [
+      "one-night_stand"
+    ],
+    "fra": [
+      "coucherie",
+      "plan_cul"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "rendition.n.04",
+    "en": [
+      "rendition",
+      "rendering",
+      "interpretation"
+    ],
+    "fra": [
+      "interpr\u00e9tation",
+      "\u00e9quarrissage"
+    ],
+    "spa": [
+      "interpretaci\u00f3n",
+      "versi\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "interpretazione"
+    ]
+  },
+  {
+    "synset": "reinterpretation.n.02",
+    "en": [
+      "reinterpretation"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "spin.n.05",
+    "en": [
+      "spin"
+    ],
+    "fra": [],
+    "spa": [
+      "giro"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "playing.n.01",
+    "en": [
+      "playing"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "bowing.n.02",
+    "en": [
+      "bowing"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "arcata",
+      "archeggio"
+    ]
+  },
+  {
+    "synset": "spiccato.n.01",
+    "en": [
+      "spiccato",
+      "spiccato_bowing"
+    ],
+    "fra": [],
+    "spa": [
+      "spiccato"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "piping.n.03",
+    "en": [
+      "piping"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "stopping.n.02",
+    "en": [
+      "stopping"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "double_stopping.n.01",
+    "en": [
+      "double_stopping"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "transposition.n.07",
+    "en": [
+      "transposition"
+    ],
+    "fra": [
+      "transposition"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "jam_session.n.01",
+    "en": [
+      "jam_session"
+    ],
+    "fra": [
+      "b\u0153uf",
+      "jam_session"
+    ],
+    "spa": [
+      "jam_session"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "automation.n.01",
+    "en": [
+      "automation",
+      "mechanization",
+      "mechanisation"
+    ],
+    "fra": [
+      "automatisation"
+    ],
+    "spa": [
+      "automaci\u00f3n",
+      "mecanizaci\u00f3n",
+      "robotizaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "automaticizzazione",
+      "automatizzazione",
+      "automazione",
+      "meccanizzazione",
+      "robotizzazione"
+    ]
+  },
+  {
+    "synset": "computerization.n.01",
+    "en": [
+      "computerization",
+      "cybernation"
+    ],
+    "fra": [
+      "informatisation"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "motorization.n.01",
+    "en": [
+      "motorization",
+      "motorisation"
+    ],
+    "fra": [
+      "motorisation"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "motorizzazione"
+    ]
+  },
+  {
+    "synset": "launching.n.03",
+    "en": [
+      "launching",
+      "launch"
+    ],
+    "fra": [
+      "lancement"
+    ],
+    "spa": [
+      "lanzamiento"
+    ],
+    "deu": [],
+    "ita": [
+      "getto",
+      "lancio",
+      "tiro"
+    ]
+  },
+  {
+    "synset": "launching.n.01",
+    "en": [
+      "launching"
+    ],
+    "fra": [
+      "lancement"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "varo"
+    ]
+  },
+  {
+    "synset": "rocket_firing.n.01",
+    "en": [
+      "rocket_firing",
+      "rocket_launching"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "blastoff.n.01",
+    "en": [
+      "blastoff",
+      "shot"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "moon_shot.n.01",
+    "en": [
+      "moon_shot"
+    ],
+    "fra": [],
+    "spa": [
+      "lanzamiento_lunar"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "drive.n.01",
+    "en": [
+      "drive",
+      "thrust",
+      "driving_force"
+    ],
+    "fra": [],
+    "spa": [
+      "fuerza"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "firewall.n.01",
+    "en": [
+      "firewall"
+    ],
+    "fra": [
+      "pare-feu"
+    ],
+    "spa": [
+      "m\u00e1xima_aceleraci\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "impulse.n.05",
+    "en": [
+      "impulse",
+      "impulsion",
+      "impetus"
+    ],
+    "fra": [
+      "impulsion",
+      "incitation"
+    ],
+    "spa": [
+      "impulso"
+    ],
+    "deu": [],
+    "ita": [
+      "impulso",
+      "spinta"
+    ]
+  },
+  {
+    "synset": "roll.n.15",
+    "en": [
+      "roll",
+      "bowl"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "throw.n.01",
+    "en": [
+      "throw"
+    ],
+    "fra": [
+      "jet",
+      "jeter"
+    ],
+    "spa": [
+      "lanzamiento"
+    ],
+    "deu": [],
+    "ita": [
+      "gettata",
+      "getto",
+      "lancio",
+      "tiro"
+    ]
+  },
+  {
+    "synset": "bowling.n.02",
+    "en": [
+      "bowling"
+    ],
+    "fra": [
+      "bowling"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "fling.n.03",
+    "en": [
+      "fling"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "heave.n.06",
+    "en": [
+      "heave",
+      "heaving"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "hurl.n.01",
+    "en": [
+      "hurl",
+      "cast"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "leaner.n.01",
+    "en": [
+      "leaner"
+    ],
+    "fra": [],
+    "spa": [
+      "herradura_inclinada"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "pass.n.15",
+    "en": [
+      "pass",
+      "toss",
+      "flip"
+    ],
+    "fra": [],
+    "spa": [
+      "pase"
+    ],
+    "deu": [],
+    "ita": [
+      "allungo",
+      "passaggio"
+    ]
+  },
+  {
+    "synset": "pitch.n.10",
+    "en": [
+      "pitch"
+    ],
+    "fra": [
+      "pas"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "pitch.n.02",
+    "en": [
+      "pitch",
+      "delivery"
+    ],
+    "fra": [
+      "lancer",
+      "pas"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "ringer.n.04",
+    "en": [
+      "ringer"
+    ],
+    "fra": [],
+    "spa": [
+      "encaje"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "shy.n.01",
+    "en": [
+      "shy"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "slinging.n.01",
+    "en": [
+      "slinging"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "throw-in.n.01",
+    "en": [
+      "throw-in"
+    ],
+    "fra": [
+      "remise_en_jeu"
+    ],
+    "spa": [
+      "saque",
+      "saque_de_banda"
+    ],
+    "deu": [],
+    "ita": [
+      "rimessa",
+      "rimessa_in_gioco"
+    ]
+  },
+  {
+    "synset": "balk.n.04",
+    "en": [
+      "balk"
+    ],
+    "fra": [
+      "regimber"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "ball.n.12",
+    "en": [
+      "ball"
+    ],
+    "fra": [
+      "bal",
+      "balle",
+      "ballon",
+      "boule"
+    ],
+    "spa": [
+      "bola"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "beanball.n.01",
+    "en": [
+      "beanball",
+      "beaner"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "change-up.n.01",
+    "en": [
+      "change-up",
+      "change-of-pace",
+      "change-of-pace_ball",
+      "off-speed_pitch"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "curve.n.03",
+    "en": [
+      "curve",
+      "curve_ball",
+      "breaking_ball",
+      "bender"
+    ],
+    "fra": [
+      "courbe"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "palla_curva"
+    ]
+  },
+  {
+    "synset": "duster.n.04",
+    "en": [
+      "duster"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "fastball.n.01",
+    "en": [
+      "fastball",
+      "heater",
+      "smoke",
+      "hummer",
+      "bullet"
+    ],
+    "fra": [
+      "balle",
+      "chauffage",
+      "fumer",
+      "fum\u00e9e",
+      "miracle"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "fastball",
+      "palla_veloce"
+    ]
+  },
+  {
+    "synset": "knuckleball.n.01",
+    "en": [
+      "knuckleball",
+      "knuckler"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "overhand_pitch.n.01",
+    "en": [
+      "overhand_pitch"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "passed_ball.n.01",
+    "en": [
+      "passed_ball"
+    ],
+    "fra": [
+      "balle_pass\u00e9e"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "screwball.n.02",
+    "en": [
+      "screwball"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "sinker.n.03",
+    "en": [
+      "sinker"
+    ],
+    "fra": [],
+    "spa": [
+      "sinker"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "slider.n.04",
+    "en": [
+      "slider"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "spitball.n.02",
+    "en": [
+      "spitball",
+      "spitter"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "strike.n.05",
+    "en": [
+      "strike"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "submarine_ball.n.01",
+    "en": [
+      "submarine_ball",
+      "submarine_pitch"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "wild_pitch.n.01",
+    "en": [
+      "wild_pitch"
+    ],
+    "fra": [
+      "mauvais_lancer"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "basketball_shot.n.01",
+    "en": [
+      "basketball_shot"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "bank_shot.n.01",
+    "en": [
+      "bank_shot"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "dunk.n.01",
+    "en": [
+      "dunk",
+      "dunk_shot",
+      "stuff_shot"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "slam_dunk.n.02",
+    "en": [
+      "slam_dunk"
+    ],
+    "fra": [],
+    "spa": [
+      "mate"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "finger-roll.n.01",
+    "en": [
+      "finger-roll"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "foul_shot.n.01",
+    "en": [
+      "foul_shot",
+      "free_throw",
+      "penalty_free_throw",
+      "charity_toss",
+      "charity_throw",
+      "charity_shot"
+    ],
+    "fra": [
+      "lancer_franc"
+    ],
+    "spa": [
+      "tiro_libre"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "one-and-one.n.01",
+    "en": [
+      "one-and-one"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "hook_shot.n.01",
+    "en": [
+      "hook_shot",
+      "hook"
+    ],
+    "fra": [
+      "hame\u00e7on"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "jumper.n.08",
+    "en": [
+      "jumper",
+      "jump_shot"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "lay-up.n.01",
+    "en": [
+      "lay-up",
+      "layup"
+    ],
+    "fra": [
+      "double-pas"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "pivot_shot.n.01",
+    "en": [
+      "pivot_shot"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "set_shot.n.01",
+    "en": [
+      "set_shot"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "scoop_shot.n.01",
+    "en": [
+      "scoop_shot"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "tip_in.n.01",
+    "en": [
+      "tip_in"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "push.n.01",
+    "en": [
+      "push",
+      "pushing"
+    ],
+    "fra": [
+      "pression"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "spinta"
+    ]
+  },
+  {
+    "synset": "depression.n.10",
+    "en": [
+      "depression"
+    ],
+    "fra": [
+      "bassin",
+      "d\u00e9pression"
+    ],
+    "spa": [
+      "pulsaci\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "click.n.04",
+    "en": [
+      "click",
+      "mouse_click"
+    ],
+    "fra": [
+      "clic",
+      "cliquer"
+    ],
+    "spa": [
+      "clic"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "nudge.n.01",
+    "en": [
+      "nudge",
+      "jog"
+    ],
+    "fra": [
+      "jogger"
+    ],
+    "spa": [
+      "codazo",
+      "empuj\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "press.n.09",
+    "en": [
+      "press",
+      "pressure",
+      "pressing"
+    ],
+    "fra": [
+      "oppression",
+      "presse",
+      "pression"
+    ],
+    "spa": [
+      "prensa",
+      "presi\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "pressione"
+    ]
+  },
+  {
+    "synset": "impression.n.09",
+    "en": [
+      "impression"
+    ],
+    "fra": [
+      "impression"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "shove.n.01",
+    "en": [
+      "shove"
+    ],
+    "fra": [],
+    "spa": [
+      "empuj\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "spinta",
+      "spintone"
+    ]
+  },
+  {
+    "synset": "bundling.n.03",
+    "en": [
+      "bundling"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "jostle.n.01",
+    "en": [
+      "jostle",
+      "jostling"
+    ],
+    "fra": [
+      "bousculer"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "elbowing.n.01",
+    "en": [
+      "elbowing"
+    ],
+    "fra": [],
+    "spa": [
+      "codazo"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "pull.n.01",
+    "en": [
+      "pull",
+      "pulling"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "traino"
+    ]
+  },
+  {
+    "synset": "drag.n.06",
+    "en": [
+      "drag"
+    ],
+    "fra": [
+      "traction"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "draw.n.09",
+    "en": [
+      "draw",
+      "haul",
+      "haulage"
+    ],
+    "fra": [
+      "dessiner",
+      "haler",
+      "marchandise",
+      "traction",
+      "transporteur"
+    ],
+    "spa": [
+      "transporte"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "tow.n.01",
+    "en": [
+      "tow",
+      "towage"
+    ],
+    "fra": [
+      "\u00e9toupe"
+    ],
+    "spa": [
+      "remolque"
+    ],
+    "deu": [],
+    "ita": [
+      "rimorchio"
+    ]
+  },
+  {
+    "synset": "tug.n.01",
+    "en": [
+      "tug",
+      "jerk"
+    ],
+    "fra": [
+      "remorquer"
+    ],
+    "spa": [
+      "tir\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "stratta",
+      "strattonata",
+      "strattone"
+    ]
+  },
+  {
+    "synset": "draft.n.11",
+    "en": [
+      "draft",
+      "draught",
+      "drawing"
+    ],
+    "fra": [
+      "brouillon",
+      "dessin",
+      "gorg\u00e9e"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "extirpation.n.02",
+    "en": [
+      "extirpation",
+      "excision",
+      "deracination"
+    ],
+    "fra": [
+      "extirpation"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "pluck.n.02",
+    "en": [
+      "pluck"
+    ],
+    "fra": [],
+    "spa": [
+      "tir\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "traction.n.02",
+    "en": [
+      "traction"
+    ],
+    "fra": [
+      "traction"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "lift.n.12",
+    "en": [
+      "lift",
+      "raise",
+      "heave"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "elevazione"
+    ]
+  },
+  {
+    "synset": "expulsion.n.03",
+    "en": [
+      "expulsion",
+      "projection",
+      "ejection",
+      "forcing_out"
+    ],
+    "fra": [
+      "\u00e9jection"
+    ],
+    "spa": [
+      "expulsi\u00f3n",
+      "proyecci\u00f3n"
+    ],
+    "deu": [],
+    "ita": [
+      "eiezione",
+      "espulsione"
+    ]
+  },
+  {
+    "synset": "defenestration.n.01",
+    "en": [
+      "defenestration"
+    ],
+    "fra": [
+      "d\u00e9fenestration"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "accommodation_reflex.n.01",
+    "en": [
+      "accommodation_reflex"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "babinski.n.01",
+    "en": [
+      "Babinski",
+      "Babinski_reflex",
+      "Babinski_sign"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "belch.n.01",
+    "en": [
+      "belch",
+      "belching",
+      "burp",
+      "burping",
+      "eructation"
+    ],
+    "fra": [
+      "rot",
+      "roter",
+      "\u00e9ructation"
+    ],
+    "spa": [
+      "eructo"
+    ],
+    "deu": [],
+    "ita": [
+      "eruttamento",
+      "eruttazione",
+      "flato",
+      "rutto"
+    ]
+  },
+  {
+    "synset": "belching.n.01",
+    "en": [
+      "belching"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "blink.n.01",
+    "en": [
+      "blink",
+      "eye_blink",
+      "blinking",
+      "wink",
+      "winking",
+      "nictitation",
+      "nictation"
+    ],
+    "fra": [
+      "ciller"
+    ],
+    "spa": [
+      "gui\u00f1o"
+    ],
+    "deu": [],
+    "ita": [
+      "battito_di_ciglia"
+    ]
+  },
+  {
+    "synset": "blush.n.02",
+    "en": [
+      "blush",
+      "flush"
+    ],
+    "fra": [
+      "rougir"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "coughing_up.n.01",
+    "en": [
+      "coughing_up"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "spit.n.04",
+    "en": [
+      "spit",
+      "spitting",
+      "expectoration"
+    ],
+    "fra": [
+      "cracher",
+      "expectoration"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "vomit.n.03",
+    "en": [
+      "vomit",
+      "vomiting",
+      "emesis",
+      "regurgitation",
+      "disgorgement",
+      "puking"
+    ],
+    "fra": [
+      "emesis",
+      "rendre_gorge",
+      "vomir",
+      "vomissement"
+    ],
+    "spa": [
+      "v\u00f3mito"
+    ],
+    "deu": [],
+    "ita": [
+      "rigurgito",
+      "vomito"
+    ]
+  },
+  {
+    "synset": "rumination.n.03",
+    "en": [
+      "rumination"
+    ],
+    "fra": [
+      "rumination"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "hematemesis.n.01",
+    "en": [
+      "hematemesis",
+      "haematemesis"
+    ],
+    "fra": [
+      "h\u00e9mat\u00e9m\u00e8se"
+    ],
+    "spa": [
+      "hematemesis"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "hyperemesis.n.01",
+    "en": [
+      "hyperemesis"
+    ],
+    "fra": [],
+    "spa": [
+      "hiperemesis"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "hyperemesis_gravidarum.n.01",
+    "en": [
+      "hyperemesis_gravidarum"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "jump.n.06",
+    "en": [
+      "jump",
+      "jumping"
+    ],
+    "fra": [
+      "saut"
+    ],
+    "spa": [
+      "salto"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "header.n.07",
+    "en": [
+      "header"
+    ],
+    "fra": [],
+    "spa": [
+      "salto_de_cabeza"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "hop.n.01",
+    "en": [
+      "hop"
+    ],
+    "fra": [
+      "houblon"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "saltello"
+    ]
+  },
+  {
+    "synset": "leap.n.01",
+    "en": [
+      "leap",
+      "leaping",
+      "spring",
+      "saltation",
+      "bound",
+      "bounce"
+    ],
+    "fra": [
+      "bond",
+      "borne",
+      "limite",
+      "saut",
+      "sauter"
+    ],
+    "spa": [
+      "salto"
+    ],
+    "deu": [],
+    "ita": [
+      "balzo",
+      "guizzo",
+      "slancio"
+    ]
+  },
+  {
+    "synset": "vault.n.04",
+    "en": [
+      "vault",
+      "hurdle"
+    ],
+    "fra": [
+      "obstacle",
+      "vo\u00fbte"
+    ],
+    "spa": [
+      "salto"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "jumping_up_and_down.n.01",
+    "en": [
+      "jumping_up_and_down"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "lob.n.02",
+    "en": [
+      "lob"
+    ],
+    "fra": [
+      "lob"
+    ],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "pallonetto"
+    ]
+  },
+  {
+    "synset": "centering.n.02",
+    "en": [
+      "centering",
+      "snap"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "sending.n.01",
+    "en": [
+      "sending"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "invio"
+    ]
+  },
+  {
+    "synset": "transmission.n.01",
+    "en": [
+      "transmission",
+      "transmittal",
+      "transmitting"
+    ],
+    "fra": [
+      "transmission"
+    ],
+    "spa": [
+      "transmisi\u00f3n"
+    ],
+    "deu": [],
+    "ita": []
+  },
+  {
+    "synset": "forwarding.n.01",
+    "en": [
+      "forwarding"
+    ],
+    "fra": [],
+    "spa": [],
+    "deu": [],
+    "ita": [
+      "spedizione"
+    ]
+  }
+]

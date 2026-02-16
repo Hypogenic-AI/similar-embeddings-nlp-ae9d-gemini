@@ -1,0 +1,19 @@
+\section{Introduction}
+\label{sec:intro}
+
+The promise of Multilingual Large Language Models (MLLMs) lies in their ability to map words and concepts from diverse languages into a shared, universal semantic space. If this mapping is perfect, a word in English and its translation in French should occupy the exact same point in the vector space, enabling zero-shot cross-lingual transfer \cite{wu2019emerging, conneau2019unsupervised}. This ideal, often termed ``cross-lingual alignment'' or ``isomorphism,'' suggests that the geometry of meaning is universal. {\bf But what happens when words have multiple meanings?} In reality, lexical structures rarely map one-to-one. The English word ``bank'' refers to both a financial institution and a river edge, while its French translation ``banque'' shares only the financial sense.
+
+Understanding the fidelity of this shared space is critical. As MLLMs are increasingly deployed for cross-lingual retrieval and reasoning, we must understand the limits of their internal representations. If polysemy distorts embedding alignment, it introduces a fundamental noise floor for cross-lingual tasks. While recent work has confirmed that brains and language models converge on shared conceptual spaces \cite{zada2025brains}, and that linear alignments are possible \cite{peng2024concept}, these studies often aggregate over large vocabularies, masking the granular impact of lexical ambiguity.
+
+There is a gap in understanding the specific mechanics of this misalignment. Prior work acknowledges that non-isomorphism exists \cite{zhang2019girls}, typically attributing it to frequency differences or typological divergence. However, the systematic ``pull'' of non-shared meanings---the semantic interference caused by polysemy---has not been quantified. We lack a clear measure of how much a secondary, unshared meaning dilutes the primary semantic signal in the embedding space.
+
+We propose to quantify this phenomenon by correlating embedding similarity with a rigorous measure of ``non-shared senses'' derived from the Open Multilingual WordNet (OMW) \cite{bond2012survey}. We hypothesize that polysemy acts as a vector force: each distinct meaning pulls the embedding in a different direction. When a translation pair shares only one of these meanings, the non-shared senses act as noise, dragging the vectors apart. We test this on English-French and English-Spanish pairs using the \fullmodelname model \cite{reimers2019sentence}.
+
+Our experiments reveal a robust ``semantic interference'' effect. We find that while monosemous words (one shared meaning) achieve a high cosine similarity of 	extbf{0.82}, this drops as the number of non-shared senses increases. Specifically, we observe a statistically significant negative correlation of $ho = \mathbf{-0.125}$ ($p=0.01$). This confirms that polysemy is a measurable drag on alignment. However, we also find the system is surprisingly resilient: even highly polysemous words maintain a similarity far above the random baseline of 0.37, indicating that the shared concept remains the dominant principal component of the representation.
+
+Our contributions are:
+\begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
+    \item We 	extbf{quantify} the impact of polysemy on cross-lingual embedding alignment, introducing a ``non-shared sense'' metric.
+    \item We 	extbf{demonstrate} a statistically significant negative correlation between polysemy and embedding similarity in modern MLLMs.
+    \item We 	extbf{reveal} that despite this interference, shared meanings remain the dominant signal, with embeddings showing resilience against semantic dilution.
+\end{itemize}

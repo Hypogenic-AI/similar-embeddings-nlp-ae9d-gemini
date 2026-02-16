@@ -1,0 +1,13 @@
+\section{Discussion}
+\label{sec:discussion}
+
+Our results provide empirical evidence for ``semantic interference'' in multilingual embeddings. The negative correlation between non-shared senses and cosine similarity confirms that polysemy is not merely a linguistic curiosity but a quantifiable geometric force.
+
+\para{The "Pull" of Polysemy.}
+We model this interference as a vector addition problem. If a word's embedding is the centroid of its meanings, then adding a non-shared meaning shifts this centroid away from the shared intersection. Our finding of $ho = -0.125$ validates this model: the more non-shared meanings, the further the shift.
+
+\para{Robustness of Shared Signal.}
+Despite this interference, the most striking finding is the resilience of the shared signal. Even for words with significant polysemy (3+ non-shared senses), the similarity rarely drops below 0.5, remaining well above the random baseline of 0.37. This suggests that the shared core meaning---often the most frequent or dominant sense---anchors the embedding. The ``pull'' of secondary meanings is real, but it is insufficient to break the alignment.
+
+\para{Limitations.}
+Our study relies on the Open Multilingual WordNet, which, while high-quality, has limited coverage compared to the full English WordNet. This restricts our sample size. Additionally, we use static embeddings from a Transformer model; contextualized embeddings (BERT/RoBERTa) likely resolve much of this ambiguity dynamically, a direction we leave for future work.
